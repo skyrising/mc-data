@@ -1,0 +1,13 @@
+{
+  "id": "rd-132211",
+  "type": "old_alpha",
+  "releaseTime": "2009-05-13T20:11:00+00:00",
+  "url": "https://launchermeta.mojang.com/v1/packages/8b6e0c4f183ffb61b6a0c818787b0499b315123e/rd-132211.json",
+  "downloads": {
+    "client": {
+      "sha1": "393e8d4b4d708587e2accd7c5221db65365e1075",
+      "size": 26704,
+      "url": "https://launcher.mojang.com/v1/objects/393e8d4b4d708587e2accd7c5221db65365e1075/client.jar"
+    }
+  }
+}
