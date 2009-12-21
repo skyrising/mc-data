@@ -1,0 +1,8 @@
+PK: . net/minecraft/src
+PK: net net
+PK: net/minecraft net/minecraft
+PK: net/minecraft/client net/minecraft/client
+PK: net/minecraft/client/main net/minecraft/client/main
+PK: net/minecraft/data net/minecraft/data
+PK: net/minecraft/realms net/minecraft/realms
+PK: net/minecraft/server net/minecraft/server
