@@ -1,0 +1,6 @@
+graph g {
+  fontname="sans-serif";
+
+  overlap=false;
+
+}
