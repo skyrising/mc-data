@@ -1,0 +1,18 @@
+{
+  "air": {},
+  "bedrock": {},
+  "cobblestone": {},
+  "dirt": {},
+  "flowing_water": {
+    "class": "net.minecraft.block.Bedrock"
+  },
+  "grass": {},
+  "planks": {},
+  "sapling": {},
+  "stone": {},
+  "stonebrick": {},
+  "water": {
+    "class": "net.minecraft.block.Liquid"
+  },
+  "wood": {}
+}
