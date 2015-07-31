@@ -42,7 +42,7 @@
       }
     ]
   },
-  "long_fire_refistance": {
+  "long_fire_resistance": {
     "base": "fire_resistance",
     "effects": [
       {
