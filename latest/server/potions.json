@@ -83,7 +83,7 @@
     "effects": [
       {
         "id": "poison",
-        "duration": 2400
+        "duration": 1800
       }
     ]
   },
@@ -92,7 +92,7 @@
     "effects": [
       {
         "id": "regeneration",
-        "duration": 2400
+        "duration": 1800
       }
     ]
   },
@@ -219,7 +219,7 @@
     "effects": [
       {
         "id": "poison",
-        "duration": 450,
+        "duration": 432,
         "amplifier": 1
       }
     ]
