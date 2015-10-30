@@ -2,6 +2,9 @@
   "awkward": {
     "effects": []
   },
+  "empty": {
+    "effects": []
+  },
   "fire_resistance": {
     "effects": [
       {
@@ -138,6 +141,15 @@
       {
         "id": "weakness",
         "duration": 4800
+      }
+    ]
+  },
+  "luck": {
+    "base": "luck",
+    "effects": [
+      {
+        "id": "luck",
+        "duration": 6000
       }
     ]
   },
