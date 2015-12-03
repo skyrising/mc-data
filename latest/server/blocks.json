@@ -4,7 +4,7 @@
   "cobblestone": {},
   "dirt": {},
   "flowing_water": {
-    "class": "net.minecraft.block.Bedrock"
+    "class": "net.minecraft.block.BlockFlowing"
   },
   "grass": {},
   "planks": {},
@@ -12,7 +12,7 @@
   "stone": {},
   "stonebrick": {},
   "water": {
-    "class": "net.minecraft.block.Liquid"
+    "class": "net.minecraft.block.BlockLiquid"
   },
   "wood": {}
 }
