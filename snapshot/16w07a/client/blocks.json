@@ -1,0 +1,14 @@
+{
+  "air": {},
+  "bedrock": {
+    "class": "net.minecraft.block.Bedrock"
+  },
+  "cobblestone": {},
+  "dirt": {},
+  "grass": {},
+  "planks": {},
+  "sapling": {},
+  "stone": {},
+  "stonebrick": {},
+  "wood": {}
+}
