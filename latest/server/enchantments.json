@@ -1,6 +1,7 @@
 {
   "aqua_affinity": {},
   "bane_of_arthropods": {},
+  "binding_curse": {},
   "blast_protection": {},
   "depth_strider": {},
   "efficiency": {},
@@ -25,5 +26,6 @@
   "silk_touch": {},
   "smite": {},
   "thorns": {},
-  "unbreaking": {}
+  "unbreaking": {},
+  "vanishing_curse": {}
 }
