@@ -172,7 +172,7 @@
     "class": "net.minecraft.block.Block"
   },
   "bone_block": {
-    "class": "asi"
+    "class": "asj"
   },
   "bookshelf": {
     "class": "net.minecraft.block.Bookshelf"
@@ -462,10 +462,10 @@
     "class": "net.minecraft.block.FlowerPot"
   },
   "flowing_lava": {
-    "class": "atp"
+    "class": "atq"
   },
   "flowing_water": {
-    "class": "atp"
+    "class": "atq"
   },
   "frosted_ice": {
     "class": "net.minecraft.block.FrostedIce"
@@ -570,9 +570,6 @@
   },
   "green_wool": {
     "class": "net.minecraft.block.Block"
-  },
-  "hardened_clay": {
-    "class": "aup"
   },
   "hay_block": {
     "class": "net.minecraft.block.HayBlock"
@@ -1370,6 +1367,9 @@
   },
   "tall_grass": {
     "class": "net.minecraft.block.TallGrass"
+  },
+  "terracotta": {
+    "class": "axs"
   },
   "tnt": {
     "class": "net.minecraft.block.Tnt"
