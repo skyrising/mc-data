@@ -18,7 +18,7 @@
     "class": "net.minecraft.block.Leaves"
   },
   "acacia_log": {
-    "class": "axf"
+    "class": "axj"
   },
   "acacia_planks": {
     "class": "net.minecraft.entity.item.FishingBobber"
@@ -30,7 +30,7 @@
     "class": "net.minecraft.entity.item.FishingBobber"
   },
   "acacia_slab": {
-    "class": "ayt"
+    "class": "ayx"
   },
   "acacia_stairs": {
     "class": "net.minecraft.block.Stairs"
@@ -90,7 +90,7 @@
     "class": "net.minecraft.block.Leaves"
   },
   "birch_log": {
-    "class": "axf"
+    "class": "axj"
   },
   "birch_planks": {
     "class": "net.minecraft.entity.item.FishingBobber"
@@ -102,7 +102,7 @@
     "class": "net.minecraft.entity.item.FishingBobber"
   },
   "birch_slab": {
-    "class": "ayt"
+    "class": "ayx"
   },
   "birch_stairs": {
     "class": "net.minecraft.block.Stairs"
@@ -129,7 +129,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "black_shulker_box": {
-    "class": "ayq"
+    "class": "ayu"
   },
   "black_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -168,7 +168,7 @@
     "class": "net.minecraft.entity.item.FishingBobber"
   },
   "blue_shulker_box": {
-    "class": "ayq"
+    "class": "ayu"
   },
   "blue_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -186,7 +186,7 @@
     "class": "net.minecraft.block.Block"
   },
   "bone_block": {
-    "class": "ayk"
+    "class": "ayo"
   },
   "bookshelf": {
     "class": "net.minecraft.block.Bookshelf"
@@ -195,7 +195,7 @@
     "class": "net.minecraft.block.BrewingStand"
   },
   "brick_slab": {
-    "class": "ayt"
+    "class": "ayx"
   },
   "brick_stairs": {
     "class": "net.minecraft.block.Stairs"
@@ -228,7 +228,7 @@
     "class": "net.minecraft.entity.item.FishingBobber"
   },
   "brown_shulker_box": {
-    "class": "ayq"
+    "class": "ayu"
   },
   "brown_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -303,7 +303,7 @@
     "class": "net.minecraft.entity.item.FishingBobber"
   },
   "cobblestone_slab": {
-    "class": "ayt"
+    "class": "ayx"
   },
   "cobblestone_stairs": {
     "class": "net.minecraft.block.Stairs"
@@ -360,7 +360,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "cyan_shulker_box": {
-    "class": "ayq"
+    "class": "ayu"
   },
   "cyan_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -402,7 +402,7 @@
     "class": "net.minecraft.block.Leaves"
   },
   "dark_oak_log": {
-    "class": "axf"
+    "class": "axj"
   },
   "dark_oak_planks": {
     "class": "net.minecraft.entity.item.FishingBobber"
@@ -414,7 +414,7 @@
     "class": "net.minecraft.entity.item.FishingBobber"
   },
   "dark_oak_slab": {
-    "class": "ayt"
+    "class": "ayx"
   },
   "dark_oak_stairs": {
     "class": "net.minecraft.block.Stairs"
@@ -504,10 +504,10 @@
     "class": "net.minecraft.block.FlowerPot"
   },
   "flowing_lava": {
-    "class": "avs"
+    "class": "avw"
   },
   "flowing_water": {
-    "class": "avs"
+    "class": "avw"
   },
   "frosted_ice": {
     "class": "net.minecraft.block.FrostedIce"
@@ -564,7 +564,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "gray_shulker_box": {
-    "class": "ayq"
+    "class": "ayu"
   },
   "gray_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -600,7 +600,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "green_shulker_box": {
-    "class": "ayq"
+    "class": "ayu"
   },
   "green_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -687,7 +687,7 @@
     "class": "net.minecraft.block.Leaves"
   },
   "jungle_log": {
-    "class": "axf"
+    "class": "axj"
   },
   "jungle_planks": {
     "class": "net.minecraft.entity.item.FishingBobber"
@@ -699,7 +699,7 @@
     "class": "net.minecraft.entity.item.FishingBobber"
   },
   "jungle_slab": {
-    "class": "ayt"
+    "class": "ayx"
   },
   "jungle_stairs": {
     "class": "net.minecraft.block.Stairs"
@@ -744,7 +744,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "light_blue_shulker_box": {
-    "class": "ayq"
+    "class": "ayu"
   },
   "light_blue_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -780,7 +780,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "light_gray_shulker_box": {
-    "class": "ayq"
+    "class": "ayu"
   },
   "light_gray_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -825,7 +825,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "lime_shulker_box": {
-    "class": "ayq"
+    "class": "ayu"
   },
   "lime_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -861,7 +861,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "magenta_shulker_box": {
-    "class": "ayq"
+    "class": "ayu"
   },
   "magenta_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -888,7 +888,7 @@
     "class": "net.minecraft.block.Stem"
   },
   "mob_spawner": {
-    "class": "axj"
+    "class": "axn"
   },
   "mossy_cobblestone": {
     "class": "net.minecraft.block.Block"
@@ -912,7 +912,7 @@
     "class": "net.minecraft.block.Fence"
   },
   "nether_brick_slab": {
-    "class": "ayt"
+    "class": "ayx"
   },
   "nether_brick_stairs": {
     "class": "net.minecraft.block.Stairs"
@@ -954,7 +954,7 @@
     "class": "net.minecraft.block.Leaves"
   },
   "oak_log": {
-    "class": "axf"
+    "class": "axj"
   },
   "oak_planks": {
     "class": "net.minecraft.entity.item.FishingBobber"
@@ -966,7 +966,7 @@
     "class": "net.minecraft.entity.item.FishingBobber"
   },
   "oak_slab": {
-    "class": "ayt"
+    "class": "ayx"
   },
   "oak_stairs": {
     "class": "net.minecraft.block.Stairs"
@@ -999,7 +999,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "orange_shulker_box": {
-    "class": "ayq"
+    "class": "ayu"
   },
   "orange_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -1029,7 +1029,7 @@
     "class": "net.minecraft.block.TallFlower"
   },
   "petrified_oak_slab": {
-    "class": "ayt"
+    "class": "ayx"
   },
   "pink_banner": {
     "class": "net.minecraft.block.StandingBanner"
@@ -1050,7 +1050,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "pink_shulker_box": {
-    "class": "ayq"
+    "class": "ayu"
   },
   "pink_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -1098,7 +1098,7 @@
     "class": "net.minecraft.entity.item.FishingBobber"
   },
   "portal": {
-    "class": "axv"
+    "class": "axz"
   },
   "potatoes": {
     "class": "net.minecraft.block.Potatoes"
@@ -1200,7 +1200,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "purple_shulker_box": {
-    "class": "ayq"
+    "class": "ayu"
   },
   "purple_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -1221,10 +1221,10 @@
     "class": "net.minecraft.entity.item.FishingBobber"
   },
   "purpur_pillar": {
-    "class": "ayk"
+    "class": "ayo"
   },
   "purpur_slab": {
-    "class": "ayt"
+    "class": "ayx"
   },
   "purpur_stairs": {
     "class": "net.minecraft.block.Stairs"
@@ -1233,10 +1233,10 @@
     "class": "net.minecraft.entity.item.FishingBobber"
   },
   "quartz_pillar": {
-    "class": "ayk"
+    "class": "ayo"
   },
   "quartz_slab": {
-    "class": "ayt"
+    "class": "ayx"
   },
   "quartz_stairs": {
     "class": "net.minecraft.block.Stairs"
@@ -1278,13 +1278,13 @@
     "class": "net.minecraft.entity.item.FishingBobber"
   },
   "red_sandstone_slab": {
-    "class": "ayt"
+    "class": "ayx"
   },
   "red_sandstone_stairs": {
     "class": "net.minecraft.block.Stairs"
   },
   "red_shulker_box": {
-    "class": "ayq"
+    "class": "ayu"
   },
   "red_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -1338,7 +1338,7 @@
     "class": "net.minecraft.entity.item.FishingBobber"
   },
   "sandstone_slab": {
-    "class": "ayt"
+    "class": "ayx"
   },
   "sandstone_stairs": {
     "class": "net.minecraft.block.Stairs"
@@ -1401,7 +1401,7 @@
     "class": "net.minecraft.block.Leaves"
   },
   "spruce_log": {
-    "class": "axf"
+    "class": "axj"
   },
   "spruce_planks": {
     "class": "net.minecraft.entity.item.FishingBobber"
@@ -1413,7 +1413,7 @@
     "class": "net.minecraft.entity.item.FishingBobber"
   },
   "spruce_slab": {
-    "class": "ayt"
+    "class": "ayx"
   },
   "spruce_stairs": {
     "class": "net.minecraft.block.Stairs"
@@ -1428,7 +1428,7 @@
     "class": "net.minecraft.entity.item.FishingBobber"
   },
   "stone_brick_slab": {
-    "class": "ayt"
+    "class": "ayx"
   },
   "stone_brick_stairs": {
     "class": "net.minecraft.block.Stairs"
@@ -1443,7 +1443,7 @@
     "class": "net.minecraft.block.PressurePlate"
   },
   "stone_slab": {
-    "class": "ayt"
+    "class": "ayx"
   },
   "structure_block": {
     "class": "net.minecraft.block.StructureBlock"
@@ -1515,7 +1515,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "white_shulker_box": {
-    "class": "ayq"
+    "class": "ayu"
   },
   "white_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -1560,7 +1560,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "yellow_shulker_box": {
-    "class": "ayq"
+    "class": "ayu"
   },
   "yellow_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
