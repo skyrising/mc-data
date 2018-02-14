@@ -126,6 +126,21 @@
       }
     ]
   },
+  "long_turtle_master": {
+    "base": "turtle_master",
+    "effects": [
+      {
+        "id": "slowness",
+        "duration": 3600,
+        "amplifier": 3
+      },
+      {
+        "id": "resistance",
+        "duration": 3600,
+        "amplifier": 3
+      }
+    ]
+  },
   "long_water_breathing": {
     "base": "water_breathing",
     "effects": [
@@ -246,6 +261,16 @@
       }
     ]
   },
+  "strong_slowness": {
+    "base": "slowness",
+    "effects": [
+      {
+        "id": "slowness",
+        "duration": 200,
+        "amplifier": 4
+      }
+    ]
+  },
   "strong_strength": {
     "base": "strength",
     "effects": [
@@ -266,6 +291,21 @@
       }
     ]
   },
+  "strong_turtle_master": {
+    "base": "turtle_master",
+    "effects": [
+      {
+        "id": "slowness",
+        "duration": 1200,
+        "amplifier": 5
+      },
+      {
+        "id": "resistance",
+        "duration": 1200,
+        "amplifier": 5
+      }
+    ]
+  },
   "swiftness": {
     "effects": [
       {
@@ -276,6 +316,21 @@
   },
   "thick": {
     "effects": []
+  },
+  "turtle_master": {
+    "base": "turtle_master",
+    "effects": [
+      {
+        "id": "slowness",
+        "duration": 1200,
+        "amplifier": 3
+      },
+      {
+        "id": "resistance",
+        "duration": 1200,
+        "amplifier": 3
+      }
+    ]
   },
   "water": {
     "effects": []

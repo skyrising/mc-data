@@ -195,6 +195,10 @@
     "name": "Parrot",
     "class": "net.minecraft.entity.passive.Parrot"
   },
+  "phantom": {
+    "name": "Phantom",
+    "class": "net.minecraft.entity.monster.Phantom"
+  },
   "pig": {
     "name": "Pig",
     "class": "net.minecraft.entity.passive.Pig"
@@ -282,6 +286,14 @@
   "tnt_minecart": {
     "name": "TntMinecart",
     "class": "net.minecraft.entity.TntMinecart"
+  },
+  "trident": {
+    "name": "Trident",
+    "class": "net.minecraft.entity.projectile.Trident"
+  },
+  "turtle": {
+    "name": "Turtle",
+    "class": "net.minecraft.entity.passive.Turtle"
   },
   "vex": {
     "name": "Vex",
