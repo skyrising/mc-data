@@ -115,7 +115,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "black_shulker_box": {
-    "class": "bcf"
+    "class": "bbz"
   },
   "black_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -150,7 +150,7 @@
   },
   "blue_orchid": {},
   "blue_shulker_box": {
-    "class": "bcf"
+    "class": "bbz"
   },
   "blue_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -168,7 +168,7 @@
     "class": "net.minecraft.block.Block"
   },
   "bone_block": {
-    "class": "bby"
+    "class": "bbs"
   },
   "bookshelf": {
     "class": "net.minecraft.block.Bookshelf"
@@ -202,7 +202,7 @@
   "brown_mushroom": {},
   "brown_mushroom_block": {},
   "brown_shulker_box": {
-    "class": "bcf"
+    "class": "bbz"
   },
   "brown_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -220,7 +220,7 @@
     "class": "net.minecraft.block.Block"
   },
   "bubble_column": {
-    "class": "net.minecraft.block.BlockBubbleColumn"
+    "class": "net.minecraft.block.BubbleColumn"
   },
   "cactus": {},
   "cake": {
@@ -328,7 +328,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "cyan_shulker_box": {
-    "class": "bcf"
+    "class": "bbz"
   },
   "cyan_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -467,10 +467,10 @@
     "class": "net.minecraft.block.FlowerPot"
   },
   "flowing_lava": {
-    "class": "aze"
+    "class": "ayy"
   },
   "flowing_water": {
-    "class": "aze"
+    "class": "ayy"
   },
   "frosted_ice": {
     "class": "net.minecraft.block.FrostedIce"
@@ -521,7 +521,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "gray_shulker_box": {
-    "class": "bcf"
+    "class": "bbz"
   },
   "gray_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -555,7 +555,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "green_shulker_box": {
-    "class": "bcf"
+    "class": "bbz"
   },
   "green_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -659,10 +659,10 @@
     "class": "net.minecraft.block.Trapdoor"
   },
   "kelp": {
-    "class": "bam"
+    "class": "bag"
   },
   "kelp_top": {
-    "class": "ban"
+    "class": "bah"
   },
   "ladder": {
     "class": "net.minecraft.block.Ladder"
@@ -699,7 +699,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "light_blue_shulker_box": {
-    "class": "bcf"
+    "class": "bbz"
   },
   "light_blue_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -733,7 +733,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "light_gray_shulker_box": {
-    "class": "bcf"
+    "class": "bbz"
   },
   "light_gray_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -776,7 +776,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "lime_shulker_box": {
-    "class": "bcf"
+    "class": "bbz"
   },
   "lime_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -810,7 +810,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "magenta_shulker_box": {
-    "class": "bcf"
+    "class": "bbz"
   },
   "magenta_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -835,7 +835,7 @@
     "class": "net.minecraft.block.Stem"
   },
   "mob_spawner": {
-    "class": "bax"
+    "class": "bar"
   },
   "mossy_cobblestone": {
     "class": "net.minecraft.block.Block"
@@ -936,7 +936,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "orange_shulker_box": {
-    "class": "bcf"
+    "class": "bbz"
   },
   "orange_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -981,7 +981,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "pink_shulker_box": {
-    "class": "bcf"
+    "class": "bbz"
   },
   "pink_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -1025,7 +1025,7 @@
   },
   "poppy": {},
   "portal": {
-    "class": "bbj"
+    "class": "bbd"
   },
   "potatoes": {
     "class": "net.minecraft.block.Potatoes"
@@ -1131,7 +1131,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "purple_shulker_box": {
-    "class": "bcf"
+    "class": "bbz"
   },
   "purple_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -1150,7 +1150,7 @@
   },
   "purpur_block": {},
   "purpur_pillar": {
-    "class": "bby"
+    "class": "bbs"
   },
   "purpur_slab": {
     "class": "net.minecraft.block.Slab"
@@ -1160,7 +1160,7 @@
   },
   "quartz_block": {},
   "quartz_pillar": {
-    "class": "bby"
+    "class": "bbs"
   },
   "quartz_slab": {
     "class": "net.minecraft.block.Slab"
@@ -1203,7 +1203,7 @@
     "class": "net.minecraft.block.Stairs"
   },
   "red_shulker_box": {
-    "class": "bcf"
+    "class": "bbz"
   },
   "red_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -1387,7 +1387,7 @@
     "class": "net.minecraft.block.TallGrass"
   },
   "tall_sea_grass": {
-    "class": "bdf"
+    "class": "bcz"
   },
   "terracotta": {
     "class": "net.minecraft.block.Block"
@@ -1446,7 +1446,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "white_shulker_box": {
-    "class": "bcf"
+    "class": "bbz"
   },
   "white_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -1487,7 +1487,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "yellow_shulker_box": {
-    "class": "bcf"
+    "class": "bbz"
   },
   "yellow_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
