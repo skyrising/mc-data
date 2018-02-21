@@ -3,6 +3,8 @@
   "birch_forest": {},
   "birch_forest_hills": {},
   "cold_beach": {},
+  "cold_deep_ocean": {},
+  "cold_ocean": {},
   "deep_ocean": {},
   "desert": {},
   "desert_hills": {},
@@ -10,6 +12,7 @@
   "extreme_hills_with_trees": {},
   "forest": {},
   "forest_hills": {},
+  "frozen_deep_ocean": {},
   "frozen_ocean": {},
   "frozen_river": {},
   "hell": {},
@@ -18,6 +21,8 @@
   "jungle": {},
   "jungle_edge": {},
   "jungle_hills": {},
+  "lukewarm_deep_ocean": {},
+  "lukewarm_ocean": {},
   "mesa": {},
   "mesa_clear_rock": {},
   "mesa_rock": {},
@@ -64,5 +69,7 @@
   "taiga_cold": {},
   "taiga_cold_hills": {},
   "taiga_hills": {},
-  "void": {}
+  "void": {},
+  "warm_deep_ocean": {},
+  "warm_ocean": {}
 }
