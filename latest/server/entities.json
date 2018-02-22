@@ -35,6 +35,10 @@
     "name": "Chicken",
     "class": "net.minecraft.entity.passive.Chicken"
   },
+  "cod_mob": {
+    "name": "CodMob",
+    "class": "net.minecraft.entity.CodMob"
+  },
   "commandblock_minecart": {
     "name": "CommandblockMinecart",
     "class": "net.minecraft.entity.item.CommandblockMinecart"
@@ -215,9 +219,17 @@
     "name": "ThrownPotion",
     "class": "net.minecraft.entity.projectile.ThrownPotion"
   },
+  "puffer_fish": {
+    "name": "PufferFish",
+    "class": "net.minecraft.entity.PufferFish"
+  },
   "rabbit": {
     "name": "Rabbit",
     "class": "net.minecraft.entity.passive.Rabbit"
+  },
+  "salmon_mob": {
+    "name": "SalmonMob",
+    "class": "net.minecraft.entity.SalmonMob"
   },
   "sheep": {
     "name": "Sheep",
