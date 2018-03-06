@@ -303,6 +303,10 @@
     "name": "Trident",
     "class": "net.minecraft.entity.projectile.Trident"
   },
+  "tropical_fish": {
+    "name": "TropicalFish",
+    "class": "net.minecraft.entity.water.TropicalFish"
+  },
   "turtle": {
     "name": "Turtle",
     "class": "net.minecraft.entity.passive.Turtle"

@@ -115,7 +115,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "black_shulker_box": {
-    "class": "bcq"
+    "class": "bcx"
   },
   "black_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -146,14 +146,17 @@
     "class": "net.minecraft.block.ConcretePowder"
   },
   "blue_coral": {
-    "class": "azb"
+    "class": "azh"
+  },
+  "blue_coral_plant": {
+    "class": "azi"
   },
   "blue_glazed_terracotta": {
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "blue_orchid": {},
   "blue_shulker_box": {
-    "class": "bcq"
+    "class": "bcx"
   },
   "blue_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -171,7 +174,7 @@
     "class": "net.minecraft.block.Block"
   },
   "bone_block": {
-    "class": "bcj"
+    "class": "bcq"
   },
   "bookshelf": {
     "class": "net.minecraft.block.Bookshelf"
@@ -205,7 +208,7 @@
   "brown_mushroom": {},
   "brown_mushroom_block": {},
   "brown_shulker_box": {
-    "class": "bcq"
+    "class": "bcx"
   },
   "brown_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -331,7 +334,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "cyan_shulker_box": {
-    "class": "bcq"
+    "class": "bcx"
   },
   "cyan_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -473,10 +476,10 @@
     "class": "net.minecraft.block.FlowerPot"
   },
   "flowing_lava": {
-    "class": "azp"
+    "class": "azw"
   },
   "flowing_water": {
-    "class": "azp"
+    "class": "azw"
   },
   "frosted_ice": {
     "class": "net.minecraft.block.FrostedIce"
@@ -527,7 +530,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "gray_shulker_box": {
-    "class": "bcq"
+    "class": "bcx"
   },
   "gray_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -561,7 +564,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "green_shulker_box": {
-    "class": "bcq"
+    "class": "bcx"
   },
   "green_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -665,10 +668,10 @@
     "class": "net.minecraft.block.Trapdoor"
   },
   "kelp": {
-    "class": "bax"
+    "class": "bbe"
   },
   "kelp_top": {
-    "class": "bay"
+    "class": "bbf"
   },
   "ladder": {
     "class": "net.minecraft.block.Ladder"
@@ -705,7 +708,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "light_blue_shulker_box": {
-    "class": "bcq"
+    "class": "bcx"
   },
   "light_blue_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -739,7 +742,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "light_gray_shulker_box": {
-    "class": "bcq"
+    "class": "bcx"
   },
   "light_gray_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -782,7 +785,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "lime_shulker_box": {
-    "class": "bcq"
+    "class": "bcx"
   },
   "lime_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -816,7 +819,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "magenta_shulker_box": {
-    "class": "bcq"
+    "class": "bcx"
   },
   "magenta_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -841,7 +844,7 @@
     "class": "net.minecraft.block.Stem"
   },
   "mob_spawner": {
-    "class": "bbi"
+    "class": "bbp"
   },
   "mossy_cobblestone": {
     "class": "net.minecraft.block.Block"
@@ -942,7 +945,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "orange_shulker_box": {
-    "class": "bcq"
+    "class": "bcx"
   },
   "orange_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -984,13 +987,16 @@
     "class": "net.minecraft.block.ConcretePowder"
   },
   "pink_coral": {
-    "class": "azb"
+    "class": "azh"
+  },
+  "pink_coral_plant": {
+    "class": "azi"
   },
   "pink_glazed_terracotta": {
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "pink_shulker_box": {
-    "class": "bcq"
+    "class": "bcx"
   },
   "pink_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -1034,7 +1040,7 @@
   },
   "poppy": {},
   "portal": {
-    "class": "bbu"
+    "class": "bcb"
   },
   "potatoes": {
     "class": "net.minecraft.block.Potatoes"
@@ -1137,13 +1143,16 @@
     "class": "net.minecraft.block.ConcretePowder"
   },
   "purple_coral": {
-    "class": "azb"
+    "class": "azh"
+  },
+  "purple_coral_plant": {
+    "class": "azi"
   },
   "purple_glazed_terracotta": {
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "purple_shulker_box": {
-    "class": "bcq"
+    "class": "bcx"
   },
   "purple_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -1162,7 +1171,7 @@
   },
   "purpur_block": {},
   "purpur_pillar": {
-    "class": "bcj"
+    "class": "bcq"
   },
   "purpur_slab": {
     "class": "net.minecraft.block.Slab"
@@ -1172,7 +1181,7 @@
   },
   "quartz_block": {},
   "quartz_pillar": {
-    "class": "bcj"
+    "class": "bcq"
   },
   "quartz_slab": {
     "class": "net.minecraft.block.Slab"
@@ -1197,7 +1206,10 @@
     "class": "net.minecraft.block.ConcretePowder"
   },
   "red_coral": {
-    "class": "azb"
+    "class": "azh"
+  },
+  "red_coral_plant": {
+    "class": "azi"
   },
   "red_glazed_terracotta": {
     "class": "net.minecraft.block.GlazedTerracotta"
@@ -1218,7 +1230,7 @@
     "class": "net.minecraft.block.Stairs"
   },
   "red_shulker_box": {
-    "class": "bcq"
+    "class": "bcx"
   },
   "red_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -1402,7 +1414,7 @@
     "class": "net.minecraft.block.TallGrass"
   },
   "tall_sea_grass": {
-    "class": "bdq"
+    "class": "bdx"
   },
   "terracotta": {
     "class": "net.minecraft.block.Block"
@@ -1461,7 +1473,7 @@
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "white_shulker_box": {
-    "class": "bcq"
+    "class": "bcx"
   },
   "white_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
@@ -1499,13 +1511,16 @@
     "class": "net.minecraft.block.ConcretePowder"
   },
   "yellow_coral": {
-    "class": "azb"
+    "class": "azh"
+  },
+  "yellow_coral_plant": {
+    "class": "azi"
   },
   "yellow_glazed_terracotta": {
     "class": "net.minecraft.block.GlazedTerracotta"
   },
   "yellow_shulker_box": {
-    "class": "bcq"
+    "class": "bcx"
   },
   "yellow_stained_glass": {
     "class": "net.minecraft.block.StainedGlass"
