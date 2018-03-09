@@ -1,0 +1,374 @@
+{
+  "area_effect_cloud": {
+    "name": "AreaEffectCloud",
+    "class": "net.minecraft.entity.effect.AreaEffectCloud"
+  },
+  "armor_stand": {
+    "name": "ArmorStand",
+    "class": "net.minecraft.entity.item.ArmorStand"
+  },
+  "arrow": {
+    "name": "Arrow",
+    "class": "net.minecraft.entity.projectile.Arrow"
+  },
+  "bat": {
+    "name": "Bat",
+    "class": "net.minecraft.entity.passive.Bat"
+  },
+  "blaze": {
+    "name": "Blaze",
+    "class": "net.minecraft.entity.monster.Blaze"
+  },
+  "boat": {
+    "name": "Boat",
+    "class": "net.minecraft.entity.item.Boat"
+  },
+  "cave_spider": {
+    "name": "CaveSpider",
+    "class": "net.minecraft.entity.monster.CaveSpider"
+  },
+  "chest_minecart": {
+    "name": "ChestMinecart",
+    "class": "net.minecraft.entity.item.ChestMinecart"
+  },
+  "chicken": {
+    "name": "Chicken",
+    "class": "net.minecraft.entity.passive.Chicken"
+  },
+  "cod_mob": {
+    "name": "CodMob",
+    "class": "net.minecraft.entity.CodMob"
+  },
+  "commandblock_minecart": {
+    "name": "CommandblockMinecart",
+    "class": "net.minecraft.entity.item.CommandblockMinecart"
+  },
+  "cow": {
+    "name": "Cow",
+    "class": "net.minecraft.entity.passive.Cow"
+  },
+  "creeper": {
+    "name": "Creeper",
+    "class": "net.minecraft.entity.monster.Creeper"
+  },
+  "donkey": {
+    "name": "Donkey",
+    "class": "net.minecraft.entity.passive.Donkey"
+  },
+  "dragon_fireball": {
+    "name": "DragonFireball",
+    "class": "net.minecraft.entity.projectile.DragonFireball"
+  },
+  "egg": {
+    "name": "Egg",
+    "class": "net.minecraft.entity.projectile.Egg"
+  },
+  "elder_guardian": {
+    "name": "ElderGuardian",
+    "class": "net.minecraft.entity.monster.ElderGuardian"
+  },
+  "ender_crystal": {
+    "name": "EnderCrystal",
+    "class": "net.minecraft.entity.item.EnderCrystal"
+  },
+  "ender_dragon": {
+    "name": "EnderDragon",
+    "class": "net.minecraft.entity.boss.EnderDragon"
+  },
+  "ender_pearl": {
+    "name": "EnderPearl",
+    "class": "net.minecraft.entity.projectile.EnderPearl"
+  },
+  "enderman": {
+    "name": "Enderman",
+    "class": "net.minecraft.entity.monster.Enderman"
+  },
+  "endermite": {
+    "name": "Endermite",
+    "class": "net.minecraft.entity.monster.Endermite"
+  },
+  "evocation_fangs": {
+    "name": "EvocationFangs",
+    "class": "net.minecraft.entity.projectile.EvocationFangs"
+  },
+  "evocation_illager": {
+    "name": "EvocationIllager",
+    "class": "net.minecraft.entity.monster.EvocationIllager"
+  },
+  "eye_of_ender_signal": {
+    "name": "EyeOfEnderSignal",
+    "class": "net.minecraft.entity.item.EyeOfEnderSignal"
+  },
+  "falling_block": {
+    "name": "FallingBlock",
+    "class": "net.minecraft.entity.item.FallingBlock"
+  },
+  "fireball": {
+    "name": "Fireball",
+    "class": "net.minecraft.entity.projectile.Fireball"
+  },
+  "fireworks_rocket": {
+    "name": "FireworksRocket",
+    "class": "net.minecraft.entity.FireworksRocket"
+  },
+  "fishing_bobber": {
+    "name": "FishingBobber",
+    "class": "net.minecraft.entity.item.FishingBobber"
+  },
+  "furnace_minecart": {
+    "name": "FurnaceMinecart",
+    "class": "net.minecraft.entity.FurnaceMinecart"
+  },
+  "ghast": {
+    "name": "Ghast",
+    "class": "net.minecraft.entity.monster.Ghast"
+  },
+  "giant": {
+    "name": "Giant",
+    "class": "net.minecraft.entity.monster.Giant"
+  },
+  "guardian": {
+    "name": "Guardian",
+    "class": "net.minecraft.entity.monster.Guardian"
+  },
+  "hopper_minecart": {
+    "name": "HopperMinecart",
+    "class": "net.minecraft.entity.HopperMinecart"
+  },
+  "horse": {
+    "name": "Horse",
+    "class": "net.minecraft.entity.passive.Horse"
+  },
+  "husk": {
+    "name": "Husk",
+    "class": "net.minecraft.entity.monster.Husk"
+  },
+  "illusion_illager": {
+    "name": "IllusionIllager",
+    "class": "net.minecraft.entity.monster.IllusionIllager"
+  },
+  "item": {
+    "name": "Item",
+    "class": "net.minecraft.entity.item.Item"
+  },
+  "item_frame": {
+    "name": "ItemFrame",
+    "class": "net.minecraft.entity.item.ItemFrame"
+  },
+  "leash_knot": {
+    "name": "LeashKnot",
+    "class": "net.minecraft.entity.item.LeashKnot"
+  },
+  "lightning_bolt": {
+    "name": "LightningBolt",
+    "class": "net.minecraft.entity.effect.LightningBolt"
+  },
+  "llama": {
+    "name": "Llama",
+    "class": "net.minecraft.entity.passive.Llama"
+  },
+  "llama_spit": {
+    "name": "LlamaSpit",
+    "class": "net.minecraft.entity.projectile.LlamaSpit"
+  },
+  "magma_cube": {
+    "name": "MagmaCube",
+    "class": "net.minecraft.entity.monster.MagmaCube"
+  },
+  "minecart": {
+    "name": "Minecart",
+    "class": "net.minecraft.entity.item.Minecart"
+  },
+  "mooshroom": {
+    "name": "Mooshroom",
+    "class": "net.minecraft.entity.passive.Mooshroom"
+  },
+  "mule": {
+    "name": "Mule",
+    "class": "net.minecraft.entity.passive.Mule"
+  },
+  "ocelot": {
+    "name": "Ocelot",
+    "class": "net.minecraft.entity.Ocelot"
+  },
+  "painting": {
+    "name": "Painting",
+    "class": "net.minecraft.entity.item.Painting"
+  },
+  "parrot": {
+    "name": "Parrot",
+    "class": "net.minecraft.entity.passive.Parrot"
+  },
+  "phantom": {
+    "name": "Phantom",
+    "class": "net.minecraft.entity.monster.Phantom"
+  },
+  "pig": {
+    "name": "Pig",
+    "class": "net.minecraft.entity.passive.Pig"
+  },
+  "player": {
+    "name": "Player",
+    "class": "net.minecraft.entity.Player"
+  },
+  "polar_bear": {
+    "name": "PolarBear",
+    "class": "net.minecraft.entity.monster.PolarBear"
+  },
+  "potion": {
+    "name": "ThrownPotion",
+    "class": "net.minecraft.entity.projectile.ThrownPotion"
+  },
+  "puffer_fish": {
+    "name": "PufferFish",
+    "class": "net.minecraft.entity.PufferFish"
+  },
+  "rabbit": {
+    "name": "Rabbit",
+    "class": "net.minecraft.entity.passive.Rabbit"
+  },
+  "salmon_mob": {
+    "name": "SalmonMob",
+    "class": "net.minecraft.entity.SalmonMob"
+  },
+  "sheep": {
+    "name": "Sheep",
+    "class": "net.minecraft.entity.passive.Sheep"
+  },
+  "shulker": {
+    "name": "Shulker",
+    "class": "net.minecraft.entity.monster.Shulker"
+  },
+  "shulker_bullet": {
+    "name": "ShulkerBullet",
+    "class": "net.minecraft.entity.projectile.ShulkerBullet"
+  },
+  "silverfish": {
+    "name": "Silverfish",
+    "class": "net.minecraft.entity.monster.Silverfish"
+  },
+  "skeleton": {
+    "name": "Skeleton",
+    "class": "net.minecraft.entity.monster.Skeleton"
+  },
+  "skeleton_horse": {
+    "name": "SkeletonHorse",
+    "class": "net.minecraft.entity.passive.SkeletonHorse"
+  },
+  "slime": {
+    "name": "Slime",
+    "class": "net.minecraft.entity.monster.Slime"
+  },
+  "small_fireball": {
+    "name": "SmallFireball",
+    "class": "net.minecraft.entity.projectile.SmallFireball"
+  },
+  "snowball": {
+    "name": "Snowball",
+    "class": "net.minecraft.entity.projectile.Snowball"
+  },
+  "snowman": {
+    "name": "Snowman",
+    "class": "net.minecraft.entity.Snowman"
+  },
+  "spawner_minecart": {
+    "name": "SpawnerMinecart",
+    "class": "net.minecraft.entity.SpawnerMinecart"
+  },
+  "spectral_arrow": {
+    "name": "SpectralArrow",
+    "class": "net.minecraft.entity.projectile.SpectralArrow"
+  },
+  "spider": {
+    "name": "Spider",
+    "class": "net.minecraft.entity.monster.Spider"
+  },
+  "squid": {
+    "name": "Squid",
+    "class": "net.minecraft.entity.water.Squid"
+  },
+  "stray": {
+    "name": "Stray",
+    "class": "net.minecraft.entity.monster.Stray"
+  },
+  "tnt": {
+    "name": "Tnt",
+    "class": "net.minecraft.entity.item.Tnt"
+  },
+  "tnt_minecart": {
+    "name": "TntMinecart",
+    "class": "net.minecraft.entity.TntMinecart"
+  },
+  "trident": {
+    "name": "Trident",
+    "class": "net.minecraft.entity.projectile.Trident"
+  },
+  "tropical_fish": {
+    "name": "TropicalFish",
+    "class": "net.minecraft.entity.water.TropicalFish"
+  },
+  "turtle": {
+    "name": "Turtle",
+    "class": "net.minecraft.entity.passive.Turtle"
+  },
+  "vex": {
+    "name": "Vex",
+    "class": "net.minecraft.entity.monster.Vex"
+  },
+  "villager": {
+    "name": "Villager",
+    "class": "net.minecraft.entity.passive.Villager"
+  },
+  "villager_golem": {
+    "name": "IronGolem",
+    "class": "net.minecraft.entity.passive.IronGolem"
+  },
+  "vindication_illager": {
+    "name": "VindicationIllager",
+    "class": "net.minecraft.entity.monster.VindicationIllager"
+  },
+  "witch": {
+    "name": "Witch",
+    "class": "net.minecraft.entity.monster.Witch"
+  },
+  "wither": {
+    "name": "Wither",
+    "class": "net.minecraft.entity.boss.Wither"
+  },
+  "wither_skeleton": {
+    "name": "WitherSkeleton",
+    "class": "net.minecraft.entity.monster.WitherSkeleton"
+  },
+  "wither_skull": {
+    "name": "WitherSkull",
+    "class": "net.minecraft.entity.item.WitherSkull"
+  },
+  "wolf": {
+    "name": "Wolf",
+    "class": "net.minecraft.entity.passive.Wolf"
+  },
+  "xp_bottle": {
+    "name": "XpBottle",
+    "class": "net.minecraft.entity.XpBottle"
+  },
+  "xp_orb": {
+    "name": "XpOrb",
+    "class": "net.minecraft.entity.XpOrb"
+  },
+  "zombie": {
+    "name": "Zombie",
+    "class": "net.minecraft.entity.monster.Zombie"
+  },
+  "zombie_horse": {
+    "name": "ZombieHorse",
+    "class": "net.minecraft.entity.passive.ZombieHorse"
+  },
+  "zombie_pigman": {
+    "name": "ZombiePigman",
+    "class": "net.minecraft.entity.monster.ZombiePigman"
+  },
+  "zombie_villager": {
+    "name": "ZombieVillager",
+    "class": "net.minecraft.entity.monster.ZombieVillager"
+  }
+}
