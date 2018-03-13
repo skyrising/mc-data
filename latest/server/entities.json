@@ -59,6 +59,10 @@
     "name": "DragonFireball",
     "class": "net.minecraft.entity.projectile.DragonFireball"
   },
+  "drowned": {
+    "name": "Drowned",
+    "class": "net.minecraft.entity.monster.Drowned"
+  },
   "egg": {
     "name": "Egg",
     "class": "net.minecraft.entity.projectile.Egg"
