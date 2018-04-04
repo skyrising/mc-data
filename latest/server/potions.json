@@ -99,6 +99,15 @@
       }
     ]
   },
+  "long_slow_falling": {
+    "base": "slow_falling",
+    "effects": [
+      {
+        "id": "slow_falling",
+        "duration": 4800
+      }
+    ]
+  },
   "long_slowness": {
     "base": "slowness",
     "effects": [
@@ -192,6 +201,14 @@
       {
         "id": "regeneration",
         "duration": 900
+      }
+    ]
+  },
+  "slow_falling": {
+    "effects": [
+      {
+        "id": "slow_falling",
+        "duration": 1800
       }
     ]
   },
