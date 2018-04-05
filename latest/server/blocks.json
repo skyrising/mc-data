@@ -145,16 +145,6 @@
   "blue_concrete_powder": {
     "class": "net.minecraft.block.ConcretePowder"
   },
-  "blue_coral": {
-    "class": "azn"
-  },
-  "blue_coral_fan": {
-    "class": "azo"
-  },
-  "blue_coral_plant": {
-    "class": "azp"
-  },
-  "blue_dead_coral": {},
   "blue_glazed_terracotta": {
     "class": "net.minecraft.block.GlazedTerracotta"
   },
@@ -178,10 +168,19 @@
     "class": "net.minecraft.block.Block"
   },
   "bone_block": {
-    "class": "bcx"
+    "class": "bcy"
   },
   "bookshelf": {
     "class": "net.minecraft.block.Bookshelf"
+  },
+  "brain_coral": {
+    "class": "net.minecraft.block.Coral"
+  },
+  "brain_coral_block": {
+    "class": "net.minecraft.block.CoralBlock"
+  },
+  "brain_coral_fan": {
+    "class": "net.minecraft.block.CoralFan"
   },
   "brewing_stand": {
     "class": "net.minecraft.block.BrewingStand"
@@ -231,6 +230,15 @@
   },
   "bubble_column": {
     "class": "net.minecraft.block.BubbleColumn"
+  },
+  "bubble_coral": {
+    "class": "net.minecraft.block.Coral"
+  },
+  "bubble_coral_block": {
+    "class": "net.minecraft.block.CoralBlock"
+  },
+  "bubble_coral_fan": {
+    "class": "net.minecraft.block.CoralFan"
   },
   "cactus": {},
   "cake": {
@@ -404,7 +412,12 @@
   "daylight_detector": {
     "class": "net.minecraft.block.DaylightDetector"
   },
+  "dead_brain_coral_block": {},
+  "dead_bubble_coral_block": {},
   "dead_bush": {},
+  "dead_fire_coral_block": {},
+  "dead_horn_coral_block": {},
+  "dead_tube_coral_block": {},
   "detector_rail": {
     "class": "net.minecraft.block.DetectorRail"
   },
@@ -472,6 +485,15 @@
   "fern": {},
   "fire": {
     "class": "net.minecraft.block.Fire"
+  },
+  "fire_coral": {
+    "class": "net.minecraft.block.Coral"
+  },
+  "fire_coral_block": {
+    "class": "net.minecraft.block.CoralBlock"
+  },
+  "fire_coral_fan": {
+    "class": "net.minecraft.block.CoralFan"
   },
   "flower_pot": {
     "class": "net.minecraft.block.FlowerPot"
@@ -585,6 +607,15 @@
   "hopper": {
     "class": "net.minecraft.block.Hopper"
   },
+  "horn_coral": {
+    "class": "net.minecraft.block.Coral"
+  },
+  "horn_coral_block": {
+    "class": "net.minecraft.block.CoralBlock"
+  },
+  "horn_coral_fan": {
+    "class": "net.minecraft.block.CoralFan"
+  },
   "ice": {
     "class": "net.minecraft.block.Ice"
   },
@@ -663,10 +694,10 @@
     "class": "net.minecraft.block.Trapdoor"
   },
   "kelp": {
-    "class": "bbk"
+    "class": "bbl"
   },
   "kelp_top": {
-    "class": "bbl"
+    "class": "bbm"
   },
   "ladder": {
     "class": "net.minecraft.block.Ladder"
@@ -839,7 +870,7 @@
     "class": "net.minecraft.block.Stem"
   },
   "mob_spawner": {
-    "class": "bbw"
+    "class": "bbx"
   },
   "mossy_cobblestone": {
     "class": "net.minecraft.block.Block"
@@ -981,16 +1012,6 @@
   "pink_concrete_powder": {
     "class": "net.minecraft.block.ConcretePowder"
   },
-  "pink_coral": {
-    "class": "azn"
-  },
-  "pink_coral_fan": {
-    "class": "azo"
-  },
-  "pink_coral_plant": {
-    "class": "azp"
-  },
-  "pink_dead_coral": {},
   "pink_glazed_terracotta": {
     "class": "net.minecraft.block.GlazedTerracotta"
   },
@@ -1039,7 +1060,7 @@
   },
   "poppy": {},
   "portal": {
-    "class": "bci"
+    "class": "bcj"
   },
   "potatoes": {
     "class": "net.minecraft.block.Potatoes"
@@ -1141,16 +1162,6 @@
   "purple_concrete_powder": {
     "class": "net.minecraft.block.ConcretePowder"
   },
-  "purple_coral": {
-    "class": "azn"
-  },
-  "purple_coral_fan": {
-    "class": "azo"
-  },
-  "purple_coral_plant": {
-    "class": "azp"
-  },
-  "purple_dead_coral": {},
   "purple_glazed_terracotta": {
     "class": "net.minecraft.block.GlazedTerracotta"
   },
@@ -1174,7 +1185,7 @@
   },
   "purpur_block": {},
   "purpur_pillar": {
-    "class": "bcx"
+    "class": "bcy"
   },
   "purpur_slab": {
     "class": "net.minecraft.block.Slab"
@@ -1184,7 +1195,7 @@
   },
   "quartz_block": {},
   "quartz_pillar": {
-    "class": "bcx"
+    "class": "bcy"
   },
   "quartz_slab": {
     "class": "net.minecraft.block.Slab"
@@ -1208,16 +1219,6 @@
   "red_concrete_powder": {
     "class": "net.minecraft.block.ConcretePowder"
   },
-  "red_coral": {
-    "class": "azn"
-  },
-  "red_coral_fan": {
-    "class": "azo"
-  },
-  "red_coral_plant": {
-    "class": "azp"
-  },
-  "red_dead_coral": {},
   "red_glazed_terracotta": {
     "class": "net.minecraft.block.GlazedTerracotta"
   },
@@ -1295,6 +1296,9 @@
   "sea_grass": {},
   "sea_lantern": {
     "class": "net.minecraft.block.SeaLantern"
+  },
+  "sea_pickle": {
+    "class": "net.minecraft.block.SeaPickle"
   },
   "shulker_box": {
     "class": "net.minecraft.block.ShulkerBox"
@@ -1424,7 +1428,7 @@
     "class": "net.minecraft.block.TallGrass"
   },
   "tall_sea_grass": {
-    "class": "bed"
+    "class": "bef"
   },
   "terracotta": {
     "class": "net.minecraft.block.Block"
@@ -1442,6 +1446,15 @@
     "class": "net.minecraft.block.Tripwire"
   },
   "tripwire_hook": {},
+  "tube_coral": {
+    "class": "net.minecraft.block.Coral"
+  },
+  "tube_coral_block": {
+    "class": "net.minecraft.block.CoralBlock"
+  },
+  "tube_coral_fan": {
+    "class": "net.minecraft.block.CoralFan"
+  },
   "turtle_egg": {
     "class": "net.minecraft.block.TurtleEgg"
   },
@@ -1520,16 +1533,6 @@
   "yellow_concrete_powder": {
     "class": "net.minecraft.block.ConcretePowder"
   },
-  "yellow_coral": {
-    "class": "azn"
-  },
-  "yellow_coral_fan": {
-    "class": "azo"
-  },
-  "yellow_coral_plant": {
-    "class": "azp"
-  },
-  "yellow_dead_coral": {},
   "yellow_glazed_terracotta": {
     "class": "net.minecraft.block.GlazedTerracotta"
   },
