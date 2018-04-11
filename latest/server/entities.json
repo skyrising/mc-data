@@ -51,6 +51,10 @@
     "name": "Creeper",
     "class": "net.minecraft.entity.monster.Creeper"
   },
+  "dolphin": {
+    "name": "Dolphin",
+    "class": "net.minecraft.entity.passive.Dolphin"
+  },
   "donkey": {
     "name": "Donkey",
     "class": "net.minecraft.entity.passive.Donkey"
