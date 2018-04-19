@@ -146,7 +146,7 @@
       {
         "id": "resistance",
         "duration": 3600,
-        "amplifier": 3
+        "amplifier": 2
       }
     ]
   },
@@ -319,7 +319,7 @@
       {
         "id": "resistance",
         "duration": 1200,
-        "amplifier": 5
+        "amplifier": 3
       }
     ]
   },
@@ -345,7 +345,7 @@
       {
         "id": "resistance",
         "duration": 1200,
-        "amplifier": 3
+        "amplifier": 2
       }
     ]
   },
