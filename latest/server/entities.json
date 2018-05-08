@@ -227,9 +227,9 @@
     "name": "ThrownPotion",
     "class": "net.minecraft.entity.projectile.ThrownPotion"
   },
-  "puffer_fish": {
-    "name": "PufferFish",
-    "class": "net.minecraft.entity.PufferFish"
+  "pufferfish": {
+    "name": "Pufferfish",
+    "class": "net.minecraft.entity.water.Pufferfish"
   },
   "rabbit": {
     "name": "Rabbit",

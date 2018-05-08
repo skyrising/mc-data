@@ -140,12 +140,12 @@
     "effects": [
       {
         "id": "slowness",
-        "duration": 3600,
+        "duration": 800,
         "amplifier": 3
       },
       {
         "id": "resistance",
-        "duration": 3600,
+        "duration": 800,
         "amplifier": 2
       }
     ]
@@ -283,8 +283,8 @@
     "effects": [
       {
         "id": "slowness",
-        "duration": 200,
-        "amplifier": 4
+        "duration": 400,
+        "amplifier": 3
       }
     ]
   },
@@ -313,12 +313,12 @@
     "effects": [
       {
         "id": "slowness",
-        "duration": 1200,
+        "duration": 400,
         "amplifier": 5
       },
       {
         "id": "resistance",
-        "duration": 1200,
+        "duration": 400,
         "amplifier": 3
       }
     ]
@@ -339,12 +339,12 @@
     "effects": [
       {
         "id": "slowness",
-        "duration": 1200,
+        "duration": 400,
         "amplifier": 3
       },
       {
         "id": "resistance",
-        "duration": 1200,
+        "duration": 400,
         "amplifier": 2
       }
     ]

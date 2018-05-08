@@ -1,0 +1,17 @@
+{
+  "empty": {
+    "class": "net.minecraft.fluid.Fluid"
+  },
+  "flowing_lava": {
+    "class": "net.minecraft.fluid.NonEmptyFluid"
+  },
+  "flowing_water": {
+    "class": "net.minecraft.fluid.NonEmptyFluid"
+  },
+  "lava": {
+    "class": "net.minecraft.fluid.NonEmptyFluid"
+  },
+  "water": {
+    "class": "net.minecraft.fluid.NonEmptyFluid"
+  }
+}
