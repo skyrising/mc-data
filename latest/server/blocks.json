@@ -171,7 +171,7 @@
     "class": "net.minecraft.block.Block"
   },
   "bone_block": {
-    "class": "bia"
+    "class": "bju"
   },
   "bookshelf": {
     "class": "net.minecraft.block.Bookshelf"
@@ -700,10 +700,10 @@
     "class": "net.minecraft.block.Trapdoor"
   },
   "kelp": {
-    "class": "bgn"
+    "class": "bih"
   },
   "kelp_top": {
-    "class": "bgo"
+    "class": "bii"
   },
   "ladder": {
     "class": "net.minecraft.block.Ladder"
@@ -876,7 +876,7 @@
     "class": "net.minecraft.block.Stem"
   },
   "mob_spawner": {
-    "class": "bgz"
+    "class": "bit"
   },
   "mossy_cobblestone": {
     "class": "net.minecraft.block.Block"
@@ -1066,7 +1066,7 @@
   },
   "poppy": {},
   "portal": {
-    "class": "bhl"
+    "class": "bjf"
   },
   "potatoes": {
     "class": "net.minecraft.block.Potatoes"
@@ -1191,7 +1191,7 @@
   },
   "purpur_block": {},
   "purpur_pillar": {
-    "class": "bia"
+    "class": "bju"
   },
   "purpur_slab": {
     "class": "net.minecraft.block.Slab"
@@ -1201,7 +1201,7 @@
   },
   "quartz_block": {},
   "quartz_pillar": {
-    "class": "bia"
+    "class": "bju"
   },
   "quartz_slab": {
     "class": "net.minecraft.block.Slab"
@@ -1434,7 +1434,7 @@
     "class": "net.minecraft.block.TallGrass"
   },
   "tall_seagrass": {
-    "class": "bjh"
+    "class": "blb"
   },
   "terracotta": {
     "class": "net.minecraft.block.Block"
