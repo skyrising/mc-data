@@ -35,9 +35,9 @@
     "name": "Chicken",
     "class": "net.minecraft.entity.passive.Chicken"
   },
-  "cod_mob": {
-    "name": "CodMob",
-    "class": "net.minecraft.entity.CodMob"
+  "cod": {
+    "name": "Cod",
+    "class": "net.minecraft.entity.water.Cod"
   },
   "commandblock_minecart": {
     "name": "CommandblockMinecart",
@@ -235,9 +235,9 @@
     "name": "Rabbit",
     "class": "net.minecraft.entity.passive.Rabbit"
   },
-  "salmon_mob": {
-    "name": "SalmonMob",
-    "class": "net.minecraft.entity.SalmonMob"
+  "salmon": {
+    "name": "Salmon",
+    "class": "net.minecraft.entity.water.Salmon"
   },
   "sheep": {
     "name": "Sheep",
