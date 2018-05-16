@@ -871,7 +871,7 @@
   "magma_block": {
     "class": "net.minecraft.block.MagmaBlock"
   },
-  "melon_block": {},
+  "melon": {},
   "melon_stem": {
     "class": "net.minecraft.block.Stem"
   },
