@@ -1,6 +1,6 @@
 {
   "acacia_bark": {
-    "class": "net.minecraft.block.Block"
+    "class": "bkd"
   },
   "acacia_button": {
     "class": "net.minecraft.block.WoodButton"
@@ -64,7 +64,7 @@
     "class": "net.minecraft.block.Beetroots"
   },
   "birch_bark": {
-    "class": "net.minecraft.block.Block"
+    "class": "bkd"
   },
   "birch_button": {
     "class": "net.minecraft.block.WoodButton"
@@ -171,7 +171,7 @@
     "class": "net.minecraft.block.Block"
   },
   "bone_block": {
-    "class": "bkc"
+    "class": "bkd"
   },
   "bookshelf": {
     "class": "net.minecraft.block.Bookshelf"
@@ -374,7 +374,7 @@
   },
   "dandelion": {},
   "dark_oak_bark": {
-    "class": "net.minecraft.block.Block"
+    "class": "bkd"
   },
   "dark_oak_button": {
     "class": "net.minecraft.block.WoodButton"
@@ -665,7 +665,7 @@
     "class": "net.minecraft.block.Jukebox"
   },
   "jungle_bark": {
-    "class": "net.minecraft.block.Block"
+    "class": "bkd"
   },
   "jungle_button": {
     "class": "net.minecraft.block.WoodButton"
@@ -700,7 +700,7 @@
     "class": "net.minecraft.block.Trapdoor"
   },
   "kelp": {
-    "class": "bip"
+    "class": "biq"
   },
   "kelp_plant": {
     "class": "net.minecraft.block.KelpPlant"
@@ -876,7 +876,7 @@
     "class": "net.minecraft.block.Stem"
   },
   "mob_spawner": {
-    "class": "bjb"
+    "class": "bjc"
   },
   "mossy_cobblestone": {
     "class": "net.minecraft.block.Block"
@@ -920,7 +920,7 @@
     "class": "net.minecraft.block.NoteBlock"
   },
   "oak_bark": {
-    "class": "net.minecraft.block.Block"
+    "class": "bkd"
   },
   "oak_button": {
     "class": "net.minecraft.block.WoodButton"
@@ -1066,7 +1066,7 @@
   },
   "poppy": {},
   "portal": {
-    "class": "bjn"
+    "class": "bjo"
   },
   "potatoes": {
     "class": "net.minecraft.block.Potatoes"
@@ -1191,7 +1191,7 @@
   },
   "purpur_block": {},
   "purpur_pillar": {
-    "class": "bkc"
+    "class": "bkd"
   },
   "purpur_slab": {
     "class": "net.minecraft.block.Slab"
@@ -1201,7 +1201,7 @@
   },
   "quartz_block": {},
   "quartz_pillar": {
-    "class": "bkc"
+    "class": "bkd"
   },
   "quartz_slab": {
     "class": "net.minecraft.block.Slab"
@@ -1346,7 +1346,7 @@
     "class": "net.minecraft.block.Sponge"
   },
   "spruce_bark": {
-    "class": "net.minecraft.block.Block"
+    "class": "bkd"
   },
   "spruce_button": {
     "class": "net.minecraft.block.WoodButton"
@@ -1434,7 +1434,7 @@
     "class": "net.minecraft.block.TallGrass"
   },
   "tall_seagrass": {
-    "class": "blj"
+    "class": "blk"
   },
   "terracotta": {
     "class": "net.minecraft.block.Block"
