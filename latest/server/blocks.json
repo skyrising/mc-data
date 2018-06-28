@@ -1,7 +1,4 @@
 {
-  "acacia_bark": {
-    "class": "bkw"
-  },
   "acacia_button": {
     "class": "net.minecraft.block.WoodButton"
   },
@@ -34,6 +31,9 @@
   "acacia_trapdoor": {
     "class": "net.minecraft.block.Trapdoor"
   },
+  "acacia_wood": {
+    "class": "net.minecraft.block.Wood"
+  },
   "activator_rail": {
     "class": "net.minecraft.block.PoweredRail"
   },
@@ -62,9 +62,6 @@
   },
   "beetroots": {
     "class": "net.minecraft.block.Beetroots"
-  },
-  "birch_bark": {
-    "class": "bkw"
   },
   "birch_button": {
     "class": "net.minecraft.block.WoodButton"
@@ -97,6 +94,9 @@
   },
   "birch_trapdoor": {
     "class": "net.minecraft.block.Trapdoor"
+  },
+  "birch_wood": {
+    "class": "net.minecraft.block.Wood"
   },
   "black_banner": {
     "class": "net.minecraft.block.StandingBanner"
@@ -171,7 +171,7 @@
     "class": "net.minecraft.block.Block"
   },
   "bone_block": {
-    "class": "bkw"
+    "class": "net.minecraft.block.Wood"
   },
   "bookshelf": {
     "class": "net.minecraft.block.Bookshelf"
@@ -373,9 +373,6 @@
     "class": "net.minecraft.block.Anvil"
   },
   "dandelion": {},
-  "dark_oak_bark": {
-    "class": "bkw"
-  },
   "dark_oak_button": {
     "class": "net.minecraft.block.WoodButton"
   },
@@ -407,6 +404,9 @@
   },
   "dark_oak_trapdoor": {
     "class": "net.minecraft.block.Trapdoor"
+  },
+  "dark_oak_wood": {
+    "class": "net.minecraft.block.Wood"
   },
   "dark_prismarine": {},
   "dark_prismarine_slab": {
@@ -664,9 +664,6 @@
   "jukebox": {
     "class": "net.minecraft.block.Jukebox"
   },
-  "jungle_bark": {
-    "class": "bkw"
-  },
   "jungle_button": {
     "class": "net.minecraft.block.WoodButton"
   },
@@ -698,6 +695,9 @@
   },
   "jungle_trapdoor": {
     "class": "net.minecraft.block.Trapdoor"
+  },
+  "jungle_wood": {
+    "class": "net.minecraft.block.Wood"
   },
   "kelp": {},
   "kelp_plant": {
@@ -873,9 +873,6 @@
   "melon_stem": {
     "class": "net.minecraft.block.Stem"
   },
-  "mob_spawner": {
-    "class": "bjv"
-  },
   "mossy_cobblestone": {
     "class": "net.minecraft.block.Block"
   },
@@ -902,6 +899,9 @@
     "class": "net.minecraft.block.Stairs"
   },
   "nether_bricks": {},
+  "nether_portal": {
+    "class": "net.minecraft.block.NetherPortal"
+  },
   "nether_quartz_ore": {
     "class": "net.minecraft.block.Ore"
   },
@@ -916,9 +916,6 @@
   },
   "note_block": {
     "class": "net.minecraft.block.NoteBlock"
-  },
-  "oak_bark": {
-    "class": "bkw"
   },
   "oak_button": {
     "class": "net.minecraft.block.WoodButton"
@@ -951,6 +948,9 @@
   },
   "oak_trapdoor": {
     "class": "net.minecraft.block.Trapdoor"
+  },
+  "oak_wood": {
+    "class": "net.minecraft.block.Wood"
   },
   "observer": {
     "class": "net.minecraft.block.Observer"
@@ -1063,9 +1063,6 @@
     "class": "net.minecraft.block.Block"
   },
   "poppy": {},
-  "portal": {
-    "class": "bkh"
-  },
   "potatoes": {
     "class": "net.minecraft.block.Potatoes"
   },
@@ -1189,7 +1186,7 @@
   },
   "purpur_block": {},
   "purpur_pillar": {
-    "class": "bkw"
+    "class": "net.minecraft.block.Wood"
   },
   "purpur_slab": {
     "class": "net.minecraft.block.Slab"
@@ -1199,7 +1196,7 @@
   },
   "quartz_block": {},
   "quartz_pillar": {
-    "class": "bkw"
+    "class": "net.minecraft.block.Wood"
   },
   "quartz_slab": {
     "class": "net.minecraft.block.Slab"
@@ -1340,11 +1337,11 @@
   "soul_sand": {
     "class": "net.minecraft.block.SoulSand"
   },
+  "spawner": {
+    "class": "net.minecraft.block.Spawner"
+  },
   "sponge": {
     "class": "net.minecraft.block.Sponge"
-  },
-  "spruce_bark": {
-    "class": "bkw"
   },
   "spruce_button": {
     "class": "net.minecraft.block.WoodButton"
@@ -1378,6 +1375,9 @@
   "spruce_trapdoor": {
     "class": "net.minecraft.block.Trapdoor"
   },
+  "spruce_wood": {
+    "class": "net.minecraft.block.Wood"
+  },
   "sticky_piston": {
     "class": "net.minecraft.block.Piston"
   },
@@ -1398,41 +1398,41 @@
   "stone_slab": {
     "class": "net.minecraft.block.Slab"
   },
-  "stripped_acacia_bark": {
-    "class": "bkw"
-  },
   "stripped_acacia_log": {
     "class": "net.minecraft.block.Log"
   },
-  "stripped_birch_bark": {
-    "class": "bkw"
+  "stripped_acacia_wood": {
+    "class": "net.minecraft.block.Wood"
   },
   "stripped_birch_log": {
     "class": "net.minecraft.block.Log"
   },
-  "stripped_dark_oak_bark": {
-    "class": "bkw"
+  "stripped_birch_wood": {
+    "class": "net.minecraft.block.Wood"
   },
   "stripped_dark_oak_log": {
     "class": "net.minecraft.block.Log"
   },
-  "stripped_jungle_bark": {
-    "class": "bkw"
+  "stripped_dark_oak_wood": {
+    "class": "net.minecraft.block.Wood"
   },
   "stripped_jungle_log": {
     "class": "net.minecraft.block.Log"
   },
-  "stripped_oak_bark": {
-    "class": "bkw"
+  "stripped_jungle_wood": {
+    "class": "net.minecraft.block.Wood"
   },
   "stripped_oak_log": {
     "class": "net.minecraft.block.Log"
   },
-  "stripped_spruce_bark": {
-    "class": "bkw"
+  "stripped_oak_wood": {
+    "class": "net.minecraft.block.Wood"
   },
   "stripped_spruce_log": {
     "class": "net.minecraft.block.Log"
+  },
+  "stripped_spruce_wood": {
+    "class": "net.minecraft.block.Wood"
   },
   "structure_block": {
     "class": "net.minecraft.block.StructureBlock"
@@ -1450,7 +1450,7 @@
     "class": "net.minecraft.block.TallGrass"
   },
   "tall_seagrass": {
-    "class": "bmd"
+    "class": "bhg"
   },
   "terracotta": {
     "class": "net.minecraft.block.Block"

@@ -39,9 +39,9 @@
     "name": "Cod",
     "class": "net.minecraft.entity.water.Cod"
   },
-  "commandblock_minecart": {
-    "name": "CommandblockMinecart",
-    "class": "net.minecraft.entity.item.CommandblockMinecart"
+  "command_block_minecart": {
+    "name": "CommandBlockMinecart",
+    "class": "net.minecraft.entity.item.CommandBlockMinecart"
   },
   "cow": {
     "name": "Cow",
@@ -75,9 +75,9 @@
     "name": "ElderGuardian",
     "class": "net.minecraft.entity.monster.ElderGuardian"
   },
-  "ender_crystal": {
-    "name": "EnderCrystal",
-    "class": "net.minecraft.entity.item.EnderCrystal"
+  "end_crystal": {
+    "name": "EndCrystal",
+    "class": "net.minecraft.entity.item.EndCrystal"
   },
   "ender_dragon": {
     "name": "EnderDragon",
@@ -95,17 +95,25 @@
     "name": "Endermite",
     "class": "net.minecraft.entity.monster.Endermite"
   },
-  "evocation_fangs": {
-    "name": "EvocationFangs",
-    "class": "net.minecraft.entity.projectile.EvocationFangs"
+  "evoker": {
+    "name": "Evoker",
+    "class": "net.minecraft.entity.monster.Evoker"
   },
-  "evocation_illager": {
-    "name": "EvocationIllager",
-    "class": "net.minecraft.entity.monster.EvocationIllager"
+  "evoker_fangs": {
+    "name": "EvokerFangs",
+    "class": "net.minecraft.entity.projectile.EvokerFangs"
   },
-  "eye_of_ender_signal": {
-    "name": "EyeOfEnderSignal",
-    "class": "net.minecraft.entity.item.EyeOfEnderSignal"
+  "experience_bottle": {
+    "name": "ExperienceBottle",
+    "class": "net.minecraft.entity.item.ExperienceBottle"
+  },
+  "experience_orb": {
+    "name": "ExperienceOrb",
+    "class": "net.minecraft.entity.item.ExperienceOrb"
+  },
+  "eye_of_ender": {
+    "name": "EyeOfEnder",
+    "class": "net.minecraft.entity.item.EyeOfEnder"
   },
   "falling_block": {
     "name": "FallingBlock",
@@ -115,9 +123,9 @@
     "name": "Fireball",
     "class": "net.minecraft.entity.projectile.Fireball"
   },
-  "fireworks_rocket": {
-    "name": "FireworksRocket",
-    "class": "net.minecraft.entity.FireworksRocket"
+  "firework_rocket": {
+    "name": "FireworkRocket",
+    "class": "net.minecraft.entity.projectile.FireworkRocket"
   },
   "fishing_bobber": {
     "name": "FishingBobber",
@@ -151,9 +159,13 @@
     "name": "Husk",
     "class": "net.minecraft.entity.monster.Husk"
   },
-  "illusion_illager": {
-    "name": "IllusionIllager",
-    "class": "net.minecraft.entity.monster.IllusionIllager"
+  "illusioner": {
+    "name": "Illusioner",
+    "class": "net.minecraft.entity.monster.Illusioner"
+  },
+  "iron_golem": {
+    "name": "IronGolem",
+    "class": "net.minecraft.entity.passive.IronGolem"
   },
   "item": {
     "name": "Item",
@@ -271,13 +283,13 @@
     "name": "SmallFireball",
     "class": "net.minecraft.entity.projectile.SmallFireball"
   },
+  "snow_golem": {
+    "name": "SnowGolem",
+    "class": "net.minecraft.entity.passive.SnowGolem"
+  },
   "snowball": {
     "name": "Snowball",
     "class": "net.minecraft.entity.projectile.Snowball"
-  },
-  "snowman": {
-    "name": "Snowman",
-    "class": "net.minecraft.entity.Snowman"
   },
   "spawner_minecart": {
     "name": "SpawnerMinecart",
@@ -327,13 +339,9 @@
     "name": "Villager",
     "class": "net.minecraft.entity.passive.Villager"
   },
-  "villager_golem": {
-    "name": "IronGolem",
-    "class": "net.minecraft.entity.passive.IronGolem"
-  },
-  "vindication_illager": {
-    "name": "VindicationIllager",
-    "class": "net.minecraft.entity.monster.VindicationIllager"
+  "vindicator": {
+    "name": "Vindicator",
+    "class": "net.minecraft.entity.monster.Vindicator"
   },
   "witch": {
     "name": "Witch",
@@ -354,14 +362,6 @@
   "wolf": {
     "name": "Wolf",
     "class": "net.minecraft.entity.passive.Wolf"
-  },
-  "xp_bottle": {
-    "name": "XpBottle",
-    "class": "net.minecraft.entity.XpBottle"
-  },
-  "xp_orb": {
-    "name": "XpOrb",
-    "class": "net.minecraft.entity.XpOrb"
   },
   "zombie": {
     "name": "Zombie",
