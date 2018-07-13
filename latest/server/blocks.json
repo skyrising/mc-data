@@ -185,6 +185,9 @@
   "brain_coral_fan": {
     "class": "net.minecraft.block.CoralFan"
   },
+  "brain_coral_wall_fan": {
+    "class": "net.minecraft.block.CoralWallFan"
+  },
   "brewing_stand": {
     "class": "net.minecraft.block.BrewingStand"
   },
@@ -242,6 +245,9 @@
   },
   "bubble_coral_fan": {
     "class": "net.minecraft.block.CoralFan"
+  },
+  "bubble_coral_wall_fan": {
+    "class": "net.minecraft.block.CoralWallFan"
   },
   "cactus": {},
   "cake": {
@@ -419,11 +425,21 @@
     "class": "net.minecraft.block.DaylightDetector"
   },
   "dead_brain_coral_block": {},
+  "dead_brain_coral_fan": {},
+  "dead_brain_coral_wall_fan": {},
   "dead_bubble_coral_block": {},
+  "dead_bubble_coral_fan": {},
+  "dead_bubble_coral_wall_fan": {},
   "dead_bush": {},
   "dead_fire_coral_block": {},
+  "dead_fire_coral_fan": {},
+  "dead_fire_coral_wall_fan": {},
   "dead_horn_coral_block": {},
+  "dead_horn_coral_fan": {},
+  "dead_horn_coral_wall_fan": {},
   "dead_tube_coral_block": {},
+  "dead_tube_coral_fan": {},
+  "dead_tube_coral_wall_fan": {},
   "detector_rail": {
     "class": "net.minecraft.block.DetectorRail"
   },
@@ -500,6 +516,9 @@
   },
   "fire_coral_fan": {
     "class": "net.minecraft.block.CoralFan"
+  },
+  "fire_coral_wall_fan": {
+    "class": "net.minecraft.block.CoralWallFan"
   },
   "flower_pot": {
     "class": "net.minecraft.block.FlowerPot"
@@ -621,6 +640,9 @@
   },
   "horn_coral_fan": {
     "class": "net.minecraft.block.CoralFan"
+  },
+  "horn_coral_wall_fan": {
+    "class": "net.minecraft.block.CoralWallFan"
   },
   "ice": {
     "class": "net.minecraft.block.Ice"
@@ -1450,7 +1472,7 @@
     "class": "net.minecraft.block.TallGrass"
   },
   "tall_seagrass": {
-    "class": "bhn"
+    "class": "bhw"
   },
   "terracotta": {
     "class": "net.minecraft.block.Block"
@@ -1476,6 +1498,9 @@
   },
   "tube_coral_fan": {
     "class": "net.minecraft.block.CoralFan"
+  },
+  "tube_coral_wall_fan": {
+    "class": "net.minecraft.block.CoralWallFan"
   },
   "turtle_egg": {
     "class": "net.minecraft.block.TurtleEgg"
