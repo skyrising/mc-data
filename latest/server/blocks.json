@@ -1472,7 +1472,7 @@
     "class": "net.minecraft.block.TallGrass"
   },
   "tall_seagrass": {
-    "class": "bhx"
+    "class": "bhz"
   },
   "terracotta": {
     "class": "net.minecraft.block.Block"
