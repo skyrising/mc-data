@@ -168,8 +168,8 @@
     "class": "net.minecraft.entity.passive.IronGolem"
   },
   "item": {
-    "name": "Item",
-    "class": "net.minecraft.entity.item.Item"
+    "name": "ItemEntity",
+    "class": "net.minecraft.entity.ItemEntity"
   },
   "item_frame": {
     "name": "ItemFrame",
@@ -209,7 +209,7 @@
   },
   "ocelot": {
     "name": "Ocelot",
-    "class": "net.minecraft.entity.Ocelot"
+    "class": "net.minecraft.entity.passive.Ocelot"
   },
   "painting": {
     "name": "Painting",
@@ -312,8 +312,8 @@
     "class": "net.minecraft.entity.monster.Stray"
   },
   "tnt": {
-    "name": "Tnt",
-    "class": "net.minecraft.entity.item.Tnt"
+    "name": "TntEntity",
+    "class": "net.minecraft.entity.TntEntity"
   },
   "tnt_minecart": {
     "name": "TntMinecart",
