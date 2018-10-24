@@ -1,18 +1,18 @@
 {
-  "id": "18w43a",
+  "id": "18w43b",
   "type": "snapshot",
-  "releaseTime": "2018-10-24T10:52:16+00:00",
-  "url": "https://launchermeta.mojang.com/v1/packages/ba75a67de3746de8625acee7bb147fa3143c1e42/18w43a.json",
+  "releaseTime": "2018-10-24T15:02:30+00:00",
+  "url": "https://launchermeta.mojang.com/v1/packages/4066c9157b61af5b34343bd5b826f6910cae3276/18w43b.json",
   "downloads": {
     "client": {
-      "sha1": "6f0fa604e9c8b1996c985aceb9b589fa4e583671",
-      "size": 16828251,
-      "url": "https://launcher.mojang.com/v1/objects/6f0fa604e9c8b1996c985aceb9b589fa4e583671/client.jar"
+      "sha1": "0b93502884da84e9d60532729eca59b70c96f281",
+      "size": 16821222,
+      "url": "https://launcher.mojang.com/v1/objects/0b93502884da84e9d60532729eca59b70c96f281/client.jar"
     },
     "server": {
-      "sha1": "08ca3aaa7ff61d4ae06d5d63476724a1f32cb6b0",
-      "size": 34470058,
-      "url": "https://launcher.mojang.com/v1/objects/08ca3aaa7ff61d4ae06d5d63476724a1f32cb6b0/server.jar"
+      "sha1": "ed443be5ff6a304164612c545f0942fd99d53e13",
+      "size": 34470073,
+      "url": "https://launcher.mojang.com/v1/objects/ed443be5ff6a304164612c545f0942fd99d53e13/server.jar"
     }
   }
 }

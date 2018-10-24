@@ -4496,7 +4496,7 @@ hw net/minecraft/src/ClsHwDaqhqkh
 	c (Lhl;Lhl;Ljava/lang/String;)V md_15726268_c
 	d (Lhl;Lhl;Ljava/lang/String;)V md_15726268_d
 	<clinit> ()V <clinit>
-hx net/minecraft/src/ClsHxFyhehnm
+hx net/minecraft/src/ClsHxGjdqohl
 	a LOGGER
 	a (Lhl;)Lcom/mojang/authlib/GameProfile; md_4988069_a
 	a (Lhl;Lcom/mojang/authlib/GameProfile;)Lhl; md_3738306_a
@@ -4509,7 +4509,7 @@ hx net/minecraft/src/ClsHxFyhehnm
 	a (Lbmb;Lbnj;Ljava/lang/String;Lhl;Lhl;)Lbmb; md_6554321_a
 	a (Lblz;)Lhl; md_11175499_a
 	a (Lbnj;Ljava/lang/Comparable;)Ljava/lang/String; md_15723028_a
-	a (Lcom/mojang/datafixers/DataFixer;Lcom/mojang/datafixers/DSL$TypeReference;Lhl;I)Lhl; md_9883217_a
+	a (Lcom/mojang/datafixers/DataFixer;Lcom/mojang/datafixers/DSL$TypeReference;Lhl;I)Lhl; md_9883218_a
 	a (Lcom/mojang/datafixers/DataFixer;Lcom/mojang/datafixers/DSL$TypeReference;Lhl;II)Lhl; md_4459_a
 	<clinit> ()V <clinit>
 hy net/minecraft/src/ClsHyEqybmug
@@ -8161,7 +8161,7 @@ qc net/minecraft/src/ClsQcGcplpor
 	println (Ljava/lang/Object;)V println
 	a (Ljava/lang/String;)V md_8472348_a
 	<clinit> ()V <clinit>
-qd net/minecraft/src/ClsQdFkiuhfu
+qd net/minecraft/src/ClsQdGtahpzq
 	a LOGGER
 	b GSON
 	c TYPE_TOKEN
@@ -8181,8 +8181,8 @@ qd net/minecraft/src/ClsQdFkiuhfu
 	d ()V md_83848_d
 	e ()V md_83848_e
 	f ()V md_83848_f
-	g ()V md_3629638_g
-	c ()V md_8773997_c
+	g ()V md_15481573_g
+	c ()V md_8774028_c
 	a (Ll;Ljava/lang/String;)Z md_16698367_a
 	b (Ll;Ljava/lang/String;)Z md_14950695_b
 	c (Ll;)V md_16122377_c
@@ -8195,7 +8195,7 @@ qd net/minecraft/src/ClsQdFkiuhfu
 	f (Ll;)Z md_13852307_f
 	g (Ll;)Z md_16024640_g
 	<clinit> ()V <clinit>
-qd$1 net/minecraft/src/ClsQdFkiuhfu$1
+qd$1 net/minecraft/src/ClsQdGtahpzq$1
 	<init> ()V <init>
 qe net/minecraft/src/ClsQeFwllldn
 	a QE
@@ -10622,13 +10622,13 @@ up$1 net/minecraft/network/PlayerHandler$1
 	c IS_2
 	d IS_3
 	<clinit> ()V <clinit>
-uq net/minecraft/src/ClsUqGssgzeh
+uq net/minecraft/src/ClsUqPskmns
 	a minecraftServer
 	b ik
 	<init> (Lnet/minecraft/server/MinecraftServer;Lik;)V <init>
 	a (Lol;)V md_16122377_a
 	a (Liw;)V md_16122377_a
-uq$1 net/minecraft/src/ClsUqGssgzeh$1
+uq$1 net/minecraft/src/ClsUqPskmns$1
 	a IS
 	<clinit> ()V <clinit>
 ur net/minecraft/network/login/ServerHandler
@@ -12165,7 +12165,7 @@ xa net/minecraft/src/ClsXaFsteeec
 	a (Lhl;)V md_16428232_a
 	a (Lub;)V md_16122377_a
 	<clinit> ()V <clinit>
-xb net/minecraft/src/ClsXbCfvfyau
+xb net/minecraft/src/ClsXbEvzibhj
 	b LOGGER
 	c minecraftServer
 	d file
@@ -12178,7 +12178,7 @@ xb net/minecraft/src/ClsXbCfvfyau
 	a (Lcom/mojang/datafixers/DataFixer;Ljava/lang/String;)V md_1602191_a
 	a (Lxe;Ljava/lang/String;)Lxc; md_1190034_a
 	a (Lcom/google/gson/JsonObject;)Lhl; md_3029196_a
-	b ()Ljava/lang/String; md_2564359_b
+	b ()Ljava/lang/String; md_2564360_b
 	b (Lxc;)Lpt; md_3029196_b
 	c ()V md_83848_c
 	a (Lub;)V md_13254723_a
@@ -12885,11 +12885,11 @@ ym net/minecraft/util/WeightedRandom
 ym$a net/minecraft/util/WeightedRandom$Item
 	a i
 	<init> (I)V <init>
-yn net/minecraft/src/ClsYnDjhnvuk
+yn net/minecraft/src/ClsYnGqvilzx
 	a BI_FUNCTION_0
 	b BI_FUNCTION_1
 	c DATA_FIXER
-	b ()Lcom/mojang/datafixers/DataFixer; md_16142978_b
+	b ()Lcom/mojang/datafixers/DataFixer; md_16142979_b
 	a ()Lcom/mojang/datafixers/DataFixer; md_3767883_a
 	a (Lcom/mojang/datafixers/DataFixerBuilder;)V md_11345832_a
 	a (Ljava/lang/String;)Ljava/lang/String; md_6925153_a
@@ -12916,10 +12916,10 @@ yn net/minecraft/src/ClsYnDjhnvuk
 	v (Ljava/lang/String;)Ljava/lang/String; md_16737399_v
 	w (Ljava/lang/String;)Ljava/lang/String; md_1301453_w
 	<clinit> ()V <clinit>
-yn$1 net/minecraft/src/ClsYnDjhnvuk$1
+yn$1 net/minecraft/src/ClsYnGqvilzx$1
 	<init> (Lcom/mojang/datafixers/schemas/Schema;ZLjava/lang/String;Lcom/mojang/datafixers/DSL$TypeReference;Ljava/lang/String;)V <init>
 	a (Lcom/mojang/datafixers/Typed;)Lcom/mojang/datafixers/Typed; md_3029196_a
-yn$2 net/minecraft/src/ClsYnDjhnvuk$2
+yn$2 net/minecraft/src/ClsYnGqvilzx$2
 	<init> (Lcom/mojang/datafixers/schemas/Schema;ZLjava/lang/String;Lcom/mojang/datafixers/DSL$TypeReference;Ljava/lang/String;)V <init>
 	a (Lcom/mojang/datafixers/Typed;)Lcom/mojang/datafixers/Typed; md_3029196_a
 yo net/minecraft/util/datafix/ClsYoEmhipbl
@@ -15280,7 +15280,7 @@ afl$a net/minecraft/data/EntityType$Builder
 	a (Ljava/lang/Class;)Lafl$a; create
 	a ()Lafl$a; md_11674786_a
 	b ()Lafl$a; md_11674786_b
-	a (Ljava/lang/String;)Lafl; md_1517321_a
+	a (Ljava/lang/String;)Lafl; md_1517352_a
 	a (Laza;)Lafh; md_3029196_a
 afm net/minecraft/inventory/EquipmentSlot
 	a MAINHAND
@@ -30398,7 +30398,7 @@ bkg net/minecraft/block/blockentity/BlockEntityType
 	A supplier
 	B type
 	a (Lbkg;)Lpt; md_3029196_a
-	a (Ljava/lang/String;Lbkg$a;)Lbkg; md_9032955_a
+	a (Ljava/lang/String;Lbkg$a;)Lbkg; md_9032986_a
 	<init> (Ljava/util/function/Supplier;Lcom/mojang/datafixers/types/Type;)V <init>
 	a ()Lbkf; getSupplier
 	a (Ljava/lang/String;)Lbkf; md_7312115_a
@@ -32636,7 +32636,7 @@ bot net/minecraft/world/storage/ThreadedAnvilChunkStorage
 	f savingAll
 	<init> (Ljava/io/File;Lcom/mojang/datafixers/DataFixer;)V <init>
 	b (Lazb;II)Lhl; md_11306668_b
-	a (Lbpb;Lcdr;II)Lhl; md_15250558_a
+	a (Lbpb;Lcdr;II)Lhl; md_15251520_a
 	a (Lbpb;Lcdr;)V md_12921724_a
 	a (Lazb;II)Lbop; md_11306668_a
 	a (Laza;Lbnu;)V writeNextIO
@@ -35846,7 +35846,7 @@ byk net/minecraft/src/ClsBykBvodhba
 	b (Layp;)Lbxj; md_12185854_b
 byl net/minecraft/src/IfBylDvdflym
 	a (Layn;Leq;Lbym$b;)Lbym$b; md_1271627_a
-bym net/minecraft/src/ClsBymEjuwuvt
+bym net/minecraft/src/ClsBymBovnffg
 	a list0
 	b list1
 	c blockPos
@@ -35870,18 +35870,18 @@ bym net/minecraft/src/ClsBymEjuwuvt
 	a (Lchc;Lbha;Lbia;Leq;)Lchc; md_3588426_a
 	a (Leq;Lbha;Lbia;)Leq; md_1271627_a
 	a (Leq;Lbha;Lbia;II)Leq; md_6550027_a
-	a (Lhl;)Lhl; md_8845732_a
+	a (Lhl;)Lhl; md_8845733_a
 	b (Lhl;)V md_13346387_b
 	a (Lhr;Lhr;)V md_15992743_a
 	a ([I)Lhr; md_12241982_a
 	a ([D)Lhr; md_12237177_a
 	a (IIILazb;ILev;III)V md_7107187_a
 	a (Lafh;)Z md_3771513_a
-bym$1 net/minecraft/src/ClsBymEjuwuvt$1
+bym$1 net/minecraft/src/ClsBymBovnffg$1
 	a IS_0
 	b IS_1
 	<clinit> ()V <clinit>
-bym$a net/minecraft/src/ClsBymEjuwuvt$a
+bym$a net/minecraft/src/ClsBymBovnffg$a
 	a BLOCK_STATE
 	b ez
 	c i
@@ -35892,12 +35892,12 @@ bym$a net/minecraft/src/ClsBymEjuwuvt$a
 	a (Lblz;I)V md_13235320_a
 	<init> (Lbym$1;)V <init>
 	<clinit> ()V <clinit>
-bym$b net/minecraft/src/ClsBymEjuwuvt$b
+bym$b net/minecraft/src/ClsBymBovnffg$b
 	a blockPos
 	b blockState
 	c nBTCompound
 	<init> (Leq;Lblz;Lhl;)V <init>
-bym$c net/minecraft/src/ClsBymEjuwuvt$c
+bym$c net/minecraft/src/ClsBymBovnffg$c
 	a vec3d
 	b blockPos
 	c nBTCompound
@@ -37438,20 +37438,20 @@ cde net/minecraft/src/ClsCdeDhhdrcb
 	z ()Lcgv; getCgv
 	a (Lbpb;Lhl;)V md_12921724_a
 	a (Lbpb;)Lhl; md_3029196_a
-cdf net/minecraft/src/ClsCdfBckdoeq
+cdf net/minecraft/src/ClsCdfFnwreco
 	a LOGGER
 	b dimensionType
 	c map
 	d object2IntMap
 	e cdj
 	<init> (Lbpb;Lcdj;)V <init>
-	a (Ljava/util/function/Function;Ljava/lang/String;)Lccv; md_13847823_a
+	a (Ljava/util/function/Function;Ljava/lang/String;)Lccv; md_13847854_a
 	a (Ljava/lang/String;Lccv;)V md_11474485_a
 	a ()V md_13515136_a
 	a (Ljava/lang/String;)I md_720098_a
 	a (Lcdj;Lbpb;Ljava/lang/String;I)Lhl; md_7553782_a
 	b ()V md_14910213_b
-	a (Lccv;)V md_6471417_a
+	a (Lccv;)V md_6471448_a
 	<clinit> ()V <clinit>
 cdg net/minecraft/src/ClsCdgEuuanfz
 	b LOGGER
@@ -37501,7 +37501,7 @@ cdh net/minecraft/src/ClsCdhBhkkvel
 	g (Ljava/lang/String;)Ljava/nio/file/Path; md_8802497_g
 	e ()Ljava/nio/file/Path; getPath1
 	<clinit> ()V <clinit>
-cdi net/minecraft/src/ClsCdiDmgiqod
+cdi net/minecraft/src/ClsCdiGxqhgip
 	b string0
 	c i0
 	d flag0
@@ -37556,7 +37556,7 @@ cdi net/minecraft/src/ClsCdiDmgiqod
 	<init> (Lazf;Ljava/lang/String;)V <init>
 	a (Lazf;)V md_16122377_a
 	a (Lhl;)Lhl; md_3029196_a
-	a (Lhl;Lhl;)V md_3511290_a
+	a (Lhl;Lhl;)V md_1002236_a
 	a ()J getL0
 	b ()I getI1
 	c ()I getI2
@@ -37564,7 +37564,7 @@ cdi net/minecraft/src/ClsCdiDmgiqod
 	e ()J getL1
 	f ()J getL2
 	g ()J getL4
-	R ()V md_4435809_R
+	R ()V md_4465600_R
 	h ()Lhl; md_3767883_h
 	i ()I md_83835_i
 	a (I)V setI1
@@ -37711,9 +37711,9 @@ cdm net/minecraft/world/WorldSummary
 	h ()Z isFlag2
 	i ()Liw; md_9253194_i
 	l ()Z md_9006648_l
-	m ()Z md_12367565_m
+	m ()Z md_12368526_m
 	n ()Z md_11949530_n
-	o ()Z md_12367565_o
+	o ()Z md_12368526_o
 	compareTo (Ljava/lang/Object;)I compareTo
 cdo net/minecraft/src/ClsCdoRfbldx
 	<init> ()V <init>
@@ -40893,7 +40893,7 @@ cjc net/minecraft/src/ClsCjcFopkuud
 	a ()Liw; getComponent
 	b ()I getI0
 	c ()I getI1
-cjd net/minecraft/src/ClsCjdDzsunbb
+cjd net/minecraft/src/ClsCjdEfjkxlw
 	a LOGGER
 	b file
 	c dataFixer
@@ -40901,7 +40901,7 @@ cjd net/minecraft/src/ClsCjdDzsunbb
 	e flag
 	<init> (Ljava/io/File;Lcom/mojang/datafixers/DataFixer;)V <init>
 	b ()V md_41252_b
-	a ()V md_4496974_a
+	a ()V md_4526765_a
 	a (I)Lcxe; md_9641445_a
 	<clinit> ()V <clinit>
 cje net/minecraft/src/ClsCjeGqpzrvf
@@ -41423,7 +41423,7 @@ cjm net/minecraft/client/settings/GameSettings
 	a ()V loadOptions
 	a (Lhl;)Lhl; md_5552705_a
 	a (Ljava/lang/String;)F md_3628064_a
-	b ()V md_2919233_b
+	b ()V md_7011040_b
 	a (Lwx;)F md_16122361_a
 	a (Lwx;F)V md_13235227_a
 	c ()V md_14910213_c
@@ -41895,7 +41895,7 @@ ckk net/minecraft/client/gui/ClsCkkBptwviz
 ckl net/minecraft/src/ClsCklEqckikv
 	a (Ljava/lang/String;Z)Ljava/lang/String; md_9657596_a
 	a (Liw;ILcjz;ZZ)Ljava/util/List; md_14474044_a
-ckm net/minecraft/client/gui/ClsCkmDzmzgfa
+ckm net/minecraft/client/gui/ClsCkmEtstlze
 	a minecraftClient
 	f cjz
 	g hitResult0
@@ -41908,15 +41908,19 @@ ckm net/minecraft/client/gui/ClsCkmDzmzgfa
 	b ()V md_13469704_b
 	c ()V md_10813494_c
 	d ()V md_8392117_d
-	e ()Ljava/util/List; md_10828167_e
+	e ()Ljava/util/List; md_9400231_e
+	g ()Laza; md_3767883_g
+	h ()Lboh; md_3767883_h
+	i ()Lboh; md_3767883_i
 	f ()Ljava/util/List; md_8804757_f
 	a (Ljava/util/Map$Entry;)Ljava/lang/String; md_11074625_a
-	g ()V md_10521926_g
+	j ()V md_10521926_j
 	c (IIII)I md_1637691_c
 	a (IIF)I md_11308185_a
 	a (J)J md_13358060_a
-	a (Laza;Layp;)Lboh; md_16605759_a
-ckm$1 net/minecraft/client/gui/ClsCkmDzmzgfa$1
+	k ()Lboh; md_3767883_k
+	a (Ldjr;)Ltz; md_3029196_a
+ckm$1 net/minecraft/client/gui/ClsCkmEtstlze$1
 	a IS
 	<clinit> ()V <clinit>
 ckn net/minecraft/client/gui/widgets/EditBox
@@ -45033,7 +45037,7 @@ cpq net/minecraft/src/ClsCpqFobdcxq
 	a (IIIIZF)V md_7744860_a
 	mouseClicked (DDI)Z mouseClicked
 	e ()Ldjs; getDjs
-cpr net/minecraft/src/ClsCprTvvvvk
+cpr net/minecraft/src/ClsCprDrnphem
 	c LOGGER
 	d THREAD_POOL_EXECUTOR
 	e IDENTIFIER_0
@@ -45599,7 +45603,7 @@ cqs$7 net/minecraft/client/gui/menu/world/SelectWorld$7
 	o selectWorld
 	<init> (Lcqs;IIIIILjava/lang/String;)V <init>
 	a (DD)V md_12561081_a
-cqt net/minecraft/src/ClsCqtFcwjsjv
+cqt net/minecraft/src/ClsCqtBzgqqya
 	c LOGGER
 	d DATE_FORMAT
 	e IDENTIFIER_0
@@ -46924,7 +46928,7 @@ cvb net/minecraft/client/multiplayer/ServerAddress
 	a (Ljava/lang/String;)Lcvb; parseString
 	b (Ljava/lang/String;)[Ljava/lang/String; getSrvRecord
 	a (Ljava/lang/String;I)I parsePort
-cvc net/minecraft/src/ClsCvcFjijgyp
+cvc net/minecraft/src/ClsCvcImbdr
 	a string0
 	b string1
 	c string2
@@ -46946,7 +46950,7 @@ cvc net/minecraft/src/ClsCvcFjijgyp
 	a (Ljava/lang/String;)V setString6
 	d ()Z isFlag1
 	a (Lcvc;)V md_16122377_a
-cvc$a net/minecraft/src/ClsCvcFjijgyp$a
+cvc$a net/minecraft/src/ClsCvcImbdr$a
 	a ENABLED
 	b DISABLED
 	c PROMPT
@@ -48453,16 +48457,15 @@ cym$a net/minecraft/src/ClsCymGkhqdra$a
 	a (Lcom/google/gson/JsonObject;)I md_2186805_a
 	b (Lcom/google/gson/JsonObject;)[F md_1463950_b
 	deserialize (Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object; deserialize
-cyn net/minecraft/src/ClsCynGjenqfw
+cyn net/minecraft/src/ClsCynCevmlh
 	f LOGGER
-	g CYR
-	h CYQ
+	g CYQ
 	a GSON
-	i list0
-	j flag0
-	k flag1
-	l cyv
-	m list1
+	h list0
+	i flag0
+	j flag1
+	k cyv
+	l list1
 	b string
 	c map
 	d cyn
@@ -48471,17 +48474,14 @@ cyn net/minecraft/src/ClsCynGjenqfw
 	a (Ljava/lang/String;)Lcyn; md_7312115_a
 	<init> (Lpt;Ljava/util/List;Ljava/util/Map;ZZLcyv;Ljava/util/List;)V <init>
 	a ()Ljava/util/List; md_8680555_a
-	i ()Z md_9006648_i
 	b ()Z md_83852_b
 	c ()Z isFlag0
-	d ()Z md_9006648_d
-	a (Ljava/util/function/Function;)V md_10584449_a
 	e ()Ljava/util/List; getList1
-	a (Lcyn;Ljava/util/function/Function;Ljava/util/function/Function;)Lcyt; md_7880908_a
+	a (Ldij;Lcyn;)Lcyt; md_16605759_a
 	f ()Ljava/util/Collection; md_16647275_f
 	a (Ljava/util/function/Function;Ljava/util/Set;)Ljava/util/Collection; md_14525918_a
-	a (Ljava/util/function/Function;Ljava/util/function/Function;Ldih;Z)Ldig; md_14593015_a
-	a (Lcyn;Ljava/util/function/Function;Ljava/util/function/Function;Ldih;Z)Ldig; md_8446257_a
+	a (Ldij;Ljava/util/function/Function;Ldih;Z)Ldig; md_2586168_a
+	a (Ldij;Lcyn;Ljava/util/function/Function;Ldih;Z)Ldig; md_11004132_a
 	a (Lcyj;Lcyk;Ldgz;Lev;Ldih;Z)Lcyi; md_14781452_a
 	b (Ljava/lang/String;)Z md_9238752_b
 	c (Ljava/lang/String;)Ljava/lang/String; md_12854711_c
@@ -48490,17 +48490,17 @@ cyn net/minecraft/src/ClsCynGjenqfw
 	g ()Lcyn; md_3767883_g
 	h ()Lcyv; md_3767883_h
 	a (Lcyv$b;)Lcyu; md_3029196_a
+	toString ()Ljava/lang/String; toString
 	a (Ljava/util/Set;Ljava/lang/String;)V md_14693499_a
 	a (Ljava/util/function/Function;Ljava/util/Set;Ljava/util/Set;Lcys;)V md_4751129_a
-	a (Lcyn;)Ljava/lang/String; getString
 	<clinit> ()V <clinit>
-cyn$1 net/minecraft/src/ClsCynGjenqfw$1
-cyn$a net/minecraft/src/ClsCynGjenqfw$a
+cyn$1 net/minecraft/src/ClsCynCevmlh$1
+cyn$a net/minecraft/src/ClsCynCevmlh$a
 	a cyn0
 	b cyn1
 	<init> (Lcyn;)V <init>
 	<init> (Lcyn;Lcyn$1;)V <init>
-cyn$b net/minecraft/src/ClsCynGjenqfw$b
+cyn$b net/minecraft/src/ClsCynCevmlh$b
 	<init> ()V <init>
 	a (Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Lcyn; md_4854884_a
 	a (Lcom/google/gson/JsonDeserializationContext;Lcom/google/gson/JsonObject;)Ljava/util/List; md_8710399_a
@@ -48636,14 +48636,14 @@ cys$a net/minecraft/src/ClsCysDmvtkdz$a
 	a (Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Lcys; md_12604221_a
 	a (Lcom/google/gson/JsonObject;)Ljava/util/Map; md_15532021_a
 	deserialize (Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object; deserialize
-cyt net/minecraft/src/ClsCytCaikyyj
+cyt net/minecraft/src/ClsCytEyzofqe
 	a CYT
 	b list0
 	c list1
 	<init> ()V <init>
-	<init> (Lcyn;Ljava/util/function/Function;Ljava/util/function/Function;Ljava/util/List;)V <init>
+	<init> (Ldij;Lcyn;Ljava/util/function/Function;Ljava/util/List;)V <init>
 	a (Ldig;Lauc;Laza;Lafq;)Ldig; md_12472687_a
-	a (Ljava/util/function/Function;Lcyn;Ljava/util/function/Function;Lcys;)Ldig; md_5375678_a
+	a (Ljava/util/function/Function;Lcyn;Ldij;Lcys;)Ldig; md_15586192_a
 	<clinit> ()V <clinit>
 cyu net/minecraft/src/ClsCyuFpmgtsq
 	a CYU
@@ -48713,7 +48713,7 @@ cyv$b net/minecraft/src/ClsCyvCwmwnkh$b
 	valueOf (Ljava/lang/String;)Lcyv$b; valueOf
 	<init> (Ljava/lang/String;I)V <init>
 	<clinit> ()V <clinit>
-cyw net/minecraft/src/ClsCywBtitzan
+cyw net/minecraft/src/ClsCywBllpjms
 	a list
 	<init> (Ljava/util/List;)V <init>
 	a ()Ljava/util/List; getList
@@ -48721,9 +48721,9 @@ cyw net/minecraft/src/ClsCywBtitzan
 	hashCode ()I hashCode
 	f ()Ljava/util/Collection; md_16647275_f
 	a (Ljava/util/function/Function;Ljava/util/Set;)Ljava/util/Collection; md_14525918_a
-	a (Ljava/util/function/Function;Ljava/util/function/Function;Ldih;Z)Ldig; md_14593015_a
+	a (Ldij;Ljava/util/function/Function;Ldih;Z)Ldig; md_2586168_a
 	a (Ljava/util/function/Function;Ljava/util/Set;Lpt;)Ljava/util/stream/Stream; md_8666667_a
-cyw$a net/minecraft/src/ClsCywBtitzan$a
+cyw$a net/minecraft/src/ClsCywBllpjms$a
 	<init> ()V <init>
 	a (Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Lcyw; md_13924842_a
 	deserialize (Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object; deserialize
@@ -48777,7 +48777,7 @@ cza net/minecraft/src/ClsCzaBweqpsw
 	a (Lblz;Ljava/util/function/Predicate;)Z md_4146798_a
 	b (Lbma;Lbnj;Ljava/lang/String;)Ljava/util/function/Predicate; md_7315069_b
 	<clinit> ()V <clinit>
-czb net/minecraft/src/ClsCzbBgwdbfx
+czb net/minecraft/src/ClsCzbBreacqc
 	a bma
 	b list
 	<init> (Lbma;Ljava/util/List;)V <init>
@@ -48787,10 +48787,10 @@ czb net/minecraft/src/ClsCzbBgwdbfx
 	hashCode ()I hashCode
 	f ()Ljava/util/Collection; md_16647275_f
 	a (Ljava/util/function/Function;Ljava/util/Set;)Ljava/util/Collection; md_14525918_a
-	a (Ljava/util/function/Function;Ljava/util/function/Function;Ldih;Z)Ldig; md_14593015_a
+	a (Ldij;Ljava/util/function/Function;Ldih;Z)Ldig; md_2586168_a
 	a (Ljava/util/function/Function;Ljava/util/Set;Lczd;)Ljava/util/stream/Stream; md_8666667_a
 	a (Lczd;)Ljava/util/stream/Stream; md_4398411_a
-czb$a net/minecraft/src/ClsCzbBgwdbfx$a
+czb$a net/minecraft/src/ClsCzbBreacqc$a
 	a cyo$a
 	<init> (Lcyo$a;)V <init>
 	a (Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Lczb; md_12604221_a
@@ -49116,7 +49116,7 @@ daa$a net/minecraft/src/ClsDaaBycfsmu$a
 	a (Ldaa$a;)I compareTo
 	compareTo (Ljava/lang/Object;)I compareTo
 	b (Ldaa$a;)Lcom/google/common/util/concurrent/ListenableFutureTask; getListenableFutureTask
-dab net/minecraft/src/ClsDabBbwqpre
+dab net/minecraft/src/ClsDabBmnwscf
 	a LOGGER
 	b daa
 	c cxj
@@ -49124,8 +49124,7 @@ dab net/minecraft/src/ClsDabBbwqpre
 	<init> (Ldaa;)V <init>
 	<init> (Ldaa;Lcxj;)V <init>
 	run ()V run
-	a (Lczz;)V md_7930928_a
-	a (Leq;Laza;)Z md_75180_a
+	a (Lczz;)V md_13921536_a
 	c ()Lcxj; md_3767883_c
 	b (Lczz;)V md_16122377_b
 	a ()V md_14910213_a
@@ -49133,7 +49132,7 @@ dab net/minecraft/src/ClsDabBbwqpre
 	a (Ldab;Lczz;)V md_12921724_a
 	b ()Lorg/apache/logging/log4j/Logger; md_3767883_b
 	<clinit> ()V <clinit>
-dab$1 net/minecraft/src/ClsDabBbwqpre$1
+dab$1 net/minecraft/src/ClsDabBmnwscf$1
 	a czz
 	b dac
 	c dab
@@ -49172,7 +49171,7 @@ dad net/minecraft/src/ClsDadCzzswwq
 	<init> (Laza;Lcxt;)V <init>
 	a (Layo;Ldac;)I md_10230782_a
 	a ()V md_14910213_a
-dae net/minecraft/src/ClsDaeFbabgga
+dae net/minecraft/src/ClsDaeGartgii
 	d world
 	e cxt
 	a i0
@@ -49190,31 +49189,33 @@ dae net/minecraft/src/ClsDaeFbabgga
 	o mutableBlockPoss
 	p flag1
 	<init> (Laza;Lcxt;)V <init>
+	a (Leq;Laza;)Z md_75180_a
+	b ()Z md_15095305_b
 	a (I)Z md_9073585_a
 	b (I)Lciu; md_6264220_b
 	a (III)V md_15344922_a
 	a (FFFLczz;)V md_4496423_a
 	b (FFFLczz;)V md_12435361_b
-	b ()V md_83848_b
-	c ()Ljava/util/concurrent/locks/ReentrantLock; getReentrantLock0
-	d ()Lczz; md_10342792_d
-	e ()Lczz; md_3767883_e
-	f ()D md_14359506_f
+	c ()V md_83848_c
+	d ()Ljava/util/concurrent/locks/ReentrantLock; getReentrantLock0
+	e ()Lczz; md_10342792_e
+	f ()Lczz; md_3767883_f
+	g ()D md_14359506_g
 	a (Lcip;Leq;)V md_14697483_a
 	a (Layo;FFFLcip;Ldac;)V md_5932922_a
-	p ()V md_10897200_p
-	g ()V md_83848_g
-	h ()Ldac; getDac
+	q ()V md_10897200_q
+	h ()V md_83848_h
+	i ()Ldac; getDac
 	a (Ldac;)V md_16122377_a
-	i ()V md_83848_i
+	j ()V md_83848_j
 	a ()V md_14910213_a
-	k ()Leq; getMutableBlockPos
+	l ()Leq; getMutableBlockPos
 	a (Z)V md_12893209_a
-	l ()V md_4765480_l
-	m ()Z isFlag0
-	n ()Z md_9006648_n
+	m ()V md_4765480_m
+	n ()Z isFlag0
+	o ()Z md_9006648_o
 	a (Lev;)Leq; md_3029196_a
-	o ()Laza; getWorld
+	p ()Laza; getWorld
 	a ([Leq$a;)V md_8427878_a
 daf net/minecraft/src/IfDafBkxueye
 	create (Laza;Lcxt;)Ldae; create
@@ -51441,7 +51442,7 @@ dgm net/minecraft/src/ClsDgmChgucpw
 	a (Ljava/io/InputStream;)Ljava/nio/ByteBuffer; md_7123487_a
 	b (Ljava/io/InputStream;)Ljava/lang/String; md_12508805_b
 	<clinit> ()V <clinit>
-dgn net/minecraft/src/ClsDgnEyhfnts
+dgn net/minecraft/src/ClsDgnBqrujzm
 	a LOGGER
 	b gLFWErrorCallback
 	c minecraftClient
@@ -52060,7 +52061,7 @@ dii net/minecraft/src/ClsDiiBtknpwm
 	d ()Ldgz; getDgz
 	e ()Lcyv; getCyv
 	f ()Lcyt; getCyt
-dij net/minecraft/src/ClsDijEqgjvwy
+dij net/minecraft/src/ClsDijUruwsu
 	a IDENTIFIER_0
 	b IDENTIFIER_1
 	c IDENTIFIER_2
@@ -52086,40 +52087,45 @@ dij net/minecraft/src/ClsDijEqgjvwy
 	r CYN_0
 	s CYN_1
 	y BMA
-	z vs
-	A dgy
-	B map1
-	C MAP_2
-	D map3
-	E set1
-	F cyo$a
+	z CYR
+	A MAP_1
+	B vs
+	C dgy
+	D set1
+	E cyo$a
+	F map2
+	G map3
+	H map4
+	I map5
 	<init> (Lvs;Ldgy;)V <init>
 	a (Lbma;Ljava/lang/String;)Ljava/util/function/Predicate; md_8001664_a
 	a (Lbnj;Ljava/lang/String;)Ljava/lang/Comparable; md_15514594_a
 	a (Lpt;)Ldio; md_9752823_a
 	b (Lpt;)V md_15748389_b
 	a (Lpt;Ldio;)V md_12921724_a
-	a (Ljava/util/Map;Ldil;)V md_5516014_a
-	a ()Ljava/util/Map; md_10689917_a
+	a (Ldil;)V md_16122377_a
+	a (Lpt;Ldih;Z)Ldig; md_1585719_a
 	c (Lpt;)Lcyn; md_9427808_c
-	a (Ldil;Ldio;)V md_11377689_a
-	a (Ljava/lang/String;)V md_16482670_a
-	a (Ljava/util/Set;Ldio;)Ljava/util/stream/Stream; md_1608042_a
-	a (Ljava/util/Map;Lblz;)V md_5516014_a
-	a (Ljava/util/Map;Lpt;Lbma;)V md_2891606_a
-	a (Ljava/util/Map;Lpt;Lblz;)V md_2891606_a
+	a ()Ljava/util/Map; getMap5
+	a (Lorg/apache/commons/lang3/tuple/Triple;)Ldig; md_3029196_a
 	a (Lcom/google/common/collect/ImmutableList;Lbma;Ljava/util/Map;Ldio;Lcyo;Lpt;Lcom/mojang/datafixers/util/Pair;Ljava/lang/String;Lcyw;)V md_10964819_a
 	a (Ljava/util/Map;Lcyw;Ldio;Lcyo;Lblz;)V md_15321369_a
 	a (Ldio;Ljava/util/Map$Entry;)Z md_8062420_a
 	a (Ljava/util/Map;Ldio;Lblz;)V md_2891606_a
 	a (Lvr;)Lcom/mojang/datafixers/util/Pair; md_4294811_a
-	b (Ljava/util/Map;Lpt;Lblz;)V md_2891606_b
+	a (Ljava/util/Map;Lpt;Lblz;)V md_2891606_a
 	d (Lpt;)Lbma; md_3029196_d
 	a (Lbdx;Ljava/util/Map;Lblz;)Z md_12279759_a
+	e (Lpt;)V md_197478_e
+	a (Ljava/lang/String;)V md_16482670_a
+	a (Ljava/util/Set;Ldio;)Ljava/util/stream/Stream; md_1608042_a
+	a (Lblz;)V md_16122377_a
+	a (Lpt;Lbma;)V md_12921724_a
+	a (Lpt;Lblz;)V md_12921724_a
 	a (Lcyn;)V md_7114775_a
 	b (Lcyn;)V md_4445845_b
 	<clinit> ()V <clinit>
-dij$a net/minecraft/src/ClsDijEqgjvwy$a
+dij$a net/minecraft/src/ClsDijUruwsu$a
 	<init> (Ljava/lang/String;)V <init>
 dik net/minecraft/src/ClsDikCqnepvp
 	a map
@@ -52194,10 +52200,10 @@ din$a net/minecraft/src/ClsDinXlebhi$a
 	a (Lcyi;)Ldin$a; md_3029196_a
 	a (Ldgz;)Ldin$a; setDgz
 	b ()Ldig; md_11319890_b
-dio net/minecraft/src/IfDioCchaxqh
+dio net/minecraft/src/IfDioDbnrucq
 	f ()Ljava/util/Collection; md_16647275_f
 	a (Ljava/util/function/Function;Ljava/util/Set;)Ljava/util/Collection; md_14525918_a
-	a (Ljava/util/function/Function;Ljava/util/function/Function;Ldih;Z)Ldig; md_14593015_a
+	a (Ldij;Ljava/util/function/Function;Ldih;Z)Ldig; md_2586168_a
 dip net/minecraft/src/ClsDipCrcbcqp
 	a i
 	b list
