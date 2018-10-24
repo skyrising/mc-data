@@ -17,11 +17,18 @@
   "acacia_log": {
     "class": "net/minecraft/block/Log"
   },
-  "acacia_planks": {},
+  "acacia_planks": {
+    "class": "net/minecraft/block/Block"
+  },
   "acacia_pressure_plate": {
     "class": "net/minecraft/block/PressurePlate"
   },
-  "acacia_sapling": {},
+  "acacia_sapling": {
+    "class": "net/minecraft/block/ClsBicClgwmjd"
+  },
+  "acacia_sign": {
+    "class": "net/minecraft/block/StandingSign"
+  },
   "acacia_slab": {
     "class": "net/minecraft/block/Slab"
   },
@@ -31,15 +38,32 @@
   "acacia_trapdoor": {
     "class": "net/minecraft/block/Trapdoor"
   },
+  "acacia_wall_sign": {
+    "class": "net/minecraft/block/WallSign"
+  },
   "acacia_wood": {
     "class": "net/minecraft/block/Wood"
   },
   "activator_rail": {
     "class": "net/minecraft/block/PoweredRail"
   },
-  "allium": {},
+  "air": {
+    "class": "net/minecraft/block/Air"
+  },
+  "allium": {
+    "class": "net/minecraft/block/ClsBfwCduhfzb"
+  },
   "andesite": {
     "class": "net/minecraft/block/Block"
+  },
+  "andesite_slab": {
+    "class": "net/minecraft/block/Slab"
+  },
+  "andesite_stairs": {
+    "class": "net/minecraft/block/Stairs"
+  },
+  "andesite_wall": {
+    "class": "net/minecraft/block/CobblestoneWall"
   },
   "anvil": {
     "class": "net/minecraft/block/Anvil"
@@ -50,7 +74,15 @@
   "attached_pumpkin_stem": {
     "class": "net/minecraft/block/AttachedStem"
   },
-  "azure_bluet": {},
+  "azure_bluet": {
+    "class": "net/minecraft/block/ClsBfwCduhfzb"
+  },
+  "bamboo": {
+    "class": "net/minecraft/block/Bamboo"
+  },
+  "bamboo_sapling": {
+    "class": "net/minecraft/block/BambooSapling"
+  },
   "barrier": {
     "class": "net/minecraft/block/Barrier"
   },
@@ -58,7 +90,7 @@
     "class": "net/minecraft/block/Beacon"
   },
   "bedrock": {
-    "class": "net/minecraft/block/Bedrock"
+    "class": "net/minecraft/block/Block"
   },
   "beetroots": {
     "class": "net/minecraft/block/Beetroots"
@@ -81,11 +113,18 @@
   "birch_log": {
     "class": "net/minecraft/block/Log"
   },
-  "birch_planks": {},
+  "birch_planks": {
+    "class": "net/minecraft/block/Block"
+  },
   "birch_pressure_plate": {
     "class": "net/minecraft/block/PressurePlate"
   },
-  "birch_sapling": {},
+  "birch_sapling": {
+    "class": "net/minecraft/block/ClsBicClgwmjd"
+  },
+  "birch_sign": {
+    "class": "net/minecraft/block/StandingSign"
+  },
   "birch_slab": {
     "class": "net/minecraft/block/Slab"
   },
@@ -94,6 +133,9 @@
   },
   "birch_trapdoor": {
     "class": "net/minecraft/block/Trapdoor"
+  },
+  "birch_wall_sign": {
+    "class": "net/minecraft/block/WallSign"
   },
   "birch_wood": {
     "class": "net/minecraft/block/Wood"
@@ -107,7 +149,9 @@
   "black_carpet": {
     "class": "net/minecraft/block/Carpet"
   },
-  "black_concrete": {},
+  "black_concrete": {
+    "class": "net/minecraft/block/Block"
+  },
   "black_concrete_powder": {
     "class": "net/minecraft/block/ConcretePowder"
   },
@@ -141,7 +185,9 @@
   "blue_carpet": {
     "class": "net/minecraft/block/Carpet"
   },
-  "blue_concrete": {},
+  "blue_concrete": {
+    "class": "net/minecraft/block/Block"
+  },
   "blue_concrete_powder": {
     "class": "net/minecraft/block/ConcretePowder"
   },
@@ -151,7 +197,9 @@
   "blue_ice": {
     "class": "net/minecraft/block/BlueIce"
   },
-  "blue_orchid": {},
+  "blue_orchid": {
+    "class": "net/minecraft/block/ClsBfwCduhfzb"
+  },
   "blue_shulker_box": {
     "class": "net/minecraft/block/ShulkerBox"
   },
@@ -174,7 +222,7 @@
     "class": "net/minecraft/block/Wood"
   },
   "bookshelf": {
-    "class": "net/minecraft/block/Bookshelf"
+    "class": "net/minecraft/block/Block"
   },
   "brain_coral": {
     "class": "net/minecraft/block/Coral"
@@ -197,7 +245,12 @@
   "brick_stairs": {
     "class": "net/minecraft/block/Stairs"
   },
-  "bricks": {},
+  "brick_wall": {
+    "class": "net/minecraft/block/CobblestoneWall"
+  },
+  "bricks": {
+    "class": "net/minecraft/block/Block"
+  },
   "brown_banner": {
     "class": "net/minecraft/block/StandingBanner"
   },
@@ -207,15 +260,21 @@
   "brown_carpet": {
     "class": "net/minecraft/block/Carpet"
   },
-  "brown_concrete": {},
+  "brown_concrete": {
+    "class": "net/minecraft/block/Block"
+  },
   "brown_concrete_powder": {
     "class": "net/minecraft/block/ConcretePowder"
   },
   "brown_glazed_terracotta": {
     "class": "net/minecraft/block/GlazedTerracotta"
   },
-  "brown_mushroom": {},
-  "brown_mushroom_block": {},
+  "brown_mushroom": {
+    "class": "net/minecraft/block/ClsBhbGgqweai"
+  },
+  "brown_mushroom_block": {
+    "class": "net/minecraft/block/MushroomBlock"
+  },
   "brown_shulker_box": {
     "class": "net/minecraft/block/ShulkerBox"
   },
@@ -249,7 +308,9 @@
   "bubble_coral_wall_fan": {
     "class": "net/minecraft/block/CoralWallFan"
   },
-  "cactus": {},
+  "cactus": {
+    "class": "net/minecraft/block/ClsBefCwdsjyb"
+  },
   "cake": {
     "class": "net/minecraft/block/Cake"
   },
@@ -283,13 +344,17 @@
   "chiseled_sandstone": {
     "class": "net/minecraft/block/Block"
   },
-  "chiseled_stone_bricks": {},
+  "chiseled_stone_bricks": {
+    "class": "net/minecraft/block/Block"
+  },
   "chorus_flower": {
     "class": "net/minecraft/block/ChorusFlower"
   },
-  "chorus_plant": {},
+  "chorus_plant": {
+    "class": "net/minecraft/block/ClsBemEkzpyxa"
+  },
   "clay": {
-    "class": "net/minecraft/block/Clay"
+    "class": "net/minecraft/block/Block"
   },
   "coal_block": {
     "class": "net/minecraft/block/Block"
@@ -300,7 +365,9 @@
   "coarse_dirt": {
     "class": "net/minecraft/block/Block"
   },
-  "cobblestone": {},
+  "cobblestone": {
+    "class": "net/minecraft/block/Block"
+  },
   "cobblestone_slab": {
     "class": "net/minecraft/block/Slab"
   },
@@ -325,7 +392,12 @@
   "conduit": {
     "class": "net/minecraft/block/Conduit"
   },
-  "cracked_stone_bricks": {},
+  "cornflower": {
+    "class": "net/minecraft/block/ClsBfwCduhfzb"
+  },
+  "cracked_stone_bricks": {
+    "class": "net/minecraft/block/Block"
+  },
   "crafting_table": {
     "class": "net/minecraft/block/CraftingTable"
   },
@@ -350,7 +422,9 @@
   "cyan_carpet": {
     "class": "net/minecraft/block/Carpet"
   },
-  "cyan_concrete": {},
+  "cyan_concrete": {
+    "class": "net/minecraft/block/Block"
+  },
   "cyan_concrete_powder": {
     "class": "net/minecraft/block/ConcretePowder"
   },
@@ -378,7 +452,9 @@
   "damaged_anvil": {
     "class": "net/minecraft/block/Anvil"
   },
-  "dandelion": {},
+  "dandelion": {
+    "class": "net/minecraft/block/ClsBfwCduhfzb"
+  },
   "dark_oak_button": {
     "class": "net/minecraft/block/WoodButton"
   },
@@ -397,11 +473,18 @@
   "dark_oak_log": {
     "class": "net/minecraft/block/Log"
   },
-  "dark_oak_planks": {},
+  "dark_oak_planks": {
+    "class": "net/minecraft/block/Block"
+  },
   "dark_oak_pressure_plate": {
     "class": "net/minecraft/block/PressurePlate"
   },
-  "dark_oak_sapling": {},
+  "dark_oak_sapling": {
+    "class": "net/minecraft/block/ClsBicClgwmjd"
+  },
+  "dark_oak_sign": {
+    "class": "net/minecraft/block/StandingSign"
+  },
   "dark_oak_slab": {
     "class": "net/minecraft/block/Slab"
   },
@@ -411,10 +494,15 @@
   "dark_oak_trapdoor": {
     "class": "net/minecraft/block/Trapdoor"
   },
+  "dark_oak_wall_sign": {
+    "class": "net/minecraft/block/WallSign"
+  },
   "dark_oak_wood": {
     "class": "net/minecraft/block/Wood"
   },
-  "dark_prismarine": {},
+  "dark_prismarine": {
+    "class": "net/minecraft/block/Block"
+  },
   "dark_prismarine_slab": {
     "class": "net/minecraft/block/Slab"
   },
@@ -424,27 +512,69 @@
   "daylight_detector": {
     "class": "net/minecraft/block/DaylightDetector"
   },
-  "dead_brain_coral": {},
-  "dead_brain_coral_block": {},
-  "dead_brain_coral_fan": {},
-  "dead_brain_coral_wall_fan": {},
-  "dead_bubble_coral": {},
-  "dead_bubble_coral_block": {},
-  "dead_bubble_coral_fan": {},
-  "dead_bubble_coral_wall_fan": {},
-  "dead_bush": {},
-  "dead_fire_coral": {},
-  "dead_fire_coral_block": {},
-  "dead_fire_coral_fan": {},
-  "dead_fire_coral_wall_fan": {},
-  "dead_horn_coral": {},
-  "dead_horn_coral_block": {},
-  "dead_horn_coral_fan": {},
-  "dead_horn_coral_wall_fan": {},
-  "dead_tube_coral": {},
-  "dead_tube_coral_block": {},
-  "dead_tube_coral_fan": {},
-  "dead_tube_coral_wall_fan": {},
+  "dead_brain_coral": {
+    "class": "net/minecraft/block/DeadCoral"
+  },
+  "dead_brain_coral_block": {
+    "class": "net/minecraft/block/Block"
+  },
+  "dead_brain_coral_fan": {
+    "class": "net/minecraft/block/DeadCoralFan"
+  },
+  "dead_brain_coral_wall_fan": {
+    "class": "net/minecraft/block/DeadCoralWallFan"
+  },
+  "dead_bubble_coral": {
+    "class": "net/minecraft/block/DeadCoral"
+  },
+  "dead_bubble_coral_block": {
+    "class": "net/minecraft/block/Block"
+  },
+  "dead_bubble_coral_fan": {
+    "class": "net/minecraft/block/DeadCoralFan"
+  },
+  "dead_bubble_coral_wall_fan": {
+    "class": "net/minecraft/block/DeadCoralWallFan"
+  },
+  "dead_bush": {
+    "class": "net/minecraft/block/DeadBush"
+  },
+  "dead_fire_coral": {
+    "class": "net/minecraft/block/DeadCoral"
+  },
+  "dead_fire_coral_block": {
+    "class": "net/minecraft/block/Block"
+  },
+  "dead_fire_coral_fan": {
+    "class": "net/minecraft/block/DeadCoralFan"
+  },
+  "dead_fire_coral_wall_fan": {
+    "class": "net/minecraft/block/DeadCoralWallFan"
+  },
+  "dead_horn_coral": {
+    "class": "net/minecraft/block/DeadCoral"
+  },
+  "dead_horn_coral_block": {
+    "class": "net/minecraft/block/Block"
+  },
+  "dead_horn_coral_fan": {
+    "class": "net/minecraft/block/DeadCoralFan"
+  },
+  "dead_horn_coral_wall_fan": {
+    "class": "net/minecraft/block/DeadCoralWallFan"
+  },
+  "dead_tube_coral": {
+    "class": "net/minecraft/block/DeadCoral"
+  },
+  "dead_tube_coral_block": {
+    "class": "net/minecraft/block/Block"
+  },
+  "dead_tube_coral_fan": {
+    "class": "net/minecraft/block/DeadCoralFan"
+  },
+  "dead_tube_coral_wall_fan": {
+    "class": "net/minecraft/block/DeadCoralWallFan"
+  },
   "detector_rail": {
     "class": "net/minecraft/block/DetectorRail"
   },
@@ -456,6 +586,15 @@
   },
   "diorite": {
     "class": "net/minecraft/block/Block"
+  },
+  "diorite_slab": {
+    "class": "net/minecraft/block/Slab"
+  },
+  "diorite_stairs": {
+    "class": "net/minecraft/block/Stairs"
+  },
+  "diorite_wall": {
+    "class": "net/minecraft/block/CobblestoneWall"
   },
   "dirt": {
     "class": "net/minecraft/block/Block"
@@ -502,14 +641,27 @@
   "end_stone": {
     "class": "net/minecraft/block/Block"
   },
+  "end_stone_brick_slab": {
+    "class": "net/minecraft/block/Slab"
+  },
+  "end_stone_brick_stairs": {
+    "class": "net/minecraft/block/Stairs"
+  },
+  "end_stone_brick_wall": {
+    "class": "net/minecraft/block/CobblestoneWall"
+  },
   "end_stone_bricks": {
     "class": "net/minecraft/block/Block"
   },
   "ender_chest": {
     "class": "net/minecraft/block/EnderChest"
   },
-  "farmland": {},
-  "fern": {},
+  "farmland": {
+    "class": "net/minecraft/block/ClsBfsCqrlcii"
+  },
+  "fern": {
+    "class": "net/minecraft/block/Grass"
+  },
   "fire": {
     "class": "net/minecraft/block/Fire"
   },
@@ -541,7 +693,7 @@
     "class": "net/minecraft/block/GlassPane"
   },
   "glowstone": {
-    "class": "net/minecraft/block/Glowstone"
+    "class": "net/minecraft/block/Block"
   },
   "gold_block": {
     "class": "net/minecraft/block/Block"
@@ -552,11 +704,24 @@
   "granite": {
     "class": "net/minecraft/block/Block"
   },
-  "grass": {},
+  "granite_slab": {
+    "class": "net/minecraft/block/Slab"
+  },
+  "granite_stairs": {
+    "class": "net/minecraft/block/Stairs"
+  },
+  "granite_wall": {
+    "class": "net/minecraft/block/CobblestoneWall"
+  },
+  "grass": {
+    "class": "net/minecraft/block/Grass"
+  },
   "grass_block": {
     "class": "net/minecraft/block/GrassBlock"
   },
-  "grass_path": {},
+  "grass_path": {
+    "class": "net/minecraft/block/ClsBgdBpdsyjp"
+  },
   "gravel": {
     "class": "net/minecraft/block/Gravel"
   },
@@ -569,7 +734,9 @@
   "gray_carpet": {
     "class": "net/minecraft/block/Carpet"
   },
-  "gray_concrete": {},
+  "gray_concrete": {
+    "class": "net/minecraft/block/Block"
+  },
   "gray_concrete_powder": {
     "class": "net/minecraft/block/ConcretePowder"
   },
@@ -603,7 +770,9 @@
   "green_carpet": {
     "class": "net/minecraft/block/Carpet"
   },
-  "green_concrete": {},
+  "green_concrete": {
+    "class": "net/minecraft/block/Block"
+  },
   "green_concrete_powder": {
     "class": "net/minecraft/block/ConcretePowder"
   },
@@ -671,7 +840,7 @@
     "class": "net/minecraft/block/InfestedStone"
   },
   "iron_bars": {
-    "class": "net/minecraft/block/IronBars"
+    "class": "net/minecraft/block/GlassPane"
   },
   "iron_block": {
     "class": "net/minecraft/block/Block"
@@ -709,11 +878,18 @@
   "jungle_log": {
     "class": "net/minecraft/block/Log"
   },
-  "jungle_planks": {},
+  "jungle_planks": {
+    "class": "net/minecraft/block/Block"
+  },
   "jungle_pressure_plate": {
     "class": "net/minecraft/block/PressurePlate"
   },
-  "jungle_sapling": {},
+  "jungle_sapling": {
+    "class": "net/minecraft/block/ClsBicClgwmjd"
+  },
+  "jungle_sign": {
+    "class": "net/minecraft/block/StandingSign"
+  },
   "jungle_slab": {
     "class": "net/minecraft/block/Slab"
   },
@@ -723,10 +899,15 @@
   "jungle_trapdoor": {
     "class": "net/minecraft/block/Trapdoor"
   },
+  "jungle_wall_sign": {
+    "class": "net/minecraft/block/WallSign"
+  },
   "jungle_wood": {
     "class": "net/minecraft/block/Wood"
   },
-  "kelp": {},
+  "kelp": {
+    "class": "net/minecraft/block/Kelp"
+  },
   "kelp_plant": {
     "class": "net/minecraft/block/KelpPlant"
   },
@@ -757,7 +938,9 @@
   "light_blue_carpet": {
     "class": "net/minecraft/block/Carpet"
   },
-  "light_blue_concrete": {},
+  "light_blue_concrete": {
+    "class": "net/minecraft/block/Block"
+  },
   "light_blue_concrete_powder": {
     "class": "net/minecraft/block/ConcretePowder"
   },
@@ -791,7 +974,9 @@
   "light_gray_carpet": {
     "class": "net/minecraft/block/Carpet"
   },
-  "light_gray_concrete": {},
+  "light_gray_concrete": {
+    "class": "net/minecraft/block/Block"
+  },
   "light_gray_concrete_powder": {
     "class": "net/minecraft/block/ConcretePowder"
   },
@@ -822,6 +1007,9 @@
   "lilac": {
     "class": "net/minecraft/block/TallFlower"
   },
+  "lily_of_the_valley": {
+    "class": "net/minecraft/block/ClsBfwCduhfzb"
+  },
   "lily_pad": {
     "class": "net/minecraft/block/LilyPad"
   },
@@ -834,7 +1022,9 @@
   "lime_carpet": {
     "class": "net/minecraft/block/Carpet"
   },
-  "lime_concrete": {},
+  "lime_concrete": {
+    "class": "net/minecraft/block/Block"
+  },
   "lime_concrete_powder": {
     "class": "net/minecraft/block/ConcretePowder"
   },
@@ -859,6 +1049,9 @@
   "lime_wool": {
     "class": "net/minecraft/block/Block"
   },
+  "loom": {
+    "class": "net/minecraft/block/Loom"
+  },
   "magenta_banner": {
     "class": "net/minecraft/block/StandingBanner"
   },
@@ -868,7 +1061,9 @@
   "magenta_carpet": {
     "class": "net/minecraft/block/Carpet"
   },
-  "magenta_concrete": {},
+  "magenta_concrete": {
+    "class": "net/minecraft/block/Block"
+  },
   "magenta_concrete_powder": {
     "class": "net/minecraft/block/ConcretePowder"
   },
@@ -896,17 +1091,36 @@
   "magma_block": {
     "class": "net/minecraft/block/MagmaBlock"
   },
-  "melon": {},
+  "melon": {
+    "class": "net/minecraft/block/Melon"
+  },
   "melon_stem": {
     "class": "net/minecraft/block/Stem"
   },
   "mossy_cobblestone": {
     "class": "net/minecraft/block/Block"
   },
+  "mossy_cobblestone_slab": {
+    "class": "net/minecraft/block/Slab"
+  },
+  "mossy_cobblestone_stairs": {
+    "class": "net/minecraft/block/Stairs"
+  },
   "mossy_cobblestone_wall": {
     "class": "net/minecraft/block/CobblestoneWall"
   },
-  "mossy_stone_bricks": {},
+  "mossy_stone_brick_slab": {
+    "class": "net/minecraft/block/Slab"
+  },
+  "mossy_stone_brick_stairs": {
+    "class": "net/minecraft/block/Stairs"
+  },
+  "mossy_stone_brick_wall": {
+    "class": "net/minecraft/block/CobblestoneWall"
+  },
+  "mossy_stone_bricks": {
+    "class": "net/minecraft/block/Block"
+  },
   "moving_piston": {
     "class": "net/minecraft/block/MovingPiston"
   },
@@ -925,7 +1139,12 @@
   "nether_brick_stairs": {
     "class": "net/minecraft/block/Stairs"
   },
-  "nether_bricks": {},
+  "nether_brick_wall": {
+    "class": "net/minecraft/block/CobblestoneWall"
+  },
+  "nether_bricks": {
+    "class": "net/minecraft/block/Block"
+  },
   "nether_portal": {
     "class": "net/minecraft/block/NetherPortal"
   },
@@ -962,11 +1181,18 @@
   "oak_log": {
     "class": "net/minecraft/block/Log"
   },
-  "oak_planks": {},
+  "oak_planks": {
+    "class": "net/minecraft/block/Block"
+  },
   "oak_pressure_plate": {
     "class": "net/minecraft/block/PressurePlate"
   },
-  "oak_sapling": {},
+  "oak_sapling": {
+    "class": "net/minecraft/block/ClsBicClgwmjd"
+  },
+  "oak_sign": {
+    "class": "net/minecraft/block/StandingSign"
+  },
   "oak_slab": {
     "class": "net/minecraft/block/Slab"
   },
@@ -975,6 +1201,9 @@
   },
   "oak_trapdoor": {
     "class": "net/minecraft/block/Trapdoor"
+  },
+  "oak_wall_sign": {
+    "class": "net/minecraft/block/WallSign"
   },
   "oak_wood": {
     "class": "net/minecraft/block/Wood"
@@ -994,7 +1223,9 @@
   "orange_carpet": {
     "class": "net/minecraft/block/Carpet"
   },
-  "orange_concrete": {},
+  "orange_concrete": {
+    "class": "net/minecraft/block/Block"
+  },
   "orange_concrete_powder": {
     "class": "net/minecraft/block/ConcretePowder"
   },
@@ -1013,16 +1244,20 @@
   "orange_terracotta": {
     "class": "net/minecraft/block/Block"
   },
-  "orange_tulip": {},
+  "orange_tulip": {
+    "class": "net/minecraft/block/ClsBfwCduhfzb"
+  },
   "orange_wall_banner": {
     "class": "net/minecraft/block/WallBanner"
   },
   "orange_wool": {
     "class": "net/minecraft/block/Block"
   },
-  "oxeye_daisy": {},
+  "oxeye_daisy": {
+    "class": "net/minecraft/block/ClsBfwCduhfzb"
+  },
   "packed_ice": {
-    "class": "net/minecraft/block/PackedIce"
+    "class": "net/minecraft/block/Block"
   },
   "peony": {
     "class": "net/minecraft/block/TallFlower"
@@ -1039,7 +1274,9 @@
   "pink_carpet": {
     "class": "net/minecraft/block/Carpet"
   },
-  "pink_concrete": {},
+  "pink_concrete": {
+    "class": "net/minecraft/block/Block"
+  },
   "pink_concrete_powder": {
     "class": "net/minecraft/block/ConcretePowder"
   },
@@ -1058,7 +1295,9 @@
   "pink_terracotta": {
     "class": "net/minecraft/block/Block"
   },
-  "pink_tulip": {},
+  "pink_tulip": {
+    "class": "net/minecraft/block/ClsBfwCduhfzb"
+  },
   "pink_wall_banner": {
     "class": "net/minecraft/block/WallBanner"
   },
@@ -1083,13 +1322,33 @@
   "polished_andesite": {
     "class": "net/minecraft/block/Block"
   },
+  "polished_andesite_slab": {
+    "class": "net/minecraft/block/Slab"
+  },
+  "polished_andesite_stairs": {
+    "class": "net/minecraft/block/Stairs"
+  },
   "polished_diorite": {
     "class": "net/minecraft/block/Block"
+  },
+  "polished_diorite_slab": {
+    "class": "net/minecraft/block/Slab"
+  },
+  "polished_diorite_stairs": {
+    "class": "net/minecraft/block/Stairs"
   },
   "polished_granite": {
     "class": "net/minecraft/block/Block"
   },
-  "poppy": {},
+  "polished_granite_slab": {
+    "class": "net/minecraft/block/Slab"
+  },
+  "polished_granite_stairs": {
+    "class": "net/minecraft/block/Stairs"
+  },
+  "poppy": {
+    "class": "net/minecraft/block/ClsBfwCduhfzb"
+  },
   "potatoes": {
     "class": "net/minecraft/block/Potatoes"
   },
@@ -1102,6 +1361,9 @@
   "potted_azure_bluet": {
     "class": "net/minecraft/block/FlowerPot"
   },
+  "potted_bamboo": {
+    "class": "net/minecraft/block/FlowerPot"
+  },
   "potted_birch_sapling": {
     "class": "net/minecraft/block/FlowerPot"
   },
@@ -1112,6 +1374,9 @@
     "class": "net/minecraft/block/FlowerPot"
   },
   "potted_cactus": {
+    "class": "net/minecraft/block/FlowerPot"
+  },
+  "potted_cornflower": {
     "class": "net/minecraft/block/FlowerPot"
   },
   "potted_dandelion": {
@@ -1127,6 +1392,9 @@
     "class": "net/minecraft/block/FlowerPot"
   },
   "potted_jungle_sapling": {
+    "class": "net/minecraft/block/FlowerPot"
+  },
+  "potted_lily_of_the_valley": {
     "class": "net/minecraft/block/FlowerPot"
   },
   "potted_oak_sapling": {
@@ -1156,24 +1424,36 @@
   "potted_white_tulip": {
     "class": "net/minecraft/block/FlowerPot"
   },
+  "potted_wither_rose": {
+    "class": "net/minecraft/block/FlowerPot"
+  },
   "powered_rail": {
     "class": "net/minecraft/block/PoweredRail"
   },
-  "prismarine": {},
+  "prismarine": {
+    "class": "net/minecraft/block/Block"
+  },
   "prismarine_brick_slab": {
     "class": "net/minecraft/block/Slab"
   },
   "prismarine_brick_stairs": {
     "class": "net/minecraft/block/Stairs"
   },
-  "prismarine_bricks": {},
+  "prismarine_bricks": {
+    "class": "net/minecraft/block/Block"
+  },
   "prismarine_slab": {
     "class": "net/minecraft/block/Slab"
   },
   "prismarine_stairs": {
     "class": "net/minecraft/block/Stairs"
   },
-  "pumpkin": {},
+  "prismarine_wall": {
+    "class": "net/minecraft/block/CobblestoneWall"
+  },
+  "pumpkin": {
+    "class": "net/minecraft/block/ClsBhpFotuaou"
+  },
   "pumpkin_stem": {
     "class": "net/minecraft/block/Stem"
   },
@@ -1186,7 +1466,9 @@
   "purple_carpet": {
     "class": "net/minecraft/block/Carpet"
   },
-  "purple_concrete": {},
+  "purple_concrete": {
+    "class": "net/minecraft/block/Block"
+  },
   "purple_concrete_powder": {
     "class": "net/minecraft/block/ConcretePowder"
   },
@@ -1211,7 +1493,9 @@
   "purple_wool": {
     "class": "net/minecraft/block/Block"
   },
-  "purpur_block": {},
+  "purpur_block": {
+    "class": "net/minecraft/block/Block"
+  },
   "purpur_pillar": {
     "class": "net/minecraft/block/Wood"
   },
@@ -1221,7 +1505,9 @@
   "purpur_stairs": {
     "class": "net/minecraft/block/Stairs"
   },
-  "quartz_block": {},
+  "quartz_block": {
+    "class": "net/minecraft/block/Block"
+  },
   "quartz_pillar": {
     "class": "net/minecraft/block/Wood"
   },
@@ -1243,27 +1529,47 @@
   "red_carpet": {
     "class": "net/minecraft/block/Carpet"
   },
-  "red_concrete": {},
+  "red_concrete": {
+    "class": "net/minecraft/block/Block"
+  },
   "red_concrete_powder": {
     "class": "net/minecraft/block/ConcretePowder"
   },
   "red_glazed_terracotta": {
     "class": "net/minecraft/block/GlazedTerracotta"
   },
-  "red_mushroom": {},
-  "red_mushroom_block": {},
+  "red_mushroom": {
+    "class": "net/minecraft/block/ClsBhbGgqweai"
+  },
+  "red_mushroom_block": {
+    "class": "net/minecraft/block/MushroomBlock"
+  },
+  "red_nether_brick_slab": {
+    "class": "net/minecraft/block/Slab"
+  },
+  "red_nether_brick_stairs": {
+    "class": "net/minecraft/block/Stairs"
+  },
+  "red_nether_brick_wall": {
+    "class": "net/minecraft/block/CobblestoneWall"
+  },
   "red_nether_bricks": {
     "class": "net/minecraft/block/Block"
   },
   "red_sand": {
     "class": "net/minecraft/block/Sand"
   },
-  "red_sandstone": {},
+  "red_sandstone": {
+    "class": "net/minecraft/block/Block"
+  },
   "red_sandstone_slab": {
     "class": "net/minecraft/block/Slab"
   },
   "red_sandstone_stairs": {
     "class": "net/minecraft/block/Stairs"
+  },
+  "red_sandstone_wall": {
+    "class": "net/minecraft/block/CobblestoneWall"
   },
   "red_shulker_box": {
     "class": "net/minecraft/block/ShulkerBox"
@@ -1277,7 +1583,9 @@
   "red_terracotta": {
     "class": "net/minecraft/block/Block"
   },
-  "red_tulip": {},
+  "red_tulip": {
+    "class": "net/minecraft/block/ClsBfwCduhfzb"
+  },
   "red_wall_banner": {
     "class": "net/minecraft/block/WallBanner"
   },
@@ -1314,25 +1622,29 @@
   "sand": {
     "class": "net/minecraft/block/Sand"
   },
-  "sandstone": {},
+  "sandstone": {
+    "class": "net/minecraft/block/Block"
+  },
   "sandstone_slab": {
     "class": "net/minecraft/block/Slab"
   },
   "sandstone_stairs": {
     "class": "net/minecraft/block/Stairs"
   },
+  "sandstone_wall": {
+    "class": "net/minecraft/block/CobblestoneWall"
+  },
   "sea_lantern": {
-    "class": "net/minecraft/block/SeaLantern"
+    "class": "net/minecraft/block/Block"
   },
   "sea_pickle": {
     "class": "net/minecraft/block/SeaPickle"
   },
-  "seagrass": {},
+  "seagrass": {
+    "class": "net/minecraft/block/Seagrass"
+  },
   "shulker_box": {
     "class": "net/minecraft/block/ShulkerBox"
-  },
-  "sign": {
-    "class": "net/minecraft/block/StandingSign"
   },
   "skeleton_skull": {
     "class": "net/minecraft/block/NormalHead"
@@ -1346,20 +1658,41 @@
   "smooth_quartz": {
     "class": "net/minecraft/block/Block"
   },
+  "smooth_quartz_slab": {
+    "class": "net/minecraft/block/Slab"
+  },
+  "smooth_quartz_stairs": {
+    "class": "net/minecraft/block/Stairs"
+  },
   "smooth_red_sandstone": {
     "class": "net/minecraft/block/Block"
+  },
+  "smooth_red_sandstone_slab": {
+    "class": "net/minecraft/block/Slab"
+  },
+  "smooth_red_sandstone_stairs": {
+    "class": "net/minecraft/block/Stairs"
   },
   "smooth_sandstone": {
     "class": "net/minecraft/block/Block"
   },
+  "smooth_sandstone_slab": {
+    "class": "net/minecraft/block/Slab"
+  },
+  "smooth_sandstone_stairs": {
+    "class": "net/minecraft/block/Stairs"
+  },
   "smooth_stone": {
     "class": "net/minecraft/block/Block"
+  },
+  "smooth_stone_slab": {
+    "class": "net/minecraft/block/Slab"
   },
   "snow": {
     "class": "net/minecraft/block/Snow"
   },
   "snow_block": {
-    "class": "net/minecraft/block/SnowBlock"
+    "class": "net/minecraft/block/Block"
   },
   "soul_sand": {
     "class": "net/minecraft/block/SoulSand"
@@ -1388,11 +1721,18 @@
   "spruce_log": {
     "class": "net/minecraft/block/Log"
   },
-  "spruce_planks": {},
+  "spruce_planks": {
+    "class": "net/minecraft/block/Block"
+  },
   "spruce_pressure_plate": {
     "class": "net/minecraft/block/PressurePlate"
   },
-  "spruce_sapling": {},
+  "spruce_sapling": {
+    "class": "net/minecraft/block/ClsBicClgwmjd"
+  },
+  "spruce_sign": {
+    "class": "net/minecraft/block/StandingSign"
+  },
   "spruce_slab": {
     "class": "net/minecraft/block/Slab"
   },
@@ -1402,20 +1742,30 @@
   "spruce_trapdoor": {
     "class": "net/minecraft/block/Trapdoor"
   },
+  "spruce_wall_sign": {
+    "class": "net/minecraft/block/WallSign"
+  },
   "spruce_wood": {
     "class": "net/minecraft/block/Wood"
   },
   "sticky_piston": {
     "class": "net/minecraft/block/Piston"
   },
-  "stone": {},
+  "stone": {
+    "class": "net/minecraft/block/Block"
+  },
   "stone_brick_slab": {
     "class": "net/minecraft/block/Slab"
   },
   "stone_brick_stairs": {
     "class": "net/minecraft/block/Stairs"
   },
-  "stone_bricks": {},
+  "stone_brick_wall": {
+    "class": "net/minecraft/block/CobblestoneWall"
+  },
+  "stone_bricks": {
+    "class": "net/minecraft/block/Block"
+  },
   "stone_button": {
     "class": "net/minecraft/block/StoneButton"
   },
@@ -1424,6 +1774,9 @@
   },
   "stone_slab": {
     "class": "net/minecraft/block/Slab"
+  },
+  "stone_stairs": {
+    "class": "net/minecraft/block/Stairs"
   },
   "stripped_acacia_log": {
     "class": "net/minecraft/block/Log"
@@ -1494,7 +1847,9 @@
   "tripwire": {
     "class": "net/minecraft/block/Tripwire"
   },
-  "tripwire_hook": {},
+  "tripwire_hook": {
+    "class": "net/minecraft/block/ClsBjkYahcae"
+  },
   "tube_coral": {
     "class": "net/minecraft/block/Coral"
   },
@@ -1515,9 +1870,6 @@
   },
   "void_air": {
     "class": "net/minecraft/block/Air"
-  },
-  "wall_sign": {
-    "class": "net/minecraft/block/WallSign"
   },
   "wall_torch": {
     "class": "net/minecraft/block/WallTorch"
@@ -1540,7 +1892,9 @@
   "white_carpet": {
     "class": "net/minecraft/block/Carpet"
   },
-  "white_concrete": {},
+  "white_concrete": {
+    "class": "net/minecraft/block/Block"
+  },
   "white_concrete_powder": {
     "class": "net/minecraft/block/ConcretePowder"
   },
@@ -1559,12 +1913,17 @@
   "white_terracotta": {
     "class": "net/minecraft/block/Block"
   },
-  "white_tulip": {},
+  "white_tulip": {
+    "class": "net/minecraft/block/ClsBfwCduhfzb"
+  },
   "white_wall_banner": {
     "class": "net/minecraft/block/WallBanner"
   },
   "white_wool": {
     "class": "net/minecraft/block/Block"
+  },
+  "wither_rose": {
+    "class": "net/minecraft/block/ClsBjwFihueqq"
   },
   "wither_skeleton_skull": {
     "class": "net/minecraft/block/WitherSkeletonSkull"
@@ -1581,7 +1940,9 @@
   "yellow_carpet": {
     "class": "net/minecraft/block/Carpet"
   },
-  "yellow_concrete": {},
+  "yellow_concrete": {
+    "class": "net/minecraft/block/Block"
+  },
   "yellow_concrete_powder": {
     "class": "net/minecraft/block/ConcretePowder"
   },

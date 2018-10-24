@@ -159,6 +159,10 @@
     "name": "Husk",
     "class": "net.minecraft.entity.monster.Husk"
   },
+  "illager_beast": {
+    "name": "IllagerBeast",
+    "class": "net.minecraft.entity.monster.IllagerBeast"
+  },
   "illusioner": {
     "name": "Illusioner",
     "class": "net.minecraft.entity.monster.Illusioner"
@@ -215,6 +219,10 @@
     "name": "Painting",
     "class": "net.minecraft.entity.item.Painting"
   },
+  "panda": {
+    "name": "Panda",
+    "class": "net.minecraft.entity.passive.Panda"
+  },
   "parrot": {
     "name": "Parrot",
     "class": "net.minecraft.entity.passive.Parrot"
@@ -226,6 +234,10 @@
   "pig": {
     "name": "Pig",
     "class": "net.minecraft.entity.passive.Pig"
+  },
+  "pillager": {
+    "name": "Pillager",
+    "class": "net.minecraft.entity.monster.Pillager"
   },
   "player": {
     "name": "Player",

@@ -1,75 +1,227 @@
 {
-  "badlands": {},
-  "badlands_plateau": {},
-  "beach": {},
-  "birch_forest": {},
-  "birch_forest_hills": {},
-  "cold_ocean": {},
-  "dark_forest": {},
-  "dark_forest_hills": {},
-  "deep_cold_ocean": {},
-  "deep_frozen_ocean": {},
-  "deep_lukewarm_ocean": {},
-  "deep_ocean": {},
-  "deep_warm_ocean": {},
-  "desert": {},
-  "desert_hills": {},
-  "desert_lakes": {},
-  "end_barrens": {},
-  "end_highlands": {},
-  "end_midlands": {},
-  "eroded_badlands": {},
-  "flower_forest": {},
-  "forest": {},
-  "frozen_ocean": {},
-  "frozen_river": {},
-  "giant_spruce_taiga": {},
-  "giant_spruce_taiga_hills": {},
-  "giant_tree_taiga": {},
-  "giant_tree_taiga_hills": {},
-  "gravelly_mountains": {},
-  "ice_spikes": {},
-  "jungle": {},
-  "jungle_edge": {},
-  "jungle_hills": {},
-  "lukewarm_ocean": {},
-  "modified_badlands_plateau": {},
-  "modified_gravelly_mountains": {},
-  "modified_jungle": {},
-  "modified_jungle_edge": {},
-  "modified_wooded_badlands_plateau": {},
-  "mountain_edge": {},
-  "mountains": {},
-  "mushroom_field_shore": {},
-  "mushroom_fields": {},
-  "nether": {},
-  "ocean": {},
-  "plains": {},
-  "river": {},
-  "savanna": {},
-  "savanna_plateau": {},
-  "shattered_savanna": {},
-  "shattered_savanna_plateau": {},
-  "small_end_islands": {},
-  "snowy_beach": {},
-  "snowy_mountains": {},
-  "snowy_taiga": {},
-  "snowy_taiga_hills": {},
-  "snowy_taiga_mountains": {},
-  "snowy_tundra": {},
-  "stone_shore": {},
-  "sunflower_plains": {},
-  "swamp": {},
-  "swamp_hills": {},
-  "taiga": {},
-  "taiga_hills": {},
-  "taiga_mountains": {},
-  "tall_birch_forest": {},
-  "tall_birch_hills": {},
-  "the_end": {},
-  "the_void": {},
-  "warm_ocean": {},
-  "wooded_badlands_plateau": {},
-  "wooded_hills": {},
-  "wooded_mountains": {}
+  "badlands": {
+    "class": "net.minecraft.world.biome.Badlands"
+  },
+  "badlands_plateau": {
+    "class": "net.minecraft.world.biome.BadlandsPlateau"
+  },
+  "bamboo_jungle": {
+    "class": "net.minecraft.world.biome.BambooJungle"
+  },
+  "bamboo_jungle_hills": {
+    "class": "net.minecraft.world.biome.BambooJungleHills"
+  },
+  "beach": {
+    "class": "net.minecraft.world.biome.Beach"
+  },
+  "birch_forest": {
+    "class": "net.minecraft.world.biome.BirchForest"
+  },
+  "birch_forest_hills": {
+    "class": "net.minecraft.world.biome.BirchForestHills"
+  },
+  "cold_ocean": {
+    "class": "net.minecraft.world.biome.ColdOcean"
+  },
+  "dark_forest": {
+    "class": "net.minecraft.world.biome.DarkForest"
+  },
+  "dark_forest_hills": {
+    "class": "net.minecraft.world.biome.DarkForestHills"
+  },
+  "deep_cold_ocean": {
+    "class": "net.minecraft.world.biome.DeepColdOcean"
+  },
+  "deep_frozen_ocean": {
+    "class": "net.minecraft.world.biome.DeepFrozenOcean"
+  },
+  "deep_lukewarm_ocean": {
+    "class": "net.minecraft.world.biome.DeepLukewarmOcean"
+  },
+  "deep_ocean": {
+    "class": "net.minecraft.world.biome.DeepOcean"
+  },
+  "deep_warm_ocean": {
+    "class": "net.minecraft.world.biome.DeepWarmOcean"
+  },
+  "desert": {
+    "class": "net.minecraft.world.biome.Desert"
+  },
+  "desert_hills": {
+    "class": "net.minecraft.world.biome.DesertHills"
+  },
+  "desert_lakes": {
+    "class": "net.minecraft.world.biome.DesertLakes"
+  },
+  "end_barrens": {
+    "class": "net.minecraft.world.biome.EndBarrens"
+  },
+  "end_highlands": {
+    "class": "net.minecraft.world.biome.EndHighlands"
+  },
+  "end_midlands": {
+    "class": "net.minecraft.world.biome.EndMidlands"
+  },
+  "eroded_badlands": {
+    "class": "net.minecraft.world.biome.ErodedBadlands"
+  },
+  "flower_forest": {
+    "class": "net.minecraft.world.biome.FlowerForest"
+  },
+  "forest": {
+    "class": "net.minecraft.world.biome.Forest"
+  },
+  "frozen_ocean": {
+    "class": "net.minecraft.world.biome.FrozenOcean"
+  },
+  "frozen_river": {
+    "class": "net.minecraft.world.biome.FrozenRiver"
+  },
+  "giant_spruce_taiga": {
+    "class": "net.minecraft.world.biome.GiantSpruceTaiga"
+  },
+  "giant_spruce_taiga_hills": {
+    "class": "net.minecraft.world.biome.GiantSpruceTaigaHills"
+  },
+  "giant_tree_taiga": {
+    "class": "net.minecraft.world.biome.GiantTreeTaiga"
+  },
+  "giant_tree_taiga_hills": {
+    "class": "net.minecraft.world.biome.GiantTreeTaigaHills"
+  },
+  "gravelly_mountains": {
+    "class": "net.minecraft.world.biome.GravellyMountains"
+  },
+  "ice_spikes": {
+    "class": "net.minecraft.world.biome.IceSpikes"
+  },
+  "jungle": {
+    "class": "net.minecraft.world.biome.Jungle"
+  },
+  "jungle_edge": {
+    "class": "net.minecraft.world.biome.JungleEdge"
+  },
+  "jungle_hills": {
+    "class": "net.minecraft.world.biome.JungleHills"
+  },
+  "lukewarm_ocean": {
+    "class": "net.minecraft.world.biome.LukewarmOcean"
+  },
+  "modified_badlands_plateau": {
+    "class": "net.minecraft.world.biome.ModifiedBadlandsPlateau"
+  },
+  "modified_gravelly_mountains": {
+    "class": "net.minecraft.world.biome.ModifiedGravellyMountains"
+  },
+  "modified_jungle": {
+    "class": "net.minecraft.world.biome.ModifiedJungle"
+  },
+  "modified_jungle_edge": {
+    "class": "net.minecraft.world.biome.ModifiedJungleEdge"
+  },
+  "modified_wooded_badlands_plateau": {
+    "class": "net.minecraft.world.biome.ModifiedWoodedBadlandsPlateau"
+  },
+  "mountain_edge": {
+    "class": "net.minecraft.world.biome.MountainEdge"
+  },
+  "mountains": {
+    "class": "net.minecraft.world.biome.Mountains"
+  },
+  "mushroom_field_shore": {
+    "class": "net.minecraft.world.biome.MushroomFieldShore"
+  },
+  "mushroom_fields": {
+    "class": "net.minecraft.world.biome.MushroomFields"
+  },
+  "nether": {
+    "class": "net.minecraft.world.biome.Nether"
+  },
+  "ocean": {
+    "class": "net.minecraft.world.biome.Ocean"
+  },
+  "plains": {
+    "class": "net.minecraft.world.biome.Plains"
+  },
+  "river": {
+    "class": "net.minecraft.world.biome.River"
+  },
+  "savanna": {
+    "class": "net.minecraft.world.biome.Savanna"
+  },
+  "savanna_plateau": {
+    "class": "net.minecraft.world.biome.SavannaPlateau"
+  },
+  "shattered_savanna": {
+    "class": "net.minecraft.world.biome.ShatteredSavanna"
+  },
+  "shattered_savanna_plateau": {
+    "class": "net.minecraft.world.biome.ShatteredSavannaPlateau"
+  },
+  "small_end_islands": {
+    "class": "net.minecraft.world.biome.SmallEndIslands"
+  },
+  "snowy_beach": {
+    "class": "net.minecraft.world.biome.SnowyBeach"
+  },
+  "snowy_mountains": {
+    "class": "net.minecraft.world.biome.SnowyMountains"
+  },
+  "snowy_taiga": {
+    "class": "net.minecraft.world.biome.SnowyTaiga"
+  },
+  "snowy_taiga_hills": {
+    "class": "net.minecraft.world.biome.SnowyTaigaHills"
+  },
+  "snowy_taiga_mountains": {
+    "class": "net.minecraft.world.biome.SnowyTaigaMountains"
+  },
+  "snowy_tundra": {
+    "class": "net.minecraft.world.biome.SnowyTundra"
+  },
+  "stone_shore": {
+    "class": "net.minecraft.world.biome.StoneShore"
+  },
+  "sunflower_plains": {
+    "class": "net.minecraft.world.biome.SunflowerPlains"
+  },
+  "swamp": {
+    "class": "net.minecraft.world.biome.Swamp"
+  },
+  "swamp_hills": {
+    "class": "net.minecraft.world.biome.SwampHills"
+  },
+  "taiga": {
+    "class": "net.minecraft.world.biome.Taiga"
+  },
+  "taiga_hills": {
+    "class": "net.minecraft.world.biome.TaigaHills"
+  },
+  "taiga_mountains": {
+    "class": "net.minecraft.world.biome.TaigaMountains"
+  },
+  "tall_birch_forest": {
+    "class": "net.minecraft.world.biome.TallBirchForest"
+  },
+  "tall_birch_hills": {
+    "class": "net.minecraft.world.biome.TallBirchHills"
+  },
+  "the_end": {
+    "class": "net.minecraft.world.biome.TheEnd"
+  },
+  "the_void": {
+    "class": "net.minecraft.world.biome.TheVoid"
+  },
+  "warm_ocean": {
+    "class": "net.minecraft.world.biome.WarmOcean"
+  },
+  "wooded_badlands_plateau": {
+    "class": "net.minecraft.world.biome.WoodedBadlandsPlateau"
+  },
+  "wooded_hills": {
+    "class": "net.minecraft.world.biome.WoodedHills"
+  },
+  "wooded_mountains": {
+    "class": "net.minecraft.world.biome.WoodedMountains"
+  }
 }
