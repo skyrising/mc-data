@@ -16,8 +16,8 @@
   "binding_curse": {
     "class": "net/minecraft/enchantment/BindingCurse",
     "rarity": "very_rare",
-    "minEnchantability": "25",
-    "maxEnchantability": "50",
+    "a(I)I": "25",
+    "b(I)I": "50",
     "maxLevel": "1"
   },
   "blast_protection": {
@@ -72,8 +72,8 @@
   "flame": {
     "class": "net/minecraft/enchantment/Flame",
     "rarity": "rare",
-    "minEnchantability": "20",
-    "maxEnchantability": "50",
+    "a(I)I": "20",
+    "b(I)I": "50",
     "maxLevel": "1"
   },
   "fortune": {
@@ -100,8 +100,8 @@
   "infinity": {
     "class": "net/minecraft/enchantment/Infinity",
     "rarity": "very_rare",
-    "minEnchantability": "20",
-    "maxEnchantability": "50",
+    "a(I)I": "20",
+    "b(I)I": "50",
     "maxLevel": "1"
   },
   "knockback": {
@@ -156,15 +156,15 @@
   "piercing": {
     "class": "net/minecraft/enchantment/Piercing",
     "rarity": "common",
-    "minEnchantability": "1 + (level - 1) * 10",
-    "maxEnchantability": "50",
+    "a(I)I": "1 + (level - 1) * 10",
+    "b(I)I": "50",
     "maxLevel": "4"
   },
   "power": {
     "class": "net/minecraft/enchantment/Power",
     "rarity": "common",
-    "minEnchantability": "1 + (level - 1) * 10",
-    "maxEnchantability": "this.getMinEnchantability(level) + 15",
+    "a(I)I": "1 + (level - 1) * 10",
+    "b(I)I": "this.md_9478558_a(level) + 15",
     "maxLevel": "5"
   },
   "projectile_protection": {
@@ -184,8 +184,8 @@
   "punch": {
     "class": "net/minecraft/enchantment/Punch",
     "rarity": "rare",
-    "minEnchantability": "12 + (level - 1) * 20",
-    "maxEnchantability": "this.getMinEnchantability(level) + 25",
+    "a(I)I": "12 + (level - 1) * 20",
+    "b(I)I": "this.md_9489139_a(level) + 25",
     "maxLevel": "2"
   },
   "quick_charge": {

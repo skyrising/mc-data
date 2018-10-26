@@ -242,8 +242,8 @@
         },
         {
           "id": 38,
-          "className": "net/minecraft/network/play/server/ClsLaBrwwnqe",
-          "fields": "I,B,Z,[Lnet/minecraft/src/ClsCcxCbgsnlo;,4*I,[B",
+          "className": "net/minecraft/network/play/server/ClsLaCjrjmxl",
+          "fields": "I,B,Z,[Lnet/minecraft/src/ClsCcyCabntjb;,4*I,[B",
           "fieldsUnique": true
         },
         {
@@ -428,8 +428,8 @@
         },
         {
           "id": 69,
-          "className": "net/minecraft/network/play/server/ClsMcFkqmpsv",
-          "fields": "Ljava/lang/String;,Lnet/minecraft/util/text/Component;,Lnet/minecraft/src/ClsCidGpwrbxn$a;,I",
+          "className": "net/minecraft/network/play/server/ClsMcKpuija",
+          "fields": "Ljava/lang/String;,Lnet/minecraft/util/text/Component;,Lnet/minecraft/src/ClsCieCxsoupk$a;,I",
           "fieldsUnique": true
         },
         {
