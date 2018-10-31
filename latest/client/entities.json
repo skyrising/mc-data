@@ -23,6 +23,10 @@
     "name": "Boat",
     "class": "net.minecraft.entity.item.Boat"
   },
+  "cat": {
+    "name": "Cat",
+    "class": "net.minecraft.entity.Cat"
+  },
   "cave_spider": {
     "name": "CaveSpider",
     "class": "net.minecraft.entity.monster.CaveSpider"
