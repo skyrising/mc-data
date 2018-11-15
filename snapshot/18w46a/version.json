@@ -1,0 +1,18 @@
+{
+  "id": "18w46a",
+  "type": "snapshot",
+  "releaseTime": "2018-11-15T13:43:14+00:00",
+  "url": "https://launchermeta.mojang.com/v1/packages/c60f1e05552efe15d9a9b8a3a0bf03ce549b9e87/18w46a.json",
+  "downloads": {
+    "client": {
+      "sha1": "342ece78f131c72c4669c9aa27a7be542b911171",
+      "size": 16988459,
+      "url": "https://launcher.mojang.com/v1/objects/342ece78f131c72c4669c9aa27a7be542b911171/client.jar"
+    },
+    "server": {
+      "sha1": "6681e24d2dc9ba60a6e7d1fbbf25b2af70ff9d1c",
+      "size": 34528459,
+      "url": "https://launcher.mojang.com/v1/objects/6681e24d2dc9ba60a6e7d1fbbf25b2af70ff9d1c/server.jar"
+    }
+  }
+}

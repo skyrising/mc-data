@@ -1,0 +1,154 @@
+{
+  "carving_mask": {
+    "class": "net/minecraft/world/gen/decoration/CarvingMask",
+    "config": "net/minecraft/src/ClsBypByrxovs"
+  },
+  "chance_heightmap": {
+    "class": "net/minecraft/world/gen/decoration/ChanceHeightmap",
+    "config": "net/minecraft/src/ClsByqEwngiyl"
+  },
+  "chance_heightmap_double": {
+    "class": "net/minecraft/world/gen/decoration/ChanceHeightmapDouble",
+    "config": "net/minecraft/src/ClsByqEwngiyl"
+  },
+  "chance_passthrough": {
+    "class": "net/minecraft/world/gen/decoration/ChancePassthrough",
+    "config": "net/minecraft/src/ClsByqEwngiyl"
+  },
+  "chance_range": {
+    "class": "net/minecraft/world/gen/decoration/ChanceRange",
+    "config": "net/minecraft/src/ClsBtfDdbdukn"
+  },
+  "chance_top_solid_heightmap": {
+    "class": "net/minecraft/world/gen/decoration/ChanceTopSolidHeightmap",
+    "config": "net/minecraft/src/ClsByqEwngiyl"
+  },
+  "chorus_plant": {
+    "class": "net/minecraft/world/gen/decoration/ChorusPlant",
+    "config": "net/minecraft/src/ClsBveFebdulx"
+  },
+  "count_biased_range": {
+    "class": "net/minecraft/world/gen/decoration/CountBiasedRange",
+    "config": "net/minecraft/src/ClsBthCvuitnw"
+  },
+  "count_chance_heightmap": {
+    "class": "net/minecraft/world/gen/decoration/CountChanceHeightmap",
+    "config": "net/minecraft/src/ClsBysDkoeayv"
+  },
+  "count_chance_heightmap_double": {
+    "class": "net/minecraft/world/gen/decoration/CountChanceHeightmapDouble",
+    "config": "net/minecraft/src/ClsBysDkoeayv"
+  },
+  "count_depth_average": {
+    "class": "net/minecraft/world/gen/decoration/CountDepthAverage",
+    "config": "net/minecraft/src/ClsBywDvnssof"
+  },
+  "count_extra_heightmap": {
+    "class": "net/minecraft/world/gen/decoration/CountExtraHeightmap",
+    "config": "net/minecraft/src/ClsBytBwglovh"
+  },
+  "count_height_64": {
+    "class": "net/minecraft/world/gen/decoration/CountHeight64",
+    "config": "net/minecraft/src/ClsByrWdyvak"
+  },
+  "count_heightmap": {
+    "class": "net/minecraft/world/gen/decoration/CountHeightmap",
+    "config": "net/minecraft/src/ClsByrWdyvak"
+  },
+  "count_heightmap_32": {
+    "class": "net/minecraft/world/gen/decoration/CountHeightmap32",
+    "config": "net/minecraft/src/ClsByrWdyvak"
+  },
+  "count_heightmap_double": {
+    "class": "net/minecraft/world/gen/decoration/CountHeightmapDouble",
+    "config": "net/minecraft/src/ClsByrWdyvak"
+  },
+  "count_range": {
+    "class": "net/minecraft/world/gen/decoration/CountRange",
+    "config": "net/minecraft/src/ClsBthCvuitnw"
+  },
+  "count_top_solid": {
+    "class": "net/minecraft/world/gen/decoration/CountTopSolid",
+    "config": "net/minecraft/src/ClsByrWdyvak"
+  },
+  "count_very_biased_range": {
+    "class": "net/minecraft/world/gen/decoration/CountVeryBiasedRange",
+    "config": "net/minecraft/src/ClsBthCvuitnw"
+  },
+  "dark_oak_tree": {
+    "class": "net/minecraft/world/gen/decoration/DarkOakTree",
+    "config": "net/minecraft/src/ClsBveFebdulx"
+  },
+  "dungeons": {
+    "class": "net/minecraft/world/gen/decoration/Dungeons",
+    "config": "net/minecraft/src/ClsBzgEwngiyl"
+  },
+  "emerald_ore": {
+    "class": "net/minecraft/world/gen/decoration/EmeraldOre",
+    "config": "net/minecraft/src/ClsBveFebdulx"
+  },
+  "end_gateway": {
+    "class": "net/minecraft/world/gen/decoration/EndGateway",
+    "config": "net/minecraft/src/ClsBveFebdulx"
+  },
+  "end_island": {
+    "class": "net/minecraft/world/gen/decoration/EndIsland",
+    "config": "net/minecraft/src/ClsBveFebdulx"
+  },
+  "forest_rock": {
+    "class": "net/minecraft/world/gen/decoration/ForestRock",
+    "config": "net/minecraft/src/ClsByrWdyvak"
+  },
+  "hell_fire": {
+    "class": "net/minecraft/world/gen/decoration/HellFire",
+    "config": "net/minecraft/src/ClsByrWdyvak"
+  },
+  "iceberg": {
+    "class": "net/minecraft/world/gen/decoration/Iceberg",
+    "config": "net/minecraft/src/ClsByqEwngiyl"
+  },
+  "lava_lake": {
+    "class": "net/minecraft/world/gen/decoration/LavaLake",
+    "config": "net/minecraft/src/ClsBzdEwngiyl"
+  },
+  "light_gem_chance": {
+    "class": "net/minecraft/world/gen/decoration/LightGemChance",
+    "config": "net/minecraft/src/ClsByrWdyvak"
+  },
+  "magma": {
+    "class": "net/minecraft/world/gen/decoration/Magma",
+    "config": "net/minecraft/src/ClsByrWdyvak"
+  },
+  "noise_heightmap_32": {
+    "class": "net/minecraft/world/gen/decoration/NoiseHeightmap32",
+    "config": "net/minecraft/src/ClsBtiDuikbcu"
+  },
+  "noise_heightmap_double": {
+    "class": "net/minecraft/world/gen/decoration/NoiseHeightmapDouble",
+    "config": "net/minecraft/src/ClsBtiDuikbcu"
+  },
+  "nope": {
+    "class": "net/minecraft/world/gen/decoration/Nope",
+    "config": "net/minecraft/src/ClsBveFebdulx"
+  },
+  "random_count_range": {
+    "class": "net/minecraft/world/gen/decoration/RandomCountRange",
+    "config": "net/minecraft/src/ClsBthCvuitnw"
+  },
+  "top_solid_heightmap": {
+    "class": "net/minecraft/world/gen/decoration/TopSolidHeightmap",
+    "config": "net/minecraft/src/ClsBveFebdulx"
+  },
+  "top_solid_heightmap_noise_biased": {
+    "class": "net/minecraft/world/gen/decoration/TopSolidHeightmapNoiseBiased",
+    "config": "net/minecraft/src/ClsByuBzvhkxp"
+  },
+  "top_solid_heightmap_range": {
+    "class": "net/minecraft/world/gen/decoration/TopSolidHeightmapRange",
+    "config": "net/minecraft/src/ClsByvGkpsrbv"
+  },
+  "water_lake": {
+    "class": "net/minecraft/world/gen/decoration/WaterLake",
+    "config": "net/minecraft/src/ClsBzdEwngiyl"
+  }
+}
