@@ -20,20 +20,20 @@
         },
         {
           "id": 1,
-          "className": "net/minecraft/network/play/server/ClsJsClbvfvs",
+          "className": "net/minecraft/network/play/server/ClsJtClbvfvs",
           "fields": "I,3*D,I",
           "fieldsUnique": false
         },
         {
           "id": 2,
-          "className": "net/minecraft/network/play/server/ClsJtFnllgmd",
+          "className": "net/minecraft/network/play/server/ClsJuFnllgmd",
           "fields": "I,3*D,I",
           "fieldsUnique": false
         },
         {
           "id": 3,
-          "className": "net/minecraft/network/play/server/ClsJuFsvyufu",
-          "fields": "I,Ljava/util/UUID;,I,3*D,3*I,3*B,Lnet/minecraft/src/ClsPpDigpsae;,Ljava/util/List<Lnet/minecraft/src/ClsPpDigpsae$a<*>;>;",
+          "className": "net/minecraft/network/play/server/ClsJvFsvyufu",
+          "fields": "I,Ljava/util/UUID;,I,3*D,3*I,3*B,Lnet/minecraft/src/ClsPqFihybr;,Ljava/util/List<Lnet/minecraft/src/ClsPqFihybr$a<*>;>;",
           "fieldsUnique": true
         },
         {
@@ -44,20 +44,20 @@
         },
         {
           "id": 5,
-          "className": "net/minecraft/network/play/server/ClsJwEiwturd",
-          "fields": "I,Ljava/util/UUID;,3*D,2*B,Lnet/minecraft/src/ClsPpDigpsae;,Ljava/util/List<Lnet/minecraft/src/ClsPpDigpsae$a<*>;>;",
+          "className": "net/minecraft/network/play/server/ClsJxEiwturd",
+          "fields": "I,Ljava/util/UUID;,3*D,2*B,Lnet/minecraft/src/ClsPqFihybr;,Ljava/util/List<Lnet/minecraft/src/ClsPqFihybr$a<*>;>;",
           "fieldsUnique": true
         },
         {
           "id": 6,
-          "className": "net/minecraft/network/play/server/ClsJxGotmqdd",
+          "className": "net/minecraft/network/play/server/ClsJyGotmqdd",
           "fields": "2*I",
           "fieldsUnique": false
         },
         {
           "id": 7,
-          "className": "net/minecraft/network/play/server/ClsJyCfakafp",
-          "fields": "Lit/unimi/dsi/fastutil/objects/Object2IntMap<Lnet/minecraft/src/ClsXjGpnabbk<*>;>;",
+          "className": "net/minecraft/network/play/server/ClsJzCfakafp",
+          "fields": "Lit/unimi/dsi/fastutil/objects/Object2IntMap<Lnet/minecraft/src/ClsXkGpnabbk<*>;>;",
           "fieldsUnique": true
         },
         {
@@ -80,14 +80,14 @@
         },
         {
           "id": 11,
-          "className": "net/minecraft/network/play/server/ClsKcBlfthtr",
+          "className": "net/minecraft/network/play/server/ClsKdBlfthtr",
           "fields": "Lnet/minecraft/util/math/BlockPos;,Lnet/minecraft/block/state/BlockState;",
           "fieldsUnique": true
         },
         {
           "id": 12,
-          "className": "net/minecraft/network/play/server/ClsKdDhpyoww",
-          "fields": "Ljava/util/UUID;,Lnet/minecraft/network/play/server/ClsKdDhpyoww$a;,Lnet/minecraft/util/text/Component;,F,Lnet/minecraft/world/BossInfo$Color;,Lnet/minecraft/world/BossInfo$Overlay;,3*Z",
+          "className": "net/minecraft/network/play/server/ClsKeBqyhjyy",
+          "fields": "Ljava/util/UUID;,Lnet/minecraft/network/play/server/ClsKeBqyhjyy$a;,Lnet/minecraft/util/text/Component;,F,Lnet/minecraft/world/BossInfo$Color;,Lnet/minecraft/world/BossInfo$Overlay;,3*Z",
           "fieldsUnique": true
         },
         {
@@ -98,14 +98,14 @@
         },
         {
           "id": 14,
-          "className": "net/minecraft/network/play/server/ClsKfGgyffsp",
+          "className": "net/minecraft/network/play/server/ClsKgGgyffsp",
           "fields": "Lnet/minecraft/util/text/Component;,Lnet/minecraft/util/text/ChatType;",
           "fieldsUnique": true
         },
         {
           "id": 15,
-          "className": "net/minecraft/network/play/server/ClsKgCxuiulu",
-          "fields": "Lnet/minecraft/util/math/ChunkPos;,[Lnet/minecraft/network/play/server/ClsKgCxuiulu$a;",
+          "className": "net/minecraft/network/play/server/ClsKhCxuiulu",
+          "fields": "Lnet/minecraft/util/math/ChunkPos;,[Lnet/minecraft/network/play/server/ClsKhCxuiulu$a;",
           "fieldsUnique": true
         },
         {
@@ -116,8 +116,8 @@
         },
         {
           "id": 17,
-          "className": "net/minecraft/network/play/server/ClsKiCyjrroo",
-          "fields": "Lcom/mojang/brigadier/tree/RootCommandNode<Lnet/minecraft/src/IfCbSbctbc;>;",
+          "className": "net/minecraft/network/play/server/ClsKjCyjrroo",
+          "fields": "Lcom/mojang/brigadier/tree/RootCommandNode<Lnet/minecraft/src/IfCcSbctbc;>;",
           "fieldsUnique": true
         },
         {
@@ -128,7 +128,7 @@
         },
         {
           "id": 19,
-          "className": "net/minecraft/network/play/server/ClsKkEuvozob",
+          "className": "net/minecraft/network/play/server/ClsKlEuvozob",
           "fields": "I",
           "fieldsUnique": false
         },
@@ -146,7 +146,7 @@
         },
         {
           "id": 22,
-          "className": "net/minecraft/network/play/server/ClsKnGbmpswk",
+          "className": "net/minecraft/network/play/server/ClsKoGbmpswk",
           "fields": "3*I",
           "fieldsUnique": false
         },
@@ -158,49 +158,49 @@
         },
         {
           "id": 24,
-          "className": "net/minecraft/network/play/server/ClsKpFeeaxad",
+          "className": "net/minecraft/network/play/server/ClsKqFeeaxad",
           "fields": "Lnet/minecraft/item/Item;,I",
           "fieldsUnique": true
         },
         {
           "id": 25,
-          "className": "net/minecraft/network/play/server/ClsKqBcpsayq",
+          "className": "net/minecraft/network/play/server/ClsKrBcpsayq",
           "fields": "Lnet/minecraft/util/Identifier;,Lnet/minecraft/network/PacketBuffer;",
           "fieldsUnique": true
         },
         {
           "id": 26,
-          "className": "net/minecraft/network/play/server/ClsKrBkjwgv",
+          "className": "net/minecraft/network/play/server/ClsKsEyhjems",
           "fields": "Lnet/minecraft/util/Identifier;,Lnet/minecraft/sound/SoundCategory;,3*I,2*F",
           "fieldsUnique": true
         },
         {
           "id": 27,
-          "className": "net/minecraft/network/play/server/ClsKsGeaooru",
+          "className": "net/minecraft/network/play/server/ClsKtGeaooru",
           "fields": "Lnet/minecraft/util/text/Component;",
           "fieldsUnique": true
         },
         {
           "id": 28,
-          "className": "net/minecraft/network/play/server/ClsKtGuilsep",
+          "className": "net/minecraft/network/play/server/ClsKuGuilsep",
           "fields": "I,B",
           "fieldsUnique": false
         },
         {
           "id": 29,
-          "className": "net/minecraft/network/play/server/ClsMqGtjkotk",
+          "className": "net/minecraft/network/play/server/ClsMrGtjkotk",
           "fields": "I,Lcom/mojang/nbt/NBTCompound;",
           "fieldsUnique": true
         },
         {
           "id": 30,
-          "className": "net/minecraft/network/play/server/ClsKuRkpnoq",
+          "className": "net/minecraft/network/play/server/ClsKvRkpnoq",
           "fields": "3*D,F,Ljava/util/List<Lnet/minecraft/util/math/BlockPos;>;,3*F",
           "fieldsUnique": true
         },
         {
           "id": 31,
-          "className": "net/minecraft/network/play/server/ClsKvBiadtwr",
+          "className": "net/minecraft/network/play/server/ClsKwBiadtwr",
           "fields": "2*I",
           "fieldsUnique": false
         },
@@ -218,325 +218,325 @@
         },
         {
           "id": 34,
-          "className": "net/minecraft/network/play/server/ClsKyFpqiktd",
+          "className": "net/minecraft/network/play/server/ChunkS2C",
           "fields": "3*I,Lcom/mojang/nbt/NBTCompound;,[B,Ljava/util/List<Lcom/mojang/nbt/NBTCompound;>;,Z",
           "fieldsUnique": true
         },
         {
           "id": 35,
-          "className": "net/minecraft/network/play/server/ClsKzDqscqse",
+          "className": "net/minecraft/network/play/server/ClsLaDqscqse",
           "fields": "I,Lnet/minecraft/util/math/BlockPos;,I,Z",
           "fieldsUnique": true
         },
         {
           "id": 36,
-          "className": "net/minecraft/network/play/server/ClsLaGiilgvx",
-          "fields": "7*F,I,Z,Lnet/minecraft/src/IfFsFghvyln;",
+          "className": "net/minecraft/network/play/server/ClsLbGiilgvx",
+          "fields": "7*F,I,Z,Lnet/minecraft/src/IfFtFghvyln;",
           "fieldsUnique": true
         },
         {
           "id": 37,
-          "className": "net/minecraft/network/play/server/ClsLcCzsyoqx",
+          "className": "net/minecraft/network/play/server/ClsLdCzsyoqx",
           "fields": "I,Z,Lnet/minecraft/world/GameMode;,Lnet/minecraft/world/DimensionType;,Lnet/minecraft/world/Difficulty;,I,Lnet/minecraft/world/WorldType;,Z",
           "fieldsUnique": true
         },
         {
           "id": 38,
-          "className": "net/minecraft/network/play/server/ClsLdFrwnthg",
-          "fields": "I,B,Z,[Lnet/minecraft/src/ClsCgaBhbrqab;,4*I,[B",
+          "className": "net/minecraft/network/play/server/ClsLeDiwekpv",
+          "fields": "I,B,Z,[Lnet/minecraft/src/ClsCfsRmhoto;,4*I,[B",
           "fieldsUnique": true
         },
         {
           "id": 39,
-          "className": "net/minecraft/network/play/server/ClsLeBgkgnki",
+          "className": "net/minecraft/network/play/server/ClsLfBgkgnki",
           "fields": "4*I,2*B,2*Z",
           "fieldsUnique": true
         },
         {
           "id": 40,
-          "className": "net/minecraft/network/play/server/ClsLeBgkgnki$a",
+          "className": "net/minecraft/network/play/server/ClsLfBgkgnki$a",
           "fields": "",
           "fieldsUnique": false
         },
         {
           "id": 41,
-          "className": "net/minecraft/network/play/server/ClsLeBgkgnki$b",
+          "className": "net/minecraft/network/play/server/ClsLfBgkgnki$b",
           "fields": "",
           "fieldsUnique": false
         },
         {
           "id": 42,
-          "className": "net/minecraft/network/play/server/ClsLeBgkgnki$c",
+          "className": "net/minecraft/network/play/server/ClsLfBgkgnki$c",
           "fields": "",
           "fieldsUnique": false
         },
         {
           "id": 43,
-          "className": "net/minecraft/network/play/server/ClsLfJlgycy",
+          "className": "net/minecraft/network/play/server/ClsLgJlgycy",
           "fields": "3*D,2*F",
           "fieldsUnique": true
         },
         {
           "id": 44,
-          "className": "net/minecraft/network/play/server/ClsLgGeaooru",
+          "className": "net/minecraft/network/play/server/ClsLhGeaooru",
           "fields": "Lnet/minecraft/util/math/BlockPos;",
           "fieldsUnique": false
         },
         {
           "id": 45,
-          "className": "net/minecraft/network/play/server/ClsLhFmigcop",
+          "className": "net/minecraft/network/play/server/ClsLiFmigcop",
           "fields": "I,Lnet/minecraft/util/Identifier;",
           "fieldsUnique": true
         },
         {
           "id": 46,
-          "className": "net/minecraft/network/play/server/ClsLiBqamvid",
+          "className": "net/minecraft/network/play/server/ClsLjBqamvid",
           "fields": "4*Z,2*F",
           "fieldsUnique": true
         },
         {
           "id": 47,
-          "className": "net/minecraft/network/play/server/ClsLjGqdwkpz",
-          "fields": "Lnet/minecraft/network/play/server/ClsLjGqdwkpz$a;,3*I,Lnet/minecraft/util/text/Component;",
+          "className": "net/minecraft/network/play/server/ClsLkGqdwkpz",
+          "fields": "Lnet/minecraft/network/play/server/ClsLkGqdwkpz$a;,3*I,Lnet/minecraft/util/text/Component;",
           "fieldsUnique": true
         },
         {
           "id": 48,
-          "className": "net/minecraft/network/play/server/ClsLkExfnohc",
-          "fields": "Lnet/minecraft/network/play/server/ClsLkExfnohc$a;,Ljava/util/List<Lnet/minecraft/network/play/server/ClsLkExfnohc$b;>;",
+          "className": "net/minecraft/network/play/server/ClsLlDuooifw",
+          "fields": "Lnet/minecraft/network/play/server/ClsLlDuooifw$a;,Ljava/util/List<Lnet/minecraft/network/play/server/ClsLlDuooifw$b;>;",
           "fieldsUnique": true
         },
         {
           "id": 49,
-          "className": "net/minecraft/network/play/server/ClsLlGwyogzn",
+          "className": "net/minecraft/network/play/server/ClsLmCqqrpnk",
           "fields": "3*D,I,2*Lnet/minecraft/server/command/argument/ArgumentEntityAnchor$a;,Z",
           "fieldsUnique": true
         },
         {
           "id": 50,
-          "className": "net/minecraft/network/play/server/ClsLmBegzuew",
-          "fields": "3*D,2*F,Ljava/util/Set<Lnet/minecraft/network/play/server/ClsLmBegzuew$a;>;,I",
+          "className": "net/minecraft/network/play/server/ClsLnExblrkd",
+          "fields": "3*D,2*F,Ljava/util/Set<Lnet/minecraft/network/play/server/ClsLnExblrkd$a;>;,I",
           "fieldsUnique": true
         },
         {
           "id": 51,
-          "className": "net/minecraft/network/play/server/ClsLnOfdque",
+          "className": "net/minecraft/network/play/server/ClsLoOfdque",
           "fields": "I,Lnet/minecraft/util/math/BlockPos;",
           "fieldsUnique": true
         },
         {
           "id": 52,
-          "className": "net/minecraft/network/play/server/ClsLoGrinrhw",
-          "fields": "Lnet/minecraft/network/play/server/ClsLoGrinrhw$a;,2*Ljava/util/List<Lnet/minecraft/util/Identifier;>;,4*Z",
+          "className": "net/minecraft/network/play/server/ClsLpFquothw",
+          "fields": "Lnet/minecraft/network/play/server/ClsLpFquothw$a;,2*Ljava/util/List<Lnet/minecraft/util/Identifier;>;,4*Z",
           "fieldsUnique": true
         },
         {
           "id": 53,
-          "className": "net/minecraft/network/play/server/ClsLpBdwixmd",
+          "className": "net/minecraft/network/play/server/ClsLqBdwixmd",
           "fields": "[I",
           "fieldsUnique": true
         },
         {
           "id": 54,
-          "className": "net/minecraft/network/play/server/ClsLqFuymnaq",
+          "className": "net/minecraft/network/play/server/ClsLrFuymnaq",
           "fields": "I,Lnet/minecraft/potion/MobEffect;",
           "fieldsUnique": true
         },
         {
           "id": 55,
-          "className": "net/minecraft/network/play/server/ClsLrDpnxrkp",
+          "className": "net/minecraft/network/play/server/ClsLsDpnxrkp",
           "fields": "2*Ljava/lang/String;",
           "fieldsUnique": true
         },
         {
           "id": 56,
-          "className": "net/minecraft/network/play/server/ClsLsFhcrvtk",
+          "className": "net/minecraft/network/play/server/ClsLtFhcrvtk",
           "fields": "Lnet/minecraft/world/DimensionType;,Lnet/minecraft/world/Difficulty;,Lnet/minecraft/world/GameMode;,Lnet/minecraft/world/WorldType;",
           "fieldsUnique": true
         },
         {
           "id": 57,
-          "className": "net/minecraft/network/play/server/ClsLtGuilsep",
+          "className": "net/minecraft/network/play/server/ClsLuGuilsep",
           "fields": "I,B",
           "fieldsUnique": false
         },
         {
           "id": 58,
-          "className": "net/minecraft/network/play/server/ClsLuEbomvjm",
+          "className": "net/minecraft/network/play/server/ClsLvEbomvjm",
           "fields": "Lnet/minecraft/util/Identifier;",
           "fieldsUnique": true
         },
         {
           "id": 59,
-          "className": "net/minecraft/network/play/server/ClsLvBhehjge",
-          "fields": "Lnet/minecraft/network/play/server/ClsLvBhehjge$a;,I,4*D,J,2*I",
+          "className": "net/minecraft/network/play/server/ClsLwCnzabya",
+          "fields": "Lnet/minecraft/network/play/server/ClsLwCnzabya$a;,I,4*D,J,2*I",
           "fieldsUnique": true
         },
         {
           "id": 60,
-          "className": "net/minecraft/network/play/server/ClsLwMlhywu",
+          "className": "net/minecraft/network/play/server/ClsLxMlhywu",
           "fields": "I",
           "fieldsUnique": false
         },
         {
           "id": 61,
-          "className": "net/minecraft/network/play/server/ClsLxDictdis",
+          "className": "net/minecraft/network/play/server/ClsLyDictdis",
           "fields": "I",
           "fieldsUnique": false
         },
         {
           "id": 62,
-          "className": "net/minecraft/network/play/server/ClsLyChejxhq",
+          "className": "net/minecraft/network/play/server/ClsLzChejxhq",
           "fields": "I,Ljava/lang/String;",
           "fieldsUnique": true
         },
         {
           "id": 63,
-          "className": "net/minecraft/network/play/server/ClsLzFbsqmpv",
-          "fields": "I,Ljava/util/List<Lnet/minecraft/src/ClsPpDigpsae$a<*>;>;",
+          "className": "net/minecraft/network/play/server/ClsMaFbsqmpv",
+          "fields": "I,Ljava/util/List<Lnet/minecraft/src/ClsPqFihybr$a<*>;>;",
           "fieldsUnique": true
         },
         {
           "id": 64,
-          "className": "net/minecraft/network/play/server/ClsMaFghnlna",
+          "className": "net/minecraft/network/play/server/ClsMbFghnlna",
           "fields": "2*I",
           "fieldsUnique": false
         },
         {
           "id": 65,
-          "className": "net/minecraft/network/play/server/ClsMbFetljsq",
+          "className": "net/minecraft/network/play/server/ClsMcFetljsq",
           "fields": "4*I",
           "fieldsUnique": true
         },
         {
           "id": 66,
-          "className": "net/minecraft/network/play/server/ClsMcClvlifz",
+          "className": "net/minecraft/network/play/server/ClsMdFinonmy",
           "fields": "I,Lnet/minecraft/inventory/EquipmentSlot;,Lnet/minecraft/item/ItemStack;",
           "fieldsUnique": true
         },
         {
           "id": 67,
-          "className": "net/minecraft/network/play/server/ClsMdFmwbmxj",
+          "className": "net/minecraft/network/play/server/ClsMeFmwbmxj",
           "fields": "F,2*I",
           "fieldsUnique": true
         },
         {
           "id": 68,
-          "className": "net/minecraft/network/play/server/ClsMeGkdsfou",
+          "className": "net/minecraft/network/play/server/ClsMfGkdsfou",
           "fields": "F,I,F",
           "fieldsUnique": true
         },
         {
           "id": 69,
-          "className": "net/minecraft/network/play/server/ClsMfErvkdqb",
-          "fields": "Ljava/lang/String;,Lnet/minecraft/util/text/Component;,Lnet/minecraft/src/ClsCljEplrwsk$a;,I",
+          "className": "net/minecraft/network/play/server/ClsMgEkfehmx",
+          "fields": "Ljava/lang/String;,Lnet/minecraft/util/text/Component;,Lnet/minecraft/src/ClsClbExqvrwy$a;,I",
           "fieldsUnique": true
         },
         {
           "id": 70,
-          "className": "net/minecraft/network/play/server/ClsMgCfglwvr",
+          "className": "net/minecraft/network/play/server/ClsMhCfglwvr",
           "fields": "I,[I",
           "fieldsUnique": true
         },
         {
           "id": 71,
-          "className": "net/minecraft/network/play/server/ClsMhFtduqek",
+          "className": "net/minecraft/network/play/server/ClsMiFtduqek",
           "fields": "Ljava/lang/String;,3*Lnet/minecraft/util/text/Component;,2*Ljava/lang/String;,Lnet/minecraft/util/text/TextFormatting;,Ljava/util/Collection<Ljava/lang/String;>;,2*I",
           "fieldsUnique": true
         },
         {
           "id": 72,
-          "className": "net/minecraft/network/play/server/ClsMiGtywoph",
-          "fields": "2*Ljava/lang/String;,I,Lnet/minecraft/src/ClsQmEnpuhmr$a;",
+          "className": "net/minecraft/network/play/server/ClsMjYspqnm",
+          "fields": "2*Ljava/lang/String;,I,Lnet/minecraft/src/ClsQnGenguru$a;",
           "fieldsUnique": true
         },
         {
           "id": 73,
-          "className": "net/minecraft/network/play/server/ClsMjGeaooru",
+          "className": "net/minecraft/network/play/server/ClsMkGeaooru",
           "fields": "Lnet/minecraft/util/math/BlockPos;",
           "fieldsUnique": false
         },
         {
           "id": 74,
-          "className": "net/minecraft/network/play/server/ClsMkFwxuwbe",
+          "className": "net/minecraft/network/play/server/ClsMlFwxuwbe",
           "fields": "2*J",
           "fieldsUnique": true
         },
         {
           "id": 75,
-          "className": "net/minecraft/network/play/server/ClsMlCxdnxw",
-          "fields": "Lnet/minecraft/network/play/server/ClsMlCxdnxw$a;,Lnet/minecraft/util/text/Component;,3*I",
+          "className": "net/minecraft/network/play/server/ClsMmJacnxu",
+          "fields": "Lnet/minecraft/network/play/server/ClsMmJacnxu$a;,Lnet/minecraft/util/text/Component;,3*I",
           "fieldsUnique": true
         },
         {
           "id": 76,
-          "className": "net/minecraft/network/play/server/ClsMoEnofwwq",
+          "className": "net/minecraft/network/play/server/ClsMpEnmfisp",
           "fields": "Lnet/minecraft/util/Identifier;,Lnet/minecraft/sound/SoundCategory;",
           "fieldsUnique": true
         },
         {
           "id": 77,
-          "className": "net/minecraft/network/play/server/ClsMnBwnynux",
-          "fields": "Lnet/minecraft/src/ClsXcBwzyjpl;,Lnet/minecraft/sound/SoundCategory;,3*I,2*F",
+          "className": "net/minecraft/network/play/server/ClsMoDajaula",
+          "fields": "Lnet/minecraft/src/ClsXdBwzyjpl;,Lnet/minecraft/sound/SoundCategory;,3*I,2*F",
           "fieldsUnique": true
         },
         {
           "id": 78,
-          "className": "net/minecraft/network/play/server/ClsMmBmrffle",
-          "fields": "Lnet/minecraft/src/ClsXcBwzyjpl;,Lnet/minecraft/sound/SoundCategory;,I,2*F",
+          "className": "net/minecraft/network/play/server/ClsMnGppfikx",
+          "fields": "Lnet/minecraft/src/ClsXdBwzyjpl;,Lnet/minecraft/sound/SoundCategory;,I,2*F",
           "fieldsUnique": true
         },
         {
           "id": 79,
-          "className": "net/minecraft/network/play/server/ClsMpFcaetyp",
+          "className": "net/minecraft/network/play/server/ClsMqFcaetyp",
           "fields": "2*Lnet/minecraft/util/text/Component;",
           "fieldsUnique": true
         },
         {
           "id": 80,
-          "className": "net/minecraft/network/play/server/ClsMrGbmpswk",
+          "className": "net/minecraft/network/play/server/ClsMsGbmpswk",
           "fields": "3*I",
           "fieldsUnique": false
         },
         {
           "id": 81,
-          "className": "net/minecraft/network/play/server/ClsMsDceerlu",
+          "className": "net/minecraft/network/play/server/ClsMtDceerlu",
           "fields": "I,3*D,2*B,Z",
           "fieldsUnique": true
         },
         {
           "id": 82,
-          "className": "net/minecraft/network/play/server/ClsMtIpgzcz",
-          "fields": "Z,Ljava/util/Map<Lnet/minecraft/util/Identifier;Lnet/minecraft/advancements/Advancement$a;>;,Ljava/util/Set<Lnet/minecraft/util/Identifier;>;,Ljava/util/Map<Lnet/minecraft/util/Identifier;Lnet/minecraft/src/ClsOBadwidc;>;",
+          "className": "net/minecraft/network/play/server/ClsMuIpgzcz",
+          "fields": "Z,Ljava/util/Map<Lnet/minecraft/util/Identifier;Lnet/minecraft/advancements/Advancement$a;>;,Ljava/util/Set<Lnet/minecraft/util/Identifier;>;,Ljava/util/Map<Lnet/minecraft/util/Identifier;Lnet/minecraft/src/ClsPBadwidc;>;",
           "fieldsUnique": true
         },
         {
           "id": 83,
-          "className": "net/minecraft/network/play/server/ClsMuBftqmim",
-          "fields": "I,Ljava/util/List<Lnet/minecraft/network/play/server/ClsMuBftqmim$a;>;",
+          "className": "net/minecraft/network/play/server/EntityPropertiesS2C",
+          "fields": "I,Ljava/util/List<Lnet/minecraft/network/play/server/EntityPropertiesS2C$a;>;",
           "fieldsUnique": true
         },
         {
           "id": 84,
-          "className": "net/minecraft/network/play/server/ClsMvFjlkyfi",
+          "className": "net/minecraft/network/play/server/ClsMwFjlkyfi",
           "fields": "I,2*B,I,B",
           "fieldsUnique": true
         },
         {
           "id": 85,
-          "className": "net/minecraft/network/play/server/ClsMwFxkpqgh",
-          "fields": "Ljava/util/List<Lnet/minecraft/src/IfAxtGlghrnr;>;",
+          "className": "net/minecraft/network/play/server/ClsMxFxkpqgh",
+          "fields": "Ljava/util/List<Lnet/minecraft/src/IfAxuGlghrnr;>;",
           "fieldsUnique": true
         },
         {
           "id": 86,
-          "className": "net/minecraft/network/play/server/ClsMxGeaooru",
-          "fields": "Lnet/minecraft/src/ClsXwBinvgkt;",
+          "className": "net/minecraft/network/play/server/ClsMyGeaooru",
+          "fields": "Lnet/minecraft/src/ClsXxBinvgkt;",
           "fieldsUnique": true
         },
         {
           "id": 87,
-          "className": "net/minecraft/network/play/server/ClsLbCggggbz",
+          "className": "net/minecraft/network/play/server/ClsLcCggggbz",
           "fields": "6*I,2*Ljava/util/List<[B>;",
           "fieldsUnique": true
         }
@@ -544,32 +544,32 @@
       "serverbound": [
         {
           "id": 0,
-          "className": "net/minecraft/network/play/client/ClsMzDictdis",
+          "className": "net/minecraft/network/play/client/ClsNaDictdis",
           "fields": "I",
           "fieldsUnique": false
         },
         {
           "id": 1,
-          "className": "net/minecraft/network/play/client/ClsNaFayljdd",
+          "className": "net/minecraft/network/play/client/ClsNbFayljdd",
           "fields": "I,Lnet/minecraft/util/math/BlockPos;",
           "fieldsUnique": true
         },
         {
           "id": 2,
-          "className": "net/minecraft/network/play/client/ClsNbYyivg",
+          "className": "net/minecraft/network/play/client/ClsNcYyivg",
           "fields": "Ljava/lang/String;",
           "fieldsUnique": true
         },
         {
           "id": 3,
-          "className": "net/minecraft/network/play/client/ClsNcFytnuee",
-          "fields": "Lnet/minecraft/network/play/client/ClsNcFytnuee$a;",
+          "className": "net/minecraft/network/play/client/ClsNdCnnljrc",
+          "fields": "Lnet/minecraft/network/play/client/ClsNdCnnljrc$a;",
           "fieldsUnique": true
         },
         {
           "id": 4,
-          "className": "net/minecraft/network/play/client/ClsNdEfqgay",
-          "fields": "Ljava/lang/String;,I,Lnet/minecraft/entity/Player$b;,Z,I,Lnet/minecraft/src/EnumAgmPfrmlu;",
+          "className": "net/minecraft/network/play/client/ClsNeCtwwwfw",
+          "fields": "Ljava/lang/String;,I,Lnet/minecraft/entity/Player$b;,Z,I,Lnet/minecraft/src/EnumAgnBnxswov;",
           "fieldsUnique": true
         },
         {
@@ -586,44 +586,44 @@
         },
         {
           "id": 7,
-          "className": "net/minecraft/network/play/client/ClsNgBiadtwr",
+          "className": "net/minecraft/network/play/client/ClsNhBiadtwr",
           "fields": "2*I",
           "fieldsUnique": false
         },
         {
           "id": 8,
-          "className": "net/minecraft/network/play/client/ClsNhGbdeefd",
+          "className": "net/minecraft/network/play/client/ClsNiGxrlxps",
           "fields": "3*I,S,Lnet/minecraft/item/ItemStack;,Lnet/minecraft/inventory/ClickType;",
           "fieldsUnique": true
         },
         {
           "id": 9,
-          "className": "net/minecraft/network/play/client/ClsNiEuvozob",
+          "className": "net/minecraft/network/play/client/ClsNjEuvozob",
           "fields": "I",
           "fieldsUnique": false
         },
         {
           "id": 10,
-          "className": "net/minecraft/network/play/client/ClsNjEwrmnme",
+          "className": "net/minecraft/network/play/client/ClsNkEwrmnme",
           "fields": "Lnet/minecraft/util/Identifier;,Lnet/minecraft/network/PacketBuffer;",
           "fieldsUnique": true
         },
         {
           "id": 11,
-          "className": "net/minecraft/network/play/client/ClsNkBqhcrri",
+          "className": "net/minecraft/network/play/client/ClsNlBglanpr",
           "fields": "Lnet/minecraft/item/ItemStack;,Z,Lnet/minecraft/entity/player/Hand;",
           "fieldsUnique": true
         },
         {
           "id": 12,
-          "className": "net/minecraft/network/play/client/ClsNlBiadtwr",
+          "className": "net/minecraft/network/play/client/ClsNmBiadtwr",
           "fields": "2*I",
           "fieldsUnique": false
         },
         {
           "id": 13,
-          "className": "net/minecraft/network/play/client/ClsNmFqfdjyu",
-          "fields": "I,Lnet/minecraft/network/play/client/ClsNmFqfdjyu$a;,Lnet/minecraft/util/math/Vec3d;,Lnet/minecraft/entity/player/Hand;",
+          "className": "net/minecraft/network/play/client/ClsNnFbndtpv",
+          "fields": "I,Lnet/minecraft/network/play/client/ClsNnFbndtpv$a;,Lnet/minecraft/util/math/Vec3d;,Lnet/minecraft/entity/player/Hand;",
           "fieldsUnique": true
         },
         {
@@ -670,13 +670,13 @@
         },
         {
           "id": 21,
-          "className": "net/minecraft/network/play/client/ClsNrDictdis",
+          "className": "net/minecraft/network/play/client/ClsNsDictdis",
           "fields": "I",
           "fieldsUnique": false
         },
         {
           "id": 22,
-          "className": "net/minecraft/network/play/client/ClsNsCnogevx",
+          "className": "net/minecraft/network/play/client/ClsNtCnogevx",
           "fields": "I,Lnet/minecraft/util/Identifier;,Z",
           "fieldsUnique": true
         },
@@ -688,8 +688,8 @@
         },
         {
           "id": 24,
-          "className": "net/minecraft/network/play/client/ClsNuFxozueo",
-          "fields": "Lnet/minecraft/util/math/BlockPos;,Lnet/minecraft/util/Facing;,Lnet/minecraft/network/play/client/ClsNuFxozueo$a;",
+          "className": "net/minecraft/network/play/client/ClsNvGlndriu",
+          "fields": "Lnet/minecraft/util/math/BlockPos;,Lnet/minecraft/util/Facing;,Lnet/minecraft/network/play/client/ClsNvGlndriu$a;",
           "fieldsUnique": true
         },
         {
@@ -740,7 +740,7 @@
       "clientbound": [
         {
           "id": 0,
-          "className": "net/minecraft/network/login/server/ClsOxKwjtcf",
+          "className": "net/minecraft/network/login/server/ClsOyKwjtcf",
           "fields": "Lnet/minecraft/util/text/Component;",
           "fieldsUnique": true
         },
@@ -790,6 +790,5 @@
         }
       ]
     }
-  },
-  "version": 446
+  }
 }
