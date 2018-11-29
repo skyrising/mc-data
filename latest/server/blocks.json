@@ -24,7 +24,7 @@
     "class": "net/minecraft/block/PressurePlate"
   },
   "acacia_sapling": {
-    "class": "net/minecraft/block/ClsBjzClgwmjd"
+    "class": "net/minecraft/block/ClsBkcClgwmjd"
   },
   "acacia_sign": {
     "class": "net/minecraft/block/StandingSign"
@@ -51,7 +51,7 @@
     "class": "net/minecraft/block/Air"
   },
   "allium": {
-    "class": "net/minecraft/block/ClsBhpCduhfzb"
+    "class": "net/minecraft/block/ClsBhsCduhfzb"
   },
   "andesite": {
     "class": "net/minecraft/block/Block"
@@ -75,7 +75,7 @@
     "class": "net/minecraft/block/AttachedStem"
   },
   "azure_bluet": {
-    "class": "net/minecraft/block/ClsBhpCduhfzb"
+    "class": "net/minecraft/block/ClsBhsCduhfzb"
   },
   "bamboo": {
     "class": "net/minecraft/block/Bamboo"
@@ -126,7 +126,7 @@
     "class": "net/minecraft/block/PressurePlate"
   },
   "birch_sapling": {
-    "class": "net/minecraft/block/ClsBjzClgwmjd"
+    "class": "net/minecraft/block/ClsBkcClgwmjd"
   },
   "birch_sign": {
     "class": "net/minecraft/block/StandingSign"
@@ -207,7 +207,7 @@
     "class": "net/minecraft/block/BlueIce"
   },
   "blue_orchid": {
-    "class": "net/minecraft/block/ClsBhpCduhfzb"
+    "class": "net/minecraft/block/ClsBhsCduhfzb"
   },
   "blue_shulker_box": {
     "class": "net/minecraft/block/ShulkerBox"
@@ -279,7 +279,7 @@
     "class": "net/minecraft/block/GlazedTerracotta"
   },
   "brown_mushroom": {
-    "class": "net/minecraft/block/ClsBiyGgqweai"
+    "class": "net/minecraft/block/ClsBjbGgqweai"
   },
   "brown_mushroom_block": {
     "class": "net/minecraft/block/MushroomBlock"
@@ -318,7 +318,7 @@
     "class": "net/minecraft/block/CoralWallFan"
   },
   "cactus": {
-    "class": "net/minecraft/block/ClsBfwCpzmquu"
+    "class": "net/minecraft/block/ClsBfzTzouow"
   },
   "cake": {
     "class": "net/minecraft/block/Cake"
@@ -363,7 +363,7 @@
     "class": "net/minecraft/block/ChorusFlower"
   },
   "chorus_plant": {
-    "class": "net/minecraft/block/ClsBgeFaaizcq"
+    "class": "net/minecraft/block/ClsBghFtqrgdu"
   },
   "clay": {
     "class": "net/minecraft/block/Block"
@@ -405,7 +405,7 @@
     "class": "net/minecraft/block/Conduit"
   },
   "cornflower": {
-    "class": "net/minecraft/block/ClsBhpCduhfzb"
+    "class": "net/minecraft/block/ClsBhsCduhfzb"
   },
   "cracked_stone_bricks": {
     "class": "net/minecraft/block/Block"
@@ -465,7 +465,7 @@
     "class": "net/minecraft/block/Anvil"
   },
   "dandelion": {
-    "class": "net/minecraft/block/ClsBhpCduhfzb"
+    "class": "net/minecraft/block/ClsBhsCduhfzb"
   },
   "dark_oak_button": {
     "class": "net/minecraft/block/WoodButton"
@@ -492,7 +492,7 @@
     "class": "net/minecraft/block/PressurePlate"
   },
   "dark_oak_sapling": {
-    "class": "net/minecraft/block/ClsBjzClgwmjd"
+    "class": "net/minecraft/block/ClsBkcClgwmjd"
   },
   "dark_oak_sign": {
     "class": "net/minecraft/block/StandingSign"
@@ -669,7 +669,7 @@
     "class": "net/minecraft/block/EnderChest"
   },
   "farmland": {
-    "class": "net/minecraft/block/ClsBhkDwkuvqf"
+    "class": "net/minecraft/block/ClsBhnGqjmajf"
   },
   "fern": {
     "class": "net/minecraft/block/Grass"
@@ -735,7 +735,7 @@
     "class": "net/minecraft/block/GrassBlock"
   },
   "grass_path": {
-    "class": "net/minecraft/block/ClsBhwClexsdm"
+    "class": "net/minecraft/block/ClsBhzUchjse"
   },
   "gravel": {
     "class": "net/minecraft/block/Gravel"
@@ -876,7 +876,7 @@
     "class": "net/minecraft/block/CarvedPumpkin"
   },
   "jigsaw": {
-    "class": "net/minecraft/block/ClsBihCmhbids"
+    "class": "net/minecraft/block/ClsBikCmhbids"
   },
   "jukebox": {
     "class": "net/minecraft/block/Jukebox"
@@ -906,7 +906,7 @@
     "class": "net/minecraft/block/PressurePlate"
   },
   "jungle_sapling": {
-    "class": "net/minecraft/block/ClsBjzClgwmjd"
+    "class": "net/minecraft/block/ClsBkcClgwmjd"
   },
   "jungle_sign": {
     "class": "net/minecraft/block/StandingSign"
@@ -936,7 +936,7 @@
     "class": "net/minecraft/block/Ladder"
   },
   "lantern": {
-    "class": "net/minecraft/block/ClsBimCchzbtj"
+    "class": "net/minecraft/block/ClsBipFrlvtfb"
   },
   "lapis_block": {
     "class": "net/minecraft/block/Block"
@@ -1035,7 +1035,7 @@
     "class": "net/minecraft/block/TallFlower"
   },
   "lily_of_the_valley": {
-    "class": "net/minecraft/block/ClsBhpCduhfzb"
+    "class": "net/minecraft/block/ClsBhsCduhfzb"
   },
   "lily_pad": {
     "class": "net/minecraft/block/LilyPad"
@@ -1215,7 +1215,7 @@
     "class": "net/minecraft/block/PressurePlate"
   },
   "oak_sapling": {
-    "class": "net/minecraft/block/ClsBjzClgwmjd"
+    "class": "net/minecraft/block/ClsBkcClgwmjd"
   },
   "oak_sign": {
     "class": "net/minecraft/block/StandingSign"
@@ -1272,7 +1272,7 @@
     "class": "net/minecraft/block/Block"
   },
   "orange_tulip": {
-    "class": "net/minecraft/block/ClsBhpCduhfzb"
+    "class": "net/minecraft/block/ClsBhsCduhfzb"
   },
   "orange_wall_banner": {
     "class": "net/minecraft/block/WallBanner"
@@ -1281,7 +1281,7 @@
     "class": "net/minecraft/block/Block"
   },
   "oxeye_daisy": {
-    "class": "net/minecraft/block/ClsBhpCduhfzb"
+    "class": "net/minecraft/block/ClsBhsCduhfzb"
   },
   "packed_ice": {
     "class": "net/minecraft/block/Block"
@@ -1323,7 +1323,7 @@
     "class": "net/minecraft/block/Block"
   },
   "pink_tulip": {
-    "class": "net/minecraft/block/ClsBhpCduhfzb"
+    "class": "net/minecraft/block/ClsBhsCduhfzb"
   },
   "pink_wall_banner": {
     "class": "net/minecraft/block/WallBanner"
@@ -1374,7 +1374,7 @@
     "class": "net/minecraft/block/Stairs"
   },
   "poppy": {
-    "class": "net/minecraft/block/ClsBhpCduhfzb"
+    "class": "net/minecraft/block/ClsBhsCduhfzb"
   },
   "potatoes": {
     "class": "net/minecraft/block/Potatoes"
@@ -1479,7 +1479,7 @@
     "class": "net/minecraft/block/CobblestoneWall"
   },
   "pumpkin": {
-    "class": "net/minecraft/block/ClsBjmFotuaou"
+    "class": "net/minecraft/block/ClsBjpFotuaou"
   },
   "pumpkin_stem": {
     "class": "net/minecraft/block/Stem"
@@ -1566,7 +1566,7 @@
     "class": "net/minecraft/block/GlazedTerracotta"
   },
   "red_mushroom": {
-    "class": "net/minecraft/block/ClsBiyGgqweai"
+    "class": "net/minecraft/block/ClsBjbGgqweai"
   },
   "red_mushroom_block": {
     "class": "net/minecraft/block/MushroomBlock"
@@ -1611,7 +1611,7 @@
     "class": "net/minecraft/block/Block"
   },
   "red_tulip": {
-    "class": "net/minecraft/block/ClsBhpCduhfzb"
+    "class": "net/minecraft/block/ClsBhsCduhfzb"
   },
   "red_wall_banner": {
     "class": "net/minecraft/block/WallBanner"
@@ -1764,7 +1764,7 @@
     "class": "net/minecraft/block/PressurePlate"
   },
   "spruce_sapling": {
-    "class": "net/minecraft/block/ClsBjzClgwmjd"
+    "class": "net/minecraft/block/ClsBkcClgwmjd"
   },
   "spruce_sign": {
     "class": "net/minecraft/block/StandingSign"
@@ -1887,7 +1887,7 @@
     "class": "net/minecraft/block/Tripwire"
   },
   "tripwire_hook": {
-    "class": "net/minecraft/block/ClsBlmCpwqfnq"
+    "class": "net/minecraft/block/ClsBlpFeifyvg"
   },
   "tube_coral": {
     "class": "net/minecraft/block/Coral"
@@ -1953,7 +1953,7 @@
     "class": "net/minecraft/block/Block"
   },
   "white_tulip": {
-    "class": "net/minecraft/block/ClsBhpCduhfzb"
+    "class": "net/minecraft/block/ClsBhsCduhfzb"
   },
   "white_wall_banner": {
     "class": "net/minecraft/block/WallBanner"
@@ -1962,7 +1962,7 @@
     "class": "net/minecraft/block/Block"
   },
   "wither_rose": {
-    "class": "net/minecraft/block/ClsBlyDvfcejm"
+    "class": "net/minecraft/block/ClsBmbDvfcejm"
   },
   "wither_skeleton_skull": {
     "class": "net/minecraft/block/WitherSkeletonSkull"
