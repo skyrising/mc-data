@@ -116,7 +116,7 @@ f net/minecraft/src/ClsFFwkvcug
 	a LOGGER
 	<init> (Lorg/apache/logging/log4j/Logger;)V <init>
 	uncaughtException (Ljava/lang/Thread;Ljava/lang/Throwable;)V uncaughtException
-g net/minecraft/src/ClsGEeuugyq
+g net/minecraft/src/ClsGDzmdqof
 	a LOGGER
 	b string0
 	c string1
@@ -482,11 +482,11 @@ x net/minecraft/advancements/FrameType
 	c ()La; getTextFormatting
 	<clinit> ()V <clinit>
 y net/minecraft/src/IfYKxqwh
-	AND Y_0
-	OR Y_1
+	a Y_0
+	b Y_1
 	createRequirements (Ljava/util/Collection;)[[Ljava/lang/String; createRequirements
-	lambda$static$1 (Ljava/util/Collection;)[[Ljava/lang/String; lambda$static$1
-	lambda$static$0 (Ljava/util/Collection;)[[Ljava/lang/String; lambda$static$0
+	a (Ljava/util/Collection;)[[Ljava/lang/String; md_6950204_a
+	b (Ljava/util/Collection;)[[Ljava/lang/String; md_14048212_b
 	<clinit> ()V <clinit>
 z net/minecraft/src/ClsZDdtleix
 	a advancement
@@ -3303,7 +3303,7 @@ ev net/minecraft/src/ClsEvDhjxrul
 ew net/minecraft/src/ClsEwCxtrkbn
 	<init> ()V <init>
 	dispense (Leu;Lavs;)Lavs; dispense
-	a (Leu;Lavs;)Lavs; md_3002020_a
+	a (Leu;Lavs;)Lavs; md_16605759_a
 	a (Lbaq;Lavs;ILey;Lfi;)V md_11789476_a
 	a (Leu;)V md_3798638_a
 	a (Leu;Ley;)V md_14699476_a
@@ -3476,9 +3476,9 @@ ez net/minecraft/src/EnumEzEzrdbec
 	a ()Ljava/util/Set; getSet
 	<clinit> ()V <clinit>
 fa net/minecraft/src/IfFaBhcarxh
-	NOOP FA
+	a FA
 	dispense (Leu;Lavs;)Lavs; dispense
-	lambda$static$0 (Leu;Lavs;)Lavs; lambda$static$0
+	a (Leu;Lavs;)Lavs; md_16605759_a
 	<clinit> ()V <clinit>
 fb net/minecraft/src/IfFbDehaohk
 	a (I)Ljava/lang/Object; md_4455719_a
@@ -8198,7 +8198,7 @@ py$a net/minecraft/util/Identifier$a
 	deserialize (Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object; deserialize
 qa net/minecraft/src/ClsQaDztlfib
 	<init> ()V <init>
-	a (Leu;Lavs;)Lavs; md_3002020_a
+	a (Leu;Lavs;)Lavs; md_16605759_a
 	a (Leu;)V md_3798638_a
 	a (Lbaq;Lfi;Lavs;)Laqw; md_1271627_a
 	a ()F md_2598798_a
@@ -8219,37 +8219,37 @@ qb$1 net/minecraft/data/Bootstrap$1
 	a (Lbaq;Lfi;Lavs;)Laqw; md_1271627_a
 qb$2 net/minecraft/data/Bootstrap$2
 	<init> ()V <init>
-	a (Leu;Lavs;)Lavs; md_3002020_a
+	a (Leu;Lavs;)Lavs; md_16605759_a
 	a (Leu;)V md_3798638_a
 qb$3 net/minecraft/data/Bootstrap$3
 	<init> ()V <init>
-	a (Leu;Lavs;)Lavs; md_3002020_a
+	a (Leu;Lavs;)Lavs; md_16605759_a
 	a (Leu;)V md_3798638_a
 qb$4 net/minecraft/data/Bootstrap$4
-	a ew
+	b ew
 	<init> ()V <init>
-	a (Leu;Lavs;)Lavs; md_3002020_a
+	a (Leu;Lavs;)Lavs; md_16605759_a
 qb$5 net/minecraft/data/Bootstrap$5
-	a ew
+	b ew
 	<init> ()V <init>
-	a (Leu;Lavs;)Lavs; md_3002020_a
+	a (Leu;Lavs;)Lavs; md_16605759_a
 qb$6 net/minecraft/data/Bootstrap$6
 	<init> ()V <init>
-	a (Leu;Lavs;)Lavs; md_3002020_a
+	a (Leu;Lavs;)Lavs; md_16605759_a
 qb$7 net/minecraft/data/Bootstrap$7
 	<init> ()V <init>
-	a (Leu;Lavs;)Lavs; md_3002020_a
+	a (Leu;Lavs;)Lavs; md_16605759_a
 qb$8 net/minecraft/data/Bootstrap$8
 	<init> ()V <init>
-	a (Leu;Lavs;)Lavs; md_3002020_a
+	a (Leu;Lavs;)Lavs; md_16605759_a
 qb$9 net/minecraft/data/Bootstrap$9
 	<init> ()V <init>
-	a (Leu;Lavs;)Lavs; md_3002020_a
+	a (Leu;Lavs;)Lavs; md_16605759_a
 qb$a net/minecraft/data/Bootstrap$a
-	a ew
-	b arp$b
+	b ew
+	c arp$b
 	<init> (Larp$b;)V <init>
-	a (Leu;Lavs;)Lavs; md_3002020_a
+	a (Leu;Lavs;)Lavs; md_16605759_a
 	a (Leu;)V md_3798638_a
 qb$b net/minecraft/data/Bootstrap$b
 	j facing
@@ -8263,25 +8263,25 @@ qb$b net/minecraft/data/Bootstrap$b
 	g ()Z md_9006648_g
 	h ()F md_83832_h
 qb$c net/minecraft/data/Bootstrap$c
-	a flag
+	b flag
 	<init> ()V <init>
 	a (Leu;)V md_3798638_a
 qb$d net/minecraft/data/Bootstrap$d
 	<init> ()V <init>
-	a (Leu;Lavs;)Lavs; md_3002020_a
+	a (Leu;Lavs;)Lavs; md_16605759_a
 	<init> (Lqb$1;)V <init>
 qb$10 net/minecraft/data/Bootstrap$10
 	<init> ()V <init>
-	a (Leu;Lavs;)Lavs; md_3002020_a
+	a (Leu;Lavs;)Lavs; md_16605759_a
 qb$11 net/minecraft/data/Bootstrap$11
 	<init> ()V <init>
-	a (Leu;Lavs;)Lavs; md_3002020_a
+	a (Leu;Lavs;)Lavs; md_16605759_a
 qb$12 net/minecraft/data/Bootstrap$12
 	<init> ()V <init>
 	a (Lbaq;Lfi;Lavs;)Laqw; md_1271627_a
 qb$13 net/minecraft/data/Bootstrap$13
 	<init> ()V <init>
-	a (Leu;Lavs;)Lavs; md_3002020_a
+	a (Leu;Lavs;)Lavs; md_16605759_a
 qb$14 net/minecraft/data/Bootstrap$14
 	a IS
 	<clinit> ()V <clinit>
@@ -8303,8 +8303,8 @@ qb$19 net/minecraft/data/Bootstrap$19
 	<init> ()V <init>
 	dispense (Leu;Lavs;)Lavs; dispense
 qb$19$1 net/minecraft/data/Bootstrap$19$1
-	a itemStack
-	b qb$19
+	b itemStack
+	c qb$19
 	<init> (Lqb$19;Lavs;)V <init>
 	a (Lbaq;Lfi;Lavs;)Laqw; md_1271627_a
 	a ()F md_2598798_a
@@ -8313,15 +8313,15 @@ qb$20 net/minecraft/data/Bootstrap$20
 	<init> ()V <init>
 	dispense (Leu;Lavs;)Lavs; dispense
 qb$20$1 net/minecraft/data/Bootstrap$20$1
-	a itemStack
-	b qb$20
+	b itemStack
+	c qb$20
 	<init> (Lqb$20;Lavs;)V <init>
 	a (Lbaq;Lfi;Lavs;)Laqw; md_1271627_a
 	a ()F md_2598798_a
 	b ()F md_2598793_b
 qb$21 net/minecraft/data/Bootstrap$21
 	<init> ()V <init>
-	a (Leu;Lavs;)Lavs; md_3002020_a
+	a (Leu;Lavs;)Lavs; md_16605759_a
 qc net/minecraft/src/ClsQcEaiyeye
 	a list
 	b string
@@ -12538,16 +12538,16 @@ xm net/minecraft/src/ClsXmGpnabbk
 	hashCode ()I hashCode
 	toString ()Ljava/lang/String; toString
 xn net/minecraft/src/IfXnFvkxcfl
-	DECIMAL_FORMAT DECIMAL_FORMAT
-	DEFAULT XN_0
-	DIVIDE_BY_TEN XN_1
-	DISTANCE XN_2
-	TIME XN_3
+	a DECIMAL_FORMAT
+	b XN_0
+	c XN_1
+	d XN_2
+	e XN_3
 	format (I)Ljava/lang/String; format
-	lambda$static$3 (I)Ljava/lang/String; lambda$static$3
-	lambda$static$2 (I)Ljava/lang/String; lambda$static$2
-	lambda$static$1 (I)Ljava/lang/String; lambda$static$1
-	lambda$static$0 (Ljava/text/DecimalFormat;)V lambda$static$0
+	a (I)Ljava/lang/String; md_15606388_a
+	b (I)Ljava/lang/String; md_7972633_b
+	c (I)Ljava/lang/String; md_13924363_c
+	a (Ljava/text/DecimalFormat;)V md_10820558_a
 	<clinit> ()V <clinit>
 xo net/minecraft/src/ClsXoBqhbipg
 	a registry
@@ -12949,7 +12949,7 @@ yf net/minecraft/src/ClsYfSnaveo
 	<clinit> ()V <clinit>
 yg net/minecraft/src/IfYgDrojiij
 	a LOGGER
-	a (Lcom/mojang/datafixers/Dynamic;)Ljava/lang/Object; md_1220695_a
+	deserialize (Lcom/mojang/datafixers/Dynamic;)Ljava/lang/Object; deserialize
 	a (Lcom/mojang/datafixers/Dynamic;Lfk;Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object; md_9927635_a
 	<clinit> ()V <clinit>
 yh net/minecraft/src/ClsYhFlfpxkn
@@ -14612,7 +14612,7 @@ ael net/minecraft/src/ClsAelBhxmlhn
 	a (Lael;)I compareTo
 	a ()I md_12338069_a
 	compareTo (Ljava/lang/Object;)I compareTo
-aeo net/minecraft/src/ClsAeoFhkqvoc
+aeo net/minecraft/src/ClsAeoGolfrbr
 	a LOGGER
 	f queue
 	<init> ()V <init>
@@ -23423,7 +23423,7 @@ atm net/minecraft/item/ClsAtmPuzfwx
 	<clinit> ()V <clinit>
 atm$1 net/minecraft/item/ClsAtmPuzfwx$1
 	<init> ()V <init>
-	a (Leu;Lavs;)Lavs; md_3002020_a
+	a (Leu;Lavs;)Lavs; md_16605759_a
 atn net/minecraft/src/IfAtnBvnipuy
 	a (Lagn;)I md_16122364_a
 	b (Lagn;)I md_16122364_b
@@ -25092,9 +25092,9 @@ avz net/minecraft/item/ClsAvzChfcjxj
 	a (Lavz;)Larn$a; getArn$a
 	<clinit> ()V <clinit>
 avz$1 net/minecraft/item/ClsAvzChfcjxj$1
-	a ew
+	b ew
 	<init> ()V <init>
-	a (Leu;Lavs;)Lavs; md_3002020_a
+	a (Leu;Lavs;)Lavs; md_16605759_a
 	a (Leu;)V md_3798638_a
 awa net/minecraft/item/ClsAwaEthmrbk
 	<init> (Lavn$a;)V <init>
@@ -35144,76 +35144,76 @@ bxb net/minecraft/world/gen/feature/ClsBxbCowgmgp
 bxb$a net/minecraft/world/gen/feature/ClsBxbCowgmgp$a
 	create (Lbxb;IILbbp;Lcag;IJ)Lcbb; create
 bxc net/minecraft/world/gen/feature/structure/StructurePiece
-	MINE_SHAFT_CORRIDOR STRUCTURE_PIECE_0
-	MINE_SHAFT_CROSSING STRUCTURE_PIECE_1
-	MINE_SHAFT_ROOM STRUCTURE_PIECE_2
-	MINE_SHAFT_STAIRS STRUCTURE_PIECE_3
-	VILLAGE_BOOK_HOUSE STRUCTURE_PIECE_4
-	VILLAGE_DOUBLE_FARMLAND STRUCTURE_PIECE_5
-	VILLAGE_FARMLAND STRUCTURE_PIECE_6
-	VILLAGE_LIGHT_POST STRUCTURE_PIECE_7
-	VILLAGE_PIG_HOUSE STRUCTURE_PIECE_8
-	VILLAGE_SIMPLE_HOUSE STRUCTURE_PIECE_9
-	VILLAGE_SMALL_HUT STRUCTURE_PIECE_10
-	VILLAGE_SMALL_TEMPLE STRUCTURE_PIECE_11
-	VILLAGE_SMITHY STRUCTURE_PIECE_12
-	VILLAGE_START STRUCTURE_PIECE_13
-	VILLAGE_STRAIGHT_ROAD STRUCTURE_PIECE_14
-	VILLAGE_TWO_ROOM_HOUSE STRUCTURE_PIECE_15
-	VILLAGE_WELL STRUCTURE_PIECE_16
-	PILLAGER_OUTPOST STRUCTURE_PIECE_17
-	NEW_VILLAGE STRUCTURE_PIECE_18
-	NETHER_FORTRESS_BRIDGE_CROSSING STRUCTURE_PIECE_19
-	NETHER_FORTRESS_BRIDGE_END_FILLER STRUCTURE_PIECE_20
-	NETHER_FORTRESS_BRIDGE_STRAIGHT STRUCTURE_PIECE_21
-	NETHER_FORTRESS_CASTLE_CORRIDOR_STAIRS STRUCTURE_PIECE_22
-	NETHER_FORTRESS_CASTLE_CORRIDOR_T_BALCONY STRUCTURE_PIECE_23
-	NETHER_FORTRESS_CASTLE_ENTRANCE STRUCTURE_PIECE_24
-	NETHER_FORTRESS_CASTLE_SMALL_CORRIDOR_CROSSING STRUCTURE_PIECE_25
-	NETHER_FORTRESS_CASTLE_SMALL_CORRIDOR_LEFT_TURN STRUCTURE_PIECE_26
-	NETHER_FORTRESS_CASTLE_SMALL_CORRIDOR STRUCTURE_PIECE_27
-	NETHER_FORTRESS_CASTLE_SMALL_CORRIDOR_RIGHT_TURN STRUCTURE_PIECE_28
-	NETHER_FORTRESS_CASTLE_STALK_ROOM STRUCTURE_PIECE_29
-	NETHER_FORTRESS_MONSTER_THRONE STRUCTURE_PIECE_30
-	NETHER_FORTRESS_ROOM_CROSSING STRUCTURE_PIECE_31
-	NETHER_FORTRESS_STAIRS_ROOM STRUCTURE_PIECE_32
-	NETHER_FORTRESS_START STRUCTURE_PIECE_33
-	STRONGHOLD_CHEST_CORRIDOR STRUCTURE_PIECE_34
-	STRONGHOLD_FILLER_CORRIDOR STRUCTURE_PIECE_35
-	STRONGHOLD_FIVE_CROSSING STRUCTURE_PIECE_36
-	STRONGHOLD_LEFT_TURN STRUCTURE_PIECE_37
-	STRONGHOLD_LIBRARY STRUCTURE_PIECE_38
-	STRONGHOLD_PORTAL_ROOM STRUCTURE_PIECE_39
-	STRONGHOLD_PRISON_HALL STRUCTURE_PIECE_40
-	STRONGHOLD_RIGHT_TURN STRUCTURE_PIECE_41
-	STRONGHOLD_ROOM_CROSSING STRUCTURE_PIECE_42
-	STRONGHOLD_STAIRS_DOWN STRUCTURE_PIECE_43
-	STRONGHOLD_START STRUCTURE_PIECE_44
-	STRONGHOLD_STRAIGHT STRUCTURE_PIECE_45
-	STRONGHOLD_STRAIGHT_STAIRS_DOWN STRUCTURE_PIECE_46
-	JUNGLE_PYRAMID_PIECE STRUCTURE_PIECE_47
-	OCEAN_RUIN STRUCTURE_PIECE_48
-	IGLOO STRUCTURE_PIECE_49
-	SWAMPLAND_HUT STRUCTURE_PIECE_50
-	DESERT_PYRAMID_PIECE STRUCTURE_PIECE_51
-	OCEAN_MONUMENT_BUILDING STRUCTURE_PIECE_52
-	OCEAN_MONUMENT_CORE_ROOM STRUCTURE_PIECE_53
-	OCEAN_MONUMENT_DOUBLE_X_ROOM STRUCTURE_PIECE_54
-	OCEAN_MONUMENT_DOUBLE_XY_ROOM STRUCTURE_PIECE_55
-	OCEAN_MONUMENT_DOUBLE_Y_ROOM STRUCTURE_PIECE_56
-	OCEAN_MONUMENT_DOUBLE_YZ_ROOM STRUCTURE_PIECE_57
-	OCEAN_MONUMENT_DOUBLE_Z_ROOM STRUCTURE_PIECE_58
-	OCEAN_MONUMENT_ENTRY_ROOM STRUCTURE_PIECE_59
-	OCEAN_MONUMENT_PENTHOUSE STRUCTURE_PIECE_60
-	OCEAN_MONUMENT_SIMPLE_ROOM STRUCTURE_PIECE_61
-	OCEAN_MONUMENT_SIMPLE_TOP_ROOM STRUCTURE_PIECE_62
-	OCEAN_MONUMENT_WING_ROOM STRUCTURE_PIECE_63
-	END_CITY_PIECE STRUCTURE_PIECE_64
-	WOODLAND_MANSION_PIECE STRUCTURE_PIECE_65
-	BURIED_TREASURE_PIECE STRUCTURE_PIECE_66
-	SHIPWRECK_PIECE STRUCTURE_PIECE_67
+	a STRUCTURE_PIECE_0
+	b STRUCTURE_PIECE_1
+	c STRUCTURE_PIECE_2
+	d STRUCTURE_PIECE_3
+	e STRUCTURE_PIECE_4
+	f STRUCTURE_PIECE_5
+	g STRUCTURE_PIECE_6
+	h STRUCTURE_PIECE_7
+	i STRUCTURE_PIECE_8
+	j STRUCTURE_PIECE_9
+	k STRUCTURE_PIECE_10
+	l STRUCTURE_PIECE_11
+	m STRUCTURE_PIECE_12
+	n STRUCTURE_PIECE_13
+	o STRUCTURE_PIECE_14
+	p STRUCTURE_PIECE_15
+	q STRUCTURE_PIECE_16
+	r STRUCTURE_PIECE_17
+	s STRUCTURE_PIECE_18
+	t STRUCTURE_PIECE_19
+	u STRUCTURE_PIECE_20
+	v STRUCTURE_PIECE_21
+	w STRUCTURE_PIECE_22
+	x STRUCTURE_PIECE_23
+	y STRUCTURE_PIECE_24
+	z STRUCTURE_PIECE_25
+	A STRUCTURE_PIECE_26
+	B STRUCTURE_PIECE_27
+	C STRUCTURE_PIECE_28
+	D STRUCTURE_PIECE_29
+	E STRUCTURE_PIECE_30
+	F STRUCTURE_PIECE_31
+	G STRUCTURE_PIECE_32
+	H STRUCTURE_PIECE_33
+	I STRUCTURE_PIECE_34
+	J STRUCTURE_PIECE_35
+	K STRUCTURE_PIECE_36
+	L STRUCTURE_PIECE_37
+	M STRUCTURE_PIECE_38
+	N STRUCTURE_PIECE_39
+	O STRUCTURE_PIECE_40
+	P STRUCTURE_PIECE_41
+	Q STRUCTURE_PIECE_42
+	R STRUCTURE_PIECE_43
+	S STRUCTURE_PIECE_44
+	T STRUCTURE_PIECE_45
+	U STRUCTURE_PIECE_46
+	V STRUCTURE_PIECE_47
+	W STRUCTURE_PIECE_48
+	X STRUCTURE_PIECE_49
+	Y STRUCTURE_PIECE_50
+	Z STRUCTURE_PIECE_51
+	aa STRUCTURE_PIECE_52
+	ab STRUCTURE_PIECE_53
+	ac STRUCTURE_PIECE_54
+	ad STRUCTURE_PIECE_55
+	ae STRUCTURE_PIECE_56
+	af STRUCTURE_PIECE_57
+	ag STRUCTURE_PIECE_58
+	ah STRUCTURE_PIECE_59
+	ai STRUCTURE_PIECE_60
+	aj STRUCTURE_PIECE_61
+	ak STRUCTURE_PIECE_62
+	al STRUCTURE_PIECE_63
+	am STRUCTURE_PIECE_64
+	an STRUCTURE_PIECE_65
+	ao STRUCTURE_PIECE_66
+	ap STRUCTURE_PIECE_67
 	load (Lcbv;Lhp;)Lcba; load
-	setPieceId (Lbxc;Ljava/lang/String;)Lbxc; setPieceId
+	a (Lbxc;Ljava/lang/String;)Lbxc; md_1190034_a
 	<clinit> ()V <clinit>
 bxd net/minecraft/world/gen/feature/SwampFlower
 	<init> (Ljava/util/function/Function;)V <init>
@@ -35398,12 +35398,12 @@ bxw net/minecraft/src/ClsBxwGacsjqz
 	a (Lcom/mojang/datafixers/types/DynamicOps;)Lcom/mojang/datafixers/Dynamic; md_3029196_a
 	b (Lcom/mojang/datafixers/types/DynamicOps;)Lcom/mojang/datafixers/Dynamic; md_4407957_b
 bxx net/minecraft/world/gen/feature/structure/ListPoolElement
-	SINGLE LIST_POOL_ELEMENT_0
-	LIST LIST_POOL_ELEMENT_1
-	FEATURE LIST_POOL_ELEMENT_2
-	EMPTY LIST_POOL_ELEMENT_3
-	register (Ljava/lang/String;Lbxx;)Lbxx; register
-	lambda$static$0 (Lcom/mojang/datafixers/Dynamic;)Lbxw; lambda$static$0
+	b LIST_POOL_ELEMENT_0
+	c LIST_POOL_ELEMENT_1
+	d LIST_POOL_ELEMENT_2
+	e LIST_POOL_ELEMENT_3
+	a (Ljava/lang/String;Lbxx;)Lbxx; md_15158520_a
+	a (Lcom/mojang/datafixers/Dynamic;)Lbxw; md_3029196_a
 	<clinit> ()V <clinit>
 bxy net/minecraft/src/ClsBxyBbvixgf
 	a BXY_0
@@ -37080,14 +37080,14 @@ cbt net/minecraft/src/ClsCbtBnwmomq
 	a ()Lcbu; md_3767883_a
 	a (Lcom/mojang/datafixers/types/DynamicOps;)Lcom/mojang/datafixers/Dynamic; md_3029196_a
 cbu net/minecraft/src/IfCbuDvorgdt
-	ALWAYS_TRUE_TEST CBU_0
-	BLOCK_TEST CBU_1
-	BLOCKSTATE_TEST CBU_2
-	TAG_TEST CBU_3
-	RANDOM_BLOCK_TEST CBU_4
-	RANDOM_BLOCKSTATE_TEST CBU_5
-	register (Ljava/lang/String;Lcbu;)Lcbu; register
-	lambda$static$0 (Lcom/mojang/datafixers/Dynamic;)Lcbt; lambda$static$0
+	b CBU_0
+	c CBU_1
+	d CBU_2
+	e CBU_3
+	f CBU_4
+	g CBU_5
+	a (Ljava/lang/String;Lcbu;)Lcbu; md_15158520_a
+	a (Lcom/mojang/datafixers/Dynamic;)Lcbt; md_3029196_a
 	<clinit> ()V <clinit>
 cbv net/minecraft/src/ClsCbvEebcwwl
 	a LOGGER
@@ -37155,15 +37155,15 @@ cbx net/minecraft/src/ClsCbxEqecqjd
 	a (Lcom/mojang/datafixers/types/DynamicOps;)Lcom/mojang/datafixers/Dynamic; md_3029196_a
 	b (Lcom/mojang/datafixers/types/DynamicOps;)Lcom/mojang/datafixers/Dynamic; md_13656511_b
 cby net/minecraft/world/gen/feature/structure/processor/JigsawReplacement
-	BLOCK_IGNORE JIGSAW_REPLACEMENT_0
-	BLOCK_ROT JIGSAW_REPLACEMENT_1
-	GRAVITY JIGSAW_REPLACEMENT_2
-	JIGSAW_REPLACEMENT JIGSAW_REPLACEMENT_3
-	RULE JIGSAW_REPLACEMENT_4
-	NOP JIGSAW_REPLACEMENT_5
-	register (Ljava/lang/String;Lcby;)Lcby; register
-	lambda$static$1 (Lcom/mojang/datafixers/Dynamic;)Lcbx; lambda$static$1
-	lambda$static$0 (Lcom/mojang/datafixers/Dynamic;)Lcbx; lambda$static$0
+	b JIGSAW_REPLACEMENT_0
+	c JIGSAW_REPLACEMENT_1
+	d JIGSAW_REPLACEMENT_2
+	e JIGSAW_REPLACEMENT_3
+	f JIGSAW_REPLACEMENT_4
+	g JIGSAW_REPLACEMENT_5
+	a (Ljava/lang/String;Lcby;)Lcby; md_15158520_a
+	a (Lcom/mojang/datafixers/Dynamic;)Lcbx; md_3029196_a
+	b (Lcom/mojang/datafixers/Dynamic;)Lcbx; md_3029196_b
 	<clinit> ()V <clinit>
 cbz net/minecraft/src/ClsCbzFalexcj
 	a list0
@@ -39411,19 +39411,19 @@ chr$a net/minecraft/src/ClsChrBekkwrz$a
 	b ()Lcia; md_3767883_b
 	d ()Lcia$a; md_3767883_d
 chs net/minecraft/src/IfChsFubfpvd
-	ALWAYS_FALSE CHS_0
-	ALWAYS_TRUE CHS_1
+	a CHS_0
+	b CHS_1
 	expand (Lchi;Ljava/util/function/Consumer;)Z expand
-	and (Lchs;)Lchs; and
-	or (Lchs;)Lchs; md_3029196_or
-	lambda$or$3 (Lchs;Lchi;Ljava/util/function/Consumer;)Z lambda$or$3
-	lambda$and$2 (Lchs;Lchi;Ljava/util/function/Consumer;)Z lambda$and$2
-	lambda$static$1 (Lchi;Ljava/util/function/Consumer;)Z lambda$static$1
-	lambda$static$0 (Lchi;Ljava/util/function/Consumer;)Z lambda$static$0
+	a (Lchs;)Lchs; md_3029196_a
+	b (Lchs;)Lchs; md_3029196_b
+	a (Lchs;Lchi;Ljava/util/function/Consumer;)Z md_6888324_a
+	b (Lchs;Lchi;Ljava/util/function/Consumer;)Z md_6888324_b
+	a (Lchi;Ljava/util/function/Consumer;)Z md_9210486_a
+	b (Lchi;Ljava/util/function/Consumer;)Z md_4744194_b
 	<clinit> ()V <clinit>
 cht net/minecraft/src/ClsChtXneup
-	a cias
-	b chs
+	c cias
+	d chs
 	<init> ([Lcia;[Lcjt;)V <init>
 	a (Lchm;Ljava/util/function/Function;Ljava/util/Set;Lcjg;)V md_3942596_a
 	a ([Lchs;)Lchs; md_6264778_a
@@ -39443,8 +39443,8 @@ cht$b net/minecraft/src/ClsChtXneup$b
 	b (Lcom/google/gson/JsonObject;Lcom/google/gson/JsonDeserializationContext;[Lcjt;)Lcia; md_11012850_b
 	a (Lcom/google/gson/JsonObject;Lcia;Lcom/google/gson/JsonSerializationContext;)V md_14364808_a
 chu net/minecraft/src/ClsChuEwrtgye
-	a IDENTIFIER_0
-	f identifier1
+	c IDENTIFIER_0
+	h identifier1
 	<init> (Lpy;II[Lcjt;[Lciq;)V <init>
 	a (Ljava/util/function/Consumer;Lchi;)V md_14112797_a
 	a (Lpy;)Lcib$a; md_3029196_a
@@ -39476,7 +39476,7 @@ chw net/minecraft/src/ClsChwFtcjhbd
 	a ([Lchs;Lchi;Ljava/util/function/Consumer;)Z md_12208618_a
 	a (Lchs;Lchs;Lchi;Ljava/util/function/Consumer;)Z md_14685493_a
 chx net/minecraft/src/ClsChxNwglpd
-	a item
+	c item
 	<init> (Lavn;II[Lcjt;[Lciq;)V <init>
 	a (Ljava/util/function/Consumer;Lchi;)V md_14112797_a
 	a (Lbap;)Lcib$a; md_3029196_a
@@ -39509,8 +39509,8 @@ chz net/minecraft/src/IfChzPylhgq
 	a (F)I md_2580079_a
 	a (Ljava/util/function/Consumer;Lchi;)V md_14112797_a
 cia net/minecraft/src/ClsCiaDkznggu
-	c cjts
-	a predicate
+	e cjts
+	c predicate
 	<init> ([Lcjt;)V <init>
 	a (Lchm;Ljava/util/function/Function;Ljava/util/Set;Lcjg;)V md_3942596_a
 	a (Lchi;)Z md_16122381_a
@@ -39534,11 +39534,11 @@ cia$b net/minecraft/src/ClsCiaDkznggu$b
 	a (Lcom/google/gson/JsonObject;Lcia;Lcom/google/gson/JsonSerializationContext;)V md_14364808_a
 	b (Lcom/google/gson/JsonObject;Lcom/google/gson/JsonDeserializationContext;[Lcjt;)Lcia; md_11012850_b
 cib net/minecraft/src/ClsCibYmsada
-	b i0
-	d i1
-	e ciqs
-	a biFunction
-	f chz
+	d i0
+	f i1
+	g ciqs
+	c biFunction
+	h chz
 	<init> (II[Lcjt;[Lciq;)V <init>
 	a (Lchm;Ljava/util/function/Function;Ljava/util/Set;Lcjg;)V md_3942596_a
 	a (Ljava/util/function/Consumer;Lchi;)V md_14112797_a
@@ -39579,7 +39579,7 @@ cib$e net/minecraft/src/ClsCibYmsada$e
 	b (Lcom/google/gson/JsonObject;Lcom/google/gson/JsonDeserializationContext;[Lcjt;)Lcia; md_11012850_b
 	a (Lcom/google/gson/JsonObject;Lcia;Lcom/google/gson/JsonSerializationContext;)V md_14364808_a
 cic net/minecraft/src/ClsCicBoknuvo
-	a identifier
+	c identifier
 	<init> (Lpy;II[Lcjt;[Lciq;)V <init>
 	a (Ljava/util/function/Consumer;Lchi;)V md_14112797_a
 	a (Lchm;Ljava/util/function/Function;Ljava/util/Set;Lcjg;)V md_3942596_a
@@ -39600,11 +39600,11 @@ cid net/minecraft/src/ClsCidGlyqwbk
 	a ([Lchs;)Lchs; md_6264778_a
 	a ([Lchs;Lchi;Ljava/util/function/Consumer;)Z md_5131083_a
 cie net/minecraft/src/ClsCieEhpllmz
-	a xx
-	f flag
+	c xx
+	h flag
 	<init> (Lxx;ZII[Lcjt;[Lciq;)V <init>
 	a (Ljava/util/function/Consumer;Lchi;)V md_14112797_a
-	a (Lchi;Ljava/util/function/Consumer;)Z md_12623319_a
+	a (Lchi;Ljava/util/function/Consumer;)Z md_9210486_a
 	expand (Lchi;Ljava/util/function/Consumer;)Z expand
 	b (Lxx;)Lcib$a; md_3029196_b
 	a (Lxx;II[Lcjt;[Lciq;)Lcib; md_8191894_a
@@ -40206,7 +40206,7 @@ cjk$1 net/minecraft/src/ClsCjkCuadtfx$1
 cjk$a net/minecraft/src/ClsCjkCuadtfx$a
 	a list
 	<init> ([Lcjt$a;)V <init>
-	or (Lcjt$a;)Lcjk$a; md_10675018_or
+	a (Lcjt$a;)Lcjk$a; md_10675018_a
 	build ()Lcjt; build
 cjk$b net/minecraft/src/ClsCjkCuadtfx$b
 	<init> ()V <init>
@@ -40359,8 +40359,8 @@ cjs$b net/minecraft/src/ClsCjsEjuyefg$b
 cjt net/minecraft/src/IfCjtGipwhrw
 cjt$a net/minecraft/src/IfCjtGipwhrw$a
 	build ()Lcjt; build
-	invert ()Lcjt$a; invert
-	or (Lcjt$a;)Lcjk$a; md_10675018_or
+	a ()Lcjt$a; md_3767883_a
+	a (Lcjt$a;)Lcjk$a; md_10675018_a
 cjt$b net/minecraft/src/IfCjtGipwhrw$b
 	a identifier
 	b clazz
@@ -40712,39 +40712,39 @@ cks net/minecraft/src/ClsCksGxmrwkc
 	a (Lclb;Lckt;Lcky;ILcky;ILcks;I[I[ZIII)Z md_12193501_a
 	a (Lckt;Lcky;IILcky;IILcks;II[I[ZIII)Z md_11940464_a
 ckt net/minecraft/src/IfCktDglvpze
-	FALSE CKT_0
-	NOT_OR CKT_1
-	ONLY_SECOND CKT_2
-	NOT_FIRST CKT_3
-	ONLY_FIRST CKT_4
-	NOT_SECOND CKT_5
-	NOT_SAME CKT_6
-	NOT_AND CKT_7
-	AND CKT_8
-	SAME CKT_9
-	SECOND CKT_10
-	CAUSES CKT_11
-	FIRST CKT_12
-	CAUSED_BY CKT_13
-	OR CKT_14
-	TRUE CKT_15
+	a CKT_0
+	b CKT_1
+	c CKT_2
+	d CKT_3
+	e CKT_4
+	f CKT_5
+	g CKT_6
+	h CKT_7
+	i CKT_8
+	j CKT_9
+	k CKT_10
+	l CKT_11
+	m CKT_12
+	n CKT_13
+	o CKT_14
+	p CKT_15
 	apply (ZZ)Z apply
-	lambda$static$15 (ZZ)Z lambda$static$15
-	lambda$static$14 (ZZ)Z lambda$static$14
-	lambda$static$13 (ZZ)Z lambda$static$13
-	lambda$static$12 (ZZ)Z lambda$static$12
-	lambda$static$11 (ZZ)Z lambda$static$11
-	lambda$static$10 (ZZ)Z lambda$static$10
-	lambda$static$9 (ZZ)Z lambda$static$9
-	lambda$static$8 (ZZ)Z lambda$static$8
-	lambda$static$7 (ZZ)Z lambda$static$7
-	lambda$static$6 (ZZ)Z lambda$static$6
-	lambda$static$5 (ZZ)Z lambda$static$5
-	lambda$static$4 (ZZ)Z lambda$static$4
-	lambda$static$3 (ZZ)Z lambda$static$3
-	lambda$static$2 (ZZ)Z lambda$static$2
-	lambda$static$1 (ZZ)Z lambda$static$1
-	lambda$static$0 (ZZ)Z lambda$static$0
+	a (ZZ)Z md_13237749_a
+	b (ZZ)Z md_3250744_b
+	c (ZZ)Z md_3250744_c
+	d (ZZ)Z md_12874636_d
+	e (ZZ)Z md_3250744_e
+	f (ZZ)Z md_12874636_f
+	g (ZZ)Z md_3250744_g
+	h (ZZ)Z md_3250744_h
+	i (ZZ)Z md_3250744_i
+	j (ZZ)Z md_3250744_j
+	k (ZZ)Z md_3250744_k
+	l (ZZ)Z md_3250744_l
+	m (ZZ)Z md_3250744_m
+	n (ZZ)Z md_3250744_n
+	o (ZZ)Z md_3250744_o
+	p (ZZ)Z md_8771457_p
 	<clinit> ()V <clinit>
 cku net/minecraft/src/IfCkuDosbxvt
 	a CKU
@@ -41251,24 +41251,24 @@ cly net/minecraft/src/ClsClyBikayrs
 	e ()Z md_11610570_e
 clz net/minecraft/src/IfClzEekjelh
 	getAdvance ()F getAdvance
-	getAdvance (Z)F getAdvance
-	getBearingX ()F getBearingX
-	getBoldOffset ()F getBoldOffset
-	getShadowOffset ()F getShadowOffset
+	a (Z)F md_2580696_a
+	a ()F getF0
+	b ()F md_83832_b
+	c ()F md_83832_c
 cma net/minecraft/src/IfCmaCwohbwe
 	close ()V close
 	a (C)Lcmb; md_6264034_a
 cmb net/minecraft/src/IfCmbFuccwxv
-	a ()I getI0
-	b ()I getI1
+	d ()I getI0
+	e ()I getI1
 	a (II)V md_12857768_a
-	c ()Z md_83852_c
-	d ()F md_83832_d
-	e ()F md_83832_e
-	f ()F md_83832_f
+	f ()Z md_83852_f
 	g ()F md_83832_g
 	h ()F md_83832_h
-	i ()F getF1
+	i ()F md_83832_i
+	j ()F md_83832_j
+	k ()F md_83832_k
+	l ()F getF1
 cmc net/minecraft/src/ClsCmcGdkrxwl
 	a LOGGER
 	b sTBTTFontinfo
@@ -41300,14 +41300,14 @@ cmc$a net/minecraft/src/ClsCmcGdkrxwl$a
 	g i2
 	a cmc
 	<init> (Lcmc;IIIIFFI)V <init>
-	a ()I getI0
-	b ()I getI1
-	d ()F md_83832_d
+	d ()I getI0
+	e ()I getI1
+	g ()F md_83832_g
 	getAdvance ()F getAdvance
-	getBearingX ()F getBearingX
-	i ()F getF1
+	a ()F getF0
+	l ()F getF1
 	a (II)V md_12857768_a
-	c ()Z md_83852_c
+	f ()Z md_83852_f
 	<init> (Lcmc;IIIIFFILcmc$1;)V <init>
 cmd net/minecraft/src/ClsCmdCxkjstt
 	a i0
@@ -43021,9 +43021,9 @@ cou net/minecraft/client/gui/ClsCouFhrcujx
 	a (DD)V md_12561081_a
 	b (DD)V md_8094789_b
 	a (DDDD)V md_2901256_a
-	mouseClicked (DDI)Z mouseClicked
-	mouseReleased (DDI)Z mouseReleased
-	mouseDragged (DDIDD)Z mouseDragged
+	a (DDI)Z md_15236368_a
+	b (DDI)Z md_15236368_b
+	a (DDIDD)Z md_2643600_a
 	c (DD)Z md_15832312_c
 	a ()Z isFlag2
 	a (II)V md_12857768_a
@@ -43135,9 +43135,9 @@ coy net/minecraft/client/gui/widgets/EditBox
 	f (I)V md_8410580_f
 	e ()V md_14910213_e
 	f ()V md_83848_f
-	keyPressed (III)Z keyPressed
-	charTyped (CI)Z charTyped
-	mouseClicked (DDI)Z mouseClicked
+	a (III)Z md_3225712_a
+	a (CI)Z md_8069927_a
+	a (DDI)Z md_15236368_a
 	a (IIF)V md_7037837_a
 	c (IIII)V md_7131999_c
 	g (I)V md_8410580_g
@@ -43285,8 +43285,8 @@ cpi$a net/minecraft/client/gui/ClsCpiDjgqmhc$a
 	<init> (Lcpi;ILcnx$a;)V <init>
 	<init> (Lcpi;ILcnx$a;Lcnx$a;)V <init>
 	a (IIIIZF)V md_7744860_a
-	mouseClicked (DDI)Z mouseClicked
-	mouseReleased (DDI)Z mouseReleased
+	a (DDI)Z md_15236368_a
+	b (DDI)Z md_15236368_b
 	a (F)V md_2580092_a
 cpk net/minecraft/client/gui/ClsCpkOfdvhj
 	a ORDERING
@@ -43355,13 +43355,13 @@ cpl net/minecraft/client/gui/ClsCplEtzdxkh
 	b (DD)Z md_15832312_b
 	e (I)V md_12876873_e
 	a (IIF)V md_4812534_a
-	a (DDI)V md_4975993_a
-	mouseClicked (DDI)Z mouseClicked
-	mouseReleased (DDI)Z mouseReleased
-	mouseDragged (DDIDD)Z mouseDragged
-	mouseScrolled (D)Z mouseScrolled
-	keyPressed (III)Z keyPressed
-	charTyped (CI)Z charTyped
+	c (DDI)V md_4975993_c
+	a (DDI)Z md_15236368_a
+	b (DDI)Z md_15236368_b
+	a (DDIDD)Z md_2643600_a
+	a (D)Z md_8405899_a
+	a (III)Z md_3225712_a
+	a (CI)Z md_8069927_a
 	e ()I getI0
 	a (IIIIF)V md_2887068_a
 	f ()I md_13456757_f
@@ -43421,34 +43421,34 @@ cpq net/minecraft/client/gui/ClsCpqDukaotl
 	e (Z)V setFlag
 	getFocused ()Lcpr; getFocused
 	a (Lcpr;)V setCpr
-	mouseClicked (DDI)Z mouseClicked
-	keyPressed (III)Z keyPressed
-	mouseDragged (DDIDD)Z mouseDragged
-	mouseReleased (DDI)Z mouseReleased
+	a (DDI)Z md_15236368_a
+	a (III)Z md_3225712_a
+	a (DDIDD)Z md_2643600_a
+	b (DDI)Z md_15236368_b
 	b (Lcpr;)V md_16122377_b
 	t ()V md_13512153_t
 	a (I)Lcpr; md_5175153_a
 	a (Lcpr;I)V md_10689257_a
 cpr net/minecraft/src/IfCprFxumaoj
 	d (DD)V md_12852808_d
-	mouseClicked (DDI)Z mouseClicked
-	mouseReleased (DDI)Z mouseReleased
-	mouseDragged (DDIDD)Z mouseDragged
-	mouseScrolled (D)Z mouseScrolled
-	keyPressed (III)Z keyPressed
-	keyReleased (III)Z keyReleased
-	charTyped (CI)Z charTyped
+	a (DDI)Z md_15236368_a
+	b (DDI)Z md_15236368_b
+	a (DDIDD)Z md_2643600_a
+	a (D)Z md_8405899_a
+	a (III)Z md_3225712_a
+	c (III)Z md_3225712_c
+	a (CI)Z md_8069927_a
 	b (Z)V md_2580712_b
 	l ()Z md_14910337_l
 cps net/minecraft/src/IfCpsTqowiw
 	getFocused ()Lcpr; getFocused
-	mouseClicked (DDI)Z mouseClicked
-	mouseReleased (DDI)Z mouseReleased
-	mouseDragged (DDIDD)Z mouseDragged
-	mouseScrolled (D)Z mouseScrolled
-	keyPressed (III)Z keyPressed
-	keyReleased (III)Z keyReleased
-	charTyped (CI)Z charTyped
+	a (DDI)Z md_15236368_a
+	b (DDI)Z md_15236368_b
+	a (DDIDD)Z md_2643600_a
+	a (D)Z md_8405899_a
+	a (III)Z md_3225712_a
+	c (III)Z md_3225712_c
+	a (CI)Z md_8069927_a
 cpv net/minecraft/client/gui/ClsCpvGjvxwrb
 	f IDENTIFIER_0
 	a IDENTIFIER_1
@@ -43674,12 +43674,12 @@ cql net/minecraft/src/EnumCqlCuuzyft
 	values ()[Lcql; values
 	valueOf (Ljava/lang/String;)Lcql; valueOf
 	<init> (Ljava/lang/String;I)V <init>
-	a ()I getI0
-	b ()I getI1
+	d ()I getI0
+	e ()I getI1
 	getAdvance ()F getAdvance
-	d ()F md_83832_d
+	g ()F md_83832_g
 	a (II)V md_12857768_a
-	c ()Z md_83852_c
+	f ()Z md_83852_f
 	a (Lcmn;)V md_11364627_a
 	<clinit> ()V <clinit>
 cqo net/minecraft/src/ClsCqoFrutiyr
@@ -43710,13 +43710,13 @@ cqo$b net/minecraft/src/ClsCqoFrutiyr$b
 	g i4
 	h i5
 	<init> (FLcmn;IIIIII)V <init>
-	d ()F md_83832_d
-	a ()I getI0
-	b ()I getI1
+	g ()F md_83832_g
+	d ()I getI0
+	e ()I getI1
 	getAdvance ()F getAdvance
-	i ()F getF1
+	l ()F getF1
 	a (II)V md_12857768_a
-	c ()Z md_83852_c
+	f ()Z md_83852_f
 	<init> (FLcmn;IIIIIILcqo$1;)V <init>
 cqp net/minecraft/src/IfCqpGiimlt
 	a (Lwc;)Lcma; md_3029196_a
@@ -43764,14 +43764,14 @@ cqr$b net/minecraft/src/ClsCqrCfbykcn$b
 	d i3
 	e cmn
 	<init> (IIIILcmn;)V <init>
-	d ()F md_83832_d
-	a ()I getI0
-	b ()I getI1
+	g ()F md_83832_g
+	d ()I getI0
+	e ()I getI1
 	getAdvance ()F getAdvance
 	a (II)V md_12857768_a
-	c ()Z md_83852_c
-	getShadowOffset ()F getShadowOffset
-	getBoldOffset ()F getBoldOffset
+	f ()Z md_83852_f
+	c ()F md_83832_c
+	b ()F md_83832_b
 	<init> (IIIILcmn;Lcqr$1;)V <init>
 cqs net/minecraft/src/ClsCqsDzjyfog
 	a LOGGER
@@ -43813,10 +43813,10 @@ cqw net/minecraft/client/gui/ClsCqwGyggpbp
 	c ()I getI0
 	n ()I md_83835_n
 	f ()I md_13456757_f
-	mouseScrolled (D)Z mouseScrolled
-	mouseClicked (DDI)Z mouseClicked
-	mouseReleased (DDI)Z mouseReleased
-	mouseDragged (DDIDD)Z mouseDragged
+	a (D)Z md_8405899_a
+	a (DDI)Z md_15236368_a
+	b (DDI)Z md_15236368_b
+	a (DDIDD)Z md_2643600_a
 	a (IIILnet/minecraft/realms/Tezzelator;)V md_7359242_a
 	a (IIIIF)V md_2887068_a
 	g ()I getI2
@@ -43856,11 +43856,11 @@ cqx net/minecraft/client/gui/ClsCqxFivzmnh
 	k ()Ljava/util/List; md_8680555_k
 	m ()V md_83848_m
 	b (Lnet/minecraft/realms/RealmsButton;)V md_16122377_b
-	mouseClicked (DDI)Z mouseClicked
-	mouseReleased (DDI)Z mouseReleased
-	mouseDragged (DDIDD)Z mouseDragged
-	keyPressed (III)Z keyPressed
-	charTyped (CI)Z charTyped
+	a (DDI)Z md_15236368_a
+	b (DDI)Z md_15236368_b
+	a (DDIDD)Z md_2643600_a
+	a (III)Z md_3225712_a
+	a (CI)Z md_8069927_a
 	confirmResult (ZI)V confirmResult
 	n ()V md_83848_n
 	b (Ljava/lang/String;IIIZ)I md_12621426_b
@@ -43877,10 +43877,10 @@ cqy net/minecraft/client/gui/ClsCqyOhkdgv
 	c ()I getI0
 	n ()I md_83835_n
 	f ()I md_13456757_f
-	mouseScrolled (D)Z mouseScrolled
-	mouseClicked (DDI)Z mouseClicked
-	mouseReleased (DDI)Z mouseReleased
-	mouseDragged (DDIDD)Z mouseDragged
+	a (D)Z md_8405899_a
+	a (DDI)Z md_15236368_a
+	b (DDI)Z md_15236368_b
+	a (DDIDD)Z md_2643600_a
 cqz net/minecraft/client/gui/ClsCqzBndmjqq
 	v realmsSimpleScrolledSelectionList
 	<init> (Lnet/minecraft/realms/RealmsSimpleScrolledSelectionList;IIIII)V <init>
@@ -43893,10 +43893,10 @@ cqz net/minecraft/client/gui/ClsCqzBndmjqq
 	n ()I md_83835_n
 	f ()I md_13456757_f
 	a (IIF)V md_4812534_a
-	mouseScrolled (D)Z mouseScrolled
-	mouseClicked (DDI)Z mouseClicked
-	mouseReleased (DDI)Z mouseReleased
-	mouseDragged (DDIDD)Z mouseDragged
+	a (D)Z md_8405899_a
+	a (DDI)Z md_15236368_a
+	b (DDI)Z md_15236368_b
+	a (DDIDD)Z md_2643600_a
 crb net/minecraft/client/gui/ClsCrbCrywxqg
 	h runnable
 	a component0
@@ -43927,7 +43927,7 @@ crc net/minecraft/client/gui/ClsCrcBtcpgnu
 	c ()V initGui
 	a (IIF)V md_11551484_a
 	aj_ ()Z aj_
-	keyPressed (III)Z keyPressed
+	a (III)Z md_3225712_a
 	a (Lcrc;)Lcsb; getGuiScreen
 crc$1 net/minecraft/client/gui/ClsCrcBtcpgnu$1
 	o crc
@@ -43987,15 +43987,15 @@ cre net/minecraft/client/gui/ClsCreFjsuezy
 	n ()V md_83848_n
 	f ()V md_83848_f
 	a (ILjava/lang/String;)V md_4211947_a
-	keyPressed (III)Z keyPressed
+	a (III)Z md_3225712_a
 	h ()V md_13512164_h
 	a (Ljava/lang/String;)I md_4985091_a
 	i ()V md_10695721_i
 	j ()V md_4765480_j
 	a (Ljava/lang/String;I)Ljava/lang/String; md_9657069_a
 	a (Lcom/mojang/brigadier/ParseResults;Ljava/lang/String;I)Ljava/lang/String; md_4421934_a
-	mouseScrolled (D)Z mouseScrolled
-	mouseClicked (DDI)Z mouseClicked
+	a (D)Z md_8405899_a
+	a (DDI)Z md_15236368_a
 	a (Ljava/lang/String;Z)V md_11788608_a
 	b (I)V md_4603449_b
 	a (IIF)V md_11551484_a
@@ -44068,7 +44068,7 @@ crh net/minecraft/client/gui/ClsCrhNesdvo
 	b (I)V md_8410580_b
 	f ()V md_83848_f
 	aj_ ()Z aj_
-	keyPressed (III)Z keyPressed
+	a (III)Z md_3225712_a
 crh$1 net/minecraft/client/gui/ClsCrhNesdvo$1
 	o crh
 	<init> (Lcrh;IIILjava/lang/String;)V <init>
@@ -44231,7 +44231,7 @@ crl net/minecraft/client/gui/ClsCrlBjpzdlp
 	confirmResult (ZI)V confirmResult
 	a (IIF)V md_11551484_a
 	b (I)Lja; md_2262257_b
-	mouseClicked (DDI)Z mouseClicked
+	a (DDI)Z md_15236368_a
 	e ()Z md_2599413_e
 	f ()V md_83848_f
 crl$1 net/minecraft/client/gui/ClsCrlBjpzdlp$1
@@ -44268,9 +44268,9 @@ crn net/minecraft/client/gui/ClsCrnBynozks
 	b (Lcnv;II)V md_7622633_b
 	h ()V md_9002804_h
 	n ()V md_83848_n
-	charTyped (CI)Z charTyped
+	a (CI)Z md_8069927_a
 	i ()V md_9002804_i
-	keyPressed (III)Z keyPressed
+	a (III)Z md_3225712_a
 	a (IIF)V md_11551484_a
 	a (Lcrn;)V md_16122377_a
 	b (Lcrn;)Lcsb; getGuiScreen
@@ -44314,7 +44314,7 @@ crp net/minecraft/client/gui/ClsCrpEfivvgk
 	n ()V md_83848_n
 	h ()V md_9002804_h
 	g ()V md_83848_g
-	keyPressed (III)Z keyPressed
+	a (III)Z md_3225712_a
 	a (IIF)V md_11551484_a
 	a (Ljava/lang/String;)Z md_11809829_a
 	a (Lcrp;)V md_16122377_a
@@ -44363,7 +44363,7 @@ crs net/minecraft/client/gui/ClsCrsBohrwoi
 	<init> ()V <init>
 	c ()V initGui
 	g ()V md_83848_g
-	keyPressed (III)Z keyPressed
+	a (III)Z md_3225712_a
 	i ()V md_10695721_i
 	a (Lcrs;)V md_16122377_a
 crs$1 net/minecraft/client/gui/ClsCrsBohrwoi$1
@@ -44547,7 +44547,7 @@ cry net/minecraft/client/gui/menu/world/SuperflatPresets
 	u editBox
 	<init> (Lcrk;)V <init>
 	c ()V initGui
-	mouseScrolled (D)Z mouseScrolled
+	a (D)Z md_8405899_a
 	b (Lcnv;II)V md_7622633_b
 	n ()V md_83848_n
 	a (IIF)V md_11551484_a
@@ -44618,7 +44618,7 @@ csb net/minecraft/client/gui/menu/GuiScreen
 	g uRI
 	<init> ()V <init>
 	a (IIF)V md_11551484_a
-	keyPressed (III)Z keyPressed
+	a (III)Z md_3225712_a
 	aj_ ()Z aj_
 	g ()V md_83848_g
 	a (Lcou;)Lcou; md_3029196_a
@@ -44812,7 +44812,7 @@ csg net/minecraft/client/gui/menu/MainMenu
 	i ()V md_83848_i
 	confirmResult (ZI)V confirmResult
 	a (IIF)V md_11551484_a
-	mouseClicked (DDI)Z mouseClicked
+	a (DDI)Z md_15236368_a
 	n ()V md_83848_n
 	a (Lcsg;)V md_16122377_a
 	<clinit> ()V <clinit>
@@ -44858,8 +44858,8 @@ csh net/minecraft/client/gui/menu/options/VideoOptions
 	getFocused ()Lcpr; getFocused
 	c ()V initGui
 	g ()V md_83848_g
-	mouseClicked (DDI)Z mouseClicked
-	mouseReleased (DDI)Z mouseReleased
+	a (DDI)Z md_15236368_a
+	b (DDI)Z md_15236368_b
 	a (IIF)V md_11551484_a
 	a (Lcsh;)Lcsb; getGuiScreen
 	<clinit> ()V <clinit>
@@ -45111,10 +45111,10 @@ csq net/minecraft/client/gui/ClsCsqGswsxwx
 	<init> (Lcze;)V <init>
 	c ()V initGui
 	n ()V md_83848_n
-	mouseClicked (DDI)Z mouseClicked
-	keyPressed (III)Z keyPressed
+	a (DDI)Z md_15236368_a
+	a (III)Z md_3225712_a
 	a (IIF)V md_11551484_a
-	mouseDragged (DDIDD)Z mouseDragged
+	a (DDIDD)Z md_2643600_a
 	c (IIII)V md_2950069_c
 	b (II)V md_24842_b
 	d (IIII)V md_547545_d
@@ -45155,8 +45155,8 @@ css$c net/minecraft/client/gui/ClsCssBhwpxqr$c
 	c css
 	<init> (Lcss;Lcnt;)V <init>
 	a (IIIIZF)V md_7744860_a
-	mouseClicked (DDI)Z mouseClicked
-	mouseReleased (DDI)Z mouseReleased
+	a (DDI)Z md_15236368_a
+	b (DDI)Z md_15236368_b
 	<init> (Lcss;Lcnt;Lcss$1;)V <init>
 css$c$1 net/minecraft/client/gui/ClsCssBhwpxqr$c$1
 	o css
@@ -45181,9 +45181,9 @@ cst net/minecraft/client/gui/menu/options/ControlOptions
 	u cou
 	<init> (Lcsb;Lcnx;)V <init>
 	c ()V initGui
-	mouseClicked (DDI)Z mouseClicked
-	mouseReleased (DDI)Z mouseReleased
-	keyPressed (III)Z keyPressed
+	a (DDI)Z md_15236368_a
+	b (DDI)Z md_15236368_b
+	a (III)Z md_3225712_a
 	a (IIF)V md_11551484_a
 	a (Lcst;)Lcsb; getGuiScreen
 	b (Lcst;)Lcnv; getMinecraftClient
@@ -45229,9 +45229,9 @@ csv net/minecraft/client/gui/ClsCsvDqznyrv
 	m ()V md_83848_m
 	g ()V md_83848_g
 	a (ILjava/lang/String;)V md_13905663_a
-	keyPressed (III)Z keyPressed
-	mouseScrolled (D)Z mouseScrolled
-	mouseClicked (DDI)Z mouseClicked
+	a (III)Z md_3225712_a
+	a (D)Z md_8405899_a
+	a (DDI)Z md_15236368_a
 	o ()V md_10695721_o
 	u ()V md_4765480_u
 	a (Ljava/lang/String;I)Ljava/lang/String; md_9657069_a
@@ -45328,15 +45328,15 @@ csw net/minecraft/client/gui/menu/ingame/container/Inventory
 	a (Lath;)V md_8879198_a
 	h ()V md_9002835_h
 	a (DD)Lath; md_4859362_a
-	mouseClicked (DDI)Z mouseClicked
+	a (DDI)Z md_15236368_a
 	a (DDIII)Z md_2603113_a
-	mouseDragged (DDIDD)Z mouseDragged
-	mouseReleased (DDI)Z mouseReleased
+	a (DDIDD)Z md_2643600_a
+	b (DDI)Z md_15236368_b
 	a (Lath;DD)Z md_5721933_a
 	a (IIIIDD)Z md_9569144_a
 	a (Lath;IILasi;)V md_1087962_a
 	aj_ ()Z aj_
-	keyPressed (III)Z keyPressed
+	a (III)Z md_3225712_a
 	d (II)Z md_12654196_d
 	n ()V md_83848_n
 	e ()Z md_2599413_e
@@ -45446,9 +45446,9 @@ csz net/minecraft/client/gui/ClsCszGrfanjb
 	k ()V md_3823765_k
 	a (Z)V md_8788473_a
 	m ()V md_14983932_m
-	keyPressed (III)Z keyPressed
-	charTyped (CI)Z charTyped
-	a (III)Z md_4936444_a
+	a (III)Z md_3225712_a
+	a (CI)Z md_8069927_a
+	b (III)Z md_4936444_b
 	b (Ljava/lang/String;)V md_14073688_b
 	c (Ljava/lang/String;)V md_7340893_c
 	d (Ljava/lang/String;)V md_11910280_d
@@ -45459,7 +45459,7 @@ csz net/minecraft/client/gui/ClsCszGrfanjb
 	j (Ljava/lang/String;)V md_11807297_j
 	o ()V md_14910213_o
 	a (Ljava/lang/String;I)I md_16252472_a
-	b (III)Z md_12252893_b
+	d (III)Z md_12252893_d
 	s ()Ljava/lang/String; md_14730052_s
 	k (Ljava/lang/String;)V md_11807185_k
 	l (Ljava/lang/String;)V md_1647349_l
@@ -45475,8 +45475,8 @@ csz net/minecraft/client/gui/ClsCszGrfanjb
 	c (Lcsz$b;)V md_16459975_c
 	d (Ljava/lang/String;I)I md_5721371_d
 	a (Ljava/lang/String;Lcsz$b;)I md_12211839_a
-	mouseClicked (DDI)Z mouseClicked
-	mouseDragged (DDIDD)Z mouseDragged
+	a (DDI)Z md_15236368_a
+	a (DDIDD)Z md_2643600_a
 	d (Lja;)Z md_7576056_d
 	a (DD)Lja; md_12668432_a
 	a (Lcsz;Z)Z md_13235851_a
@@ -45605,7 +45605,7 @@ ctd net/minecraft/client/gui/menu/ingame/container/CraftingTable
 	c (II)V md_12857768_c
 	a (FII)V md_12606364_a
 	a (IIIIDD)Z md_9569144_a
-	mouseClicked (DDI)Z mouseClicked
+	a (DDI)Z md_15236368_a
 	a (DDIII)Z md_2603113_a
 	a (Lath;IILasi;)V md_1087962_a
 	ak_ ()V ak_
@@ -45646,20 +45646,20 @@ ctf net/minecraft/client/gui/menu/ingame/container/CreativeInventory
 	c ()V initGui
 	b (Lcnv;II)V md_7622633_b
 	n ()V md_83848_n
-	charTyped (CI)Z charTyped
-	keyPressed (III)Z keyPressed
-	keyReleased (III)Z keyReleased
+	a (CI)Z md_8069927_a
+	a (III)Z md_3225712_a
+	c (III)Z md_3225712_c
 	k ()V md_2599289_k
 	a (Ljava/lang/String;)V md_13837335_a
 	c (II)V md_12857768_c
-	mouseClicked (DDI)Z mouseClicked
-	mouseReleased (DDI)Z mouseReleased
+	a (DDI)Z md_15236368_a
+	b (DDI)Z md_15236368_b
 	m ()Z md_9006648_m
 	b (Lauj;)V md_12499062_b
-	mouseScrolled (D)Z mouseScrolled
+	a (D)Z md_8405899_a
 	a (DDIII)Z md_2603113_a
 	a (DD)Z md_7392349_a
-	mouseDragged (DDIDD)Z mouseDragged
+	a (DDIDD)Z md_2643600_a
 	a (IIF)V md_11551484_a
 	a (Lavs;II)V md_7622633_a
 	a (FII)V md_12606364_a
@@ -45748,7 +45748,7 @@ ctj net/minecraft/client/gui/menu/ingame/container/EnchantingTable
 	<init> (Laqi;Lbaq;Lafi;)V <init>
 	c (II)V md_12857768_c
 	f ()V md_83848_f
-	mouseClicked (DDI)Z mouseClicked
+	a (DDI)Z md_15236368_a
 	a (FII)V md_12606364_a
 	a (IIF)V md_11551484_a
 	h ()V md_9002835_h
@@ -45766,11 +45766,11 @@ ctk net/minecraft/client/gui/menu/ingame/container/Furnace
 	a (IIF)V md_11551484_a
 	c (II)V md_12857768_c
 	a (FII)V md_12606364_a
-	mouseClicked (DDI)Z mouseClicked
+	a (DDI)Z md_15236368_a
 	a (Lath;IILasi;)V md_1087962_a
-	keyPressed (III)Z keyPressed
+	a (III)Z md_3225712_a
 	a (DDIII)Z md_2603113_a
-	charTyped (CI)Z charTyped
+	a (CI)Z md_8069927_a
 	ak_ ()V ak_
 	i ()Lcuh; getCuh
 	n ()V md_83848_n
@@ -45833,8 +45833,8 @@ cto net/minecraft/client/gui/ClsCtoDcvsfxp
 	a (FII)V md_12606364_a
 	a (IIIFFLagr;)V md_11102491_a
 	a (IIIIDD)Z md_9569144_a
-	mouseClicked (DDI)Z mouseClicked
-	mouseReleased (DDI)Z mouseReleased
+	a (DDI)Z md_15236368_a
+	b (DDI)Z md_15236368_b
 	a (DDIII)Z md_2603113_a
 	a (Lath;IILasi;)V md_1087962_a
 	ak_ ()V ak_
@@ -45863,8 +45863,8 @@ ctp net/minecraft/client/gui/ClsCtpQjgauj
 	c ()V initGui
 	b (Lcnv;II)V md_7622633_b
 	n ()V md_83848_n
-	mouseClicked (DDI)Z mouseClicked
-	keyPressed (III)Z keyPressed
+	a (DDI)Z md_15236368_a
+	a (III)Z md_3225712_a
 	a (IIF)V md_11551484_a
 	a (Lctp;)V md_16122377_a
 	b (Lctp;)V md_16122377_b
@@ -45901,9 +45901,9 @@ ctq net/minecraft/client/gui/ClsCtqCkcxfrm
 	a (IIF)V md_11551484_a
 	c (II)V md_12857768_c
 	a (FII)V md_12606364_a
-	mouseClicked (DDI)Z mouseClicked
-	mouseDragged (DDIDD)Z mouseDragged
-	mouseScrolled (D)Z mouseScrolled
+	a (DDI)Z md_15236368_a
+	a (DDIDD)Z md_2643600_a
+	a (D)Z md_8405899_a
 	a (DDIII)Z md_2603113_a
 	a (Laev;)V md_16122377_a
 	<clinit> ()V <clinit>
@@ -45971,9 +45971,9 @@ ctu net/minecraft/client/gui/ClsCtuBeeyaks
 	n ()V md_83848_n
 	f ()V md_83848_f
 	h ()V md_83848_h
-	charTyped (CI)Z charTyped
+	a (CI)Z md_8069927_a
 	g ()V md_83848_g
-	keyPressed (III)Z keyPressed
+	a (III)Z md_3225712_a
 	a (IIF)V md_11551484_a
 	a (Ljava/lang/String;)V md_3628080_a
 	i ()Ljava/lang/String; md_14730052_i
@@ -46035,8 +46035,8 @@ ctv net/minecraft/client/gui/ClsCtvBqrlhiu
 	b (Ljava/lang/String;)F md_3628064_b
 	c (Ljava/lang/String;)I md_7340490_c
 	g ()V md_83848_g
-	mouseClicked (DDI)Z mouseClicked
-	keyPressed (III)Z keyPressed
+	a (DDI)Z md_15236368_a
+	a (III)Z md_3225712_a
 	a (IIF)V md_11551484_a
 	e ()Z md_2599413_e
 	a (Lctv;)V md_16122377_a
@@ -46081,7 +46081,7 @@ ctv$6 net/minecraft/client/gui/ClsCtvBqrlhiu$6
 ctv$7 net/minecraft/client/gui/ClsCtvBqrlhiu$7
 	g ctv
 	<init> (Lctv;ILcoj;IIII)V <init>
-	charTyped (CI)Z charTyped
+	a (CI)Z md_8069927_a
 ctv$8 net/minecraft/client/gui/ClsCtvBqrlhiu$8
 	a IS_0
 	b IS_1
@@ -46145,7 +46145,7 @@ cty net/minecraft/client/gui/menu/multiplayer/Multiplayer
 	n ()V md_83848_n
 	m ()V md_83848_m
 	confirmResult (ZI)V confirmResult
-	keyPressed (III)Z keyPressed
+	a (III)Z md_3225712_a
 	a (IIF)V md_11551484_a
 	i ()V md_2599289_i
 	a (Lczn;)V md_16122377_a
@@ -46211,7 +46211,7 @@ cua net/minecraft/src/ClsCuaFobdcxq
 	f l
 	<init> (Lcty;Ldoh;)V <init>
 	a (IIIIZF)V md_7744860_a
-	mouseClicked (DDI)Z mouseClicked
+	a (DDI)Z md_15236368_a
 	e ()Ldoh; getDoh
 cub net/minecraft/src/ClsCubFnxgqbt
 	c LOGGER
@@ -46230,7 +46230,7 @@ cub net/minecraft/src/ClsCubFnxgqbt
 	a (IILpy;)V md_14199260_a
 	f ()Z md_2599413_f
 	g ()V md_494552_g
-	mouseClicked (DDI)Z mouseClicked
+	a (DDI)Z md_15236368_a
 	e ()Lczn; getCzn
 	h ()V md_2912266_h
 	<clinit> ()V <clinit>
@@ -46288,7 +46288,7 @@ cug net/minecraft/client/gui/ClsCugOxiakk
 	a (Lcnv;Lcul;IIIIF)V md_10851622_a
 	a ()Lcul; getCul
 	b ()Laxy; getAxy
-	mouseClicked (DDI)Z mouseClicked
+	a (DDI)Z md_15236368_a
 	a (IIF)V md_14916439_a
 	c (IIIIII)V md_7844723_c
 	a (Z)V setFlag0
@@ -46355,12 +46355,12 @@ cuh net/minecraft/client/gui/ClsCuhBtymiig
 	f ()Ljava/lang/String; md_11594914_f
 	d (IIII)V md_9741189_d
 	a (IIZF)V md_7689020_a
-	mouseClicked (DDI)Z mouseClicked
+	a (DDI)Z md_15236368_a
 	g ()Z md_9006648_g
 	a (DDIIIII)Z md_15811835_a
-	keyPressed (III)Z keyPressed
-	keyReleased (III)Z keyReleased
-	charTyped (CI)Z charTyped
+	a (III)Z md_3225712_a
+	c (III)Z md_3225712_c
+	a (CI)Z md_8069927_a
 	m ()V md_14910213_m
 	a (Ljava/lang/String;)V md_16515793_a
 	n ()Z md_10623350_n
@@ -46432,7 +46432,7 @@ cuk net/minecraft/client/gui/menu/ingame/RecipeBook
 	e ()Laxy; md_3767883_e
 	a (Lcsb;)Ljava/util/List; md_1090802_a
 	b ()I getI0
-	mouseClicked (DDI)Z mouseClicked
+	a (DDI)Z md_15236368_a
 	<clinit> ()V <clinit>
 cul net/minecraft/src/ClsCulBgrbjjx
 	a list
@@ -46526,7 +46526,7 @@ cur net/minecraft/src/ClsCurDhelzpy
 	m ()Z md_9006648_m
 	n ()Z md_10541665_n
 	o ()Z md_7795544_o
-	mouseClicked (DDI)Z mouseClicked
+	a (DDI)Z md_15236368_a
 	p ()Lcuq; getResourcePackOptions
 	a (ZI)V md_12874105_a
 	<clinit> ()V <clinit>
@@ -46584,9 +46584,9 @@ cuz net/minecraft/client/gui/ClsCuzCteosao
 	k ()Z md_9235616_k
 	m ()V md_9002804_m
 	a (Z)V md_2597951_a
-	charTyped (CI)Z charTyped
-	keyPressed (III)Z keyPressed
-	mouseClicked (DDI)Z mouseClicked
+	a (CI)Z md_8069927_a
+	a (III)Z md_3225712_a
+	a (DDI)Z md_15236368_a
 	a (IIF)V md_11551484_a
 	a (Lcgu;)V md_15897872_a
 	a (Lcuz;)V md_16122377_a
@@ -46664,8 +46664,8 @@ cva net/minecraft/client/gui/menu/world/EditWorld
 	n ()V md_83848_n
 	h ()V md_9002804_h
 	a (Lcgx;Ljava/lang/String;)V md_2140638_a
-	charTyped (CI)Z charTyped
-	keyPressed (III)Z keyPressed
+	a (CI)Z md_8069927_a
+	a (III)Z md_3225712_a
 	a (IIF)V md_11551484_a
 	a (Lcva;)Lcnv; getMinecraftClient
 	b (Lcva;)Ljava/lang/String; getString
@@ -46736,11 +46736,11 @@ cvc net/minecraft/client/gui/menu/world/SelectWorld
 	g editBox
 	w cve
 	<init> (Lcsb;)V <init>
-	mouseScrolled (D)Z mouseScrolled
+	a (D)Z md_8405899_a
 	f ()V md_83848_f
 	c ()V initGui
-	keyPressed (III)Z keyPressed
-	charTyped (CI)Z charTyped
+	a (III)Z md_3225712_a
+	a (CI)Z md_8069927_a
 	a (IIF)V md_11551484_a
 	a (Ljava/lang/String;)V setString1
 	a (Lcvd;)V md_3767669_a
@@ -46795,7 +46795,7 @@ cvd net/minecraft/src/ClsCvdFsgyegh
 	n l
 	<init> (Lcve;Lcgy;Lcgx;)V <init>
 	a (IIIIZF)V md_7744860_a
-	mouseClicked (DDI)Z mouseClicked
+	a (DDI)Z md_15236368_a
 	e ()V md_3634946_e
 	f ()V md_8027716_f
 	g ()V md_83848_g
@@ -50057,25 +50057,25 @@ ddo$a net/minecraft/src/ClsDdoObvrpy$a
 	c (Lcom/google/gson/JsonObject;)I md_28321_c
 	deserialize (Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object; deserialize
 ddp net/minecraft/src/ClsDdpFrpegbf
-	a iterable
+	c iterable
 	<init> (Ljava/lang/Iterable;)V <init>
 	getPredicate (Lbok;)Ljava/util/function/Predicate; getPredicate
 	a (Ljava/util/List;Lboj;)Z md_2824608_a
 	a (Lboj;Ljava/util/function/Predicate;)Z md_4146798_a
 	a (Lbok;Lddq;)Ljava/util/function/Predicate; md_4510525_a
 ddq net/minecraft/src/IfDdqFylthlm
-	TRUE DDQ_0
-	FALSE DDQ_1
+	a DDQ_0
+	b DDQ_1
 	getPredicate (Lbok;)Ljava/util/function/Predicate; getPredicate
-	lambda$static$3 (Lbok;)Ljava/util/function/Predicate; lambda$static$3
-	lambda$null$2 (Lboj;)Z lambda$null$2
-	lambda$static$1 (Lbok;)Ljava/util/function/Predicate; lambda$static$1
-	lambda$null$0 (Lboj;)Z lambda$null$0
+	a (Lbok;)Ljava/util/function/Predicate; md_7711178_a
+	a (Lboj;)Z md_8788256_a
+	b (Lbok;)Ljava/util/function/Predicate; md_7711178_b
+	b (Lboj;)Z md_13254548_b
 	<clinit> ()V <clinit>
 ddr net/minecraft/src/ClsDdrBweqpsw
-	a SPLITTER
-	b string0
-	c string1
+	c SPLITTER
+	d string0
+	e string1
 	<init> (Ljava/lang/String;Ljava/lang/String;)V <init>
 	getPredicate (Lbok;)Ljava/util/function/Predicate; getPredicate
 	a (Lbok;Lbpl;Ljava/lang/String;)Ljava/util/function/Predicate; md_8154037_a
@@ -50105,7 +50105,7 @@ dds$a net/minecraft/src/ClsDdsEzdyyfc$a
 	a (Lcom/google/gson/JsonDeserializationContext;Lcom/google/gson/JsonArray;)Ljava/util/List; md_4741215_a
 	deserialize (Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object; deserialize
 ddt net/minecraft/src/ClsDdtFrpegbf
-	a iterable
+	c iterable
 	<init> (Ljava/lang/Iterable;)V <init>
 	getPredicate (Lbok;)Ljava/util/function/Predicate; getPredicate
 	a (Ljava/util/List;Lboj;)Z md_2824608_a

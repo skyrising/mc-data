@@ -118,28 +118,28 @@ CL: f net/minecraft/src/ClsFFwkvcug
 FD: f/a net/minecraft/src/ClsFFwkvcug/LOGGER
 MD: f/<init> (Lorg/apache/logging/log4j/Logger;)V net/minecraft/src/ClsFFwkvcug/<init> (Lorg/apache/logging/log4j/Logger;)V
 MD: f/uncaughtException (Ljava/lang/Thread;Ljava/lang/Throwable;)V net/minecraft/src/ClsFFwkvcug/uncaughtException (Ljava/lang/Thread;Ljava/lang/Throwable;)V
-CL: g net/minecraft/src/ClsGEeuugyq
-FD: g/a net/minecraft/src/ClsGEeuugyq/LOGGER
-FD: g/b net/minecraft/src/ClsGEeuugyq/string0
-FD: g/c net/minecraft/src/ClsGEeuugyq/string1
-FD: g/d net/minecraft/src/ClsGEeuugyq/flag
-FD: g/e net/minecraft/src/ClsGEeuugyq/i0
-FD: g/f net/minecraft/src/ClsGEeuugyq/i1
-FD: g/g net/minecraft/src/ClsGEeuugyq/i2
-FD: g/h net/minecraft/src/ClsGEeuugyq/date
-FD: g/i net/minecraft/src/ClsGEeuugyq/string2
-MD: g/<init> ()V net/minecraft/src/ClsGEeuugyq/<init> ()V
-MD: g/<init> (Lcom/google/gson/JsonObject;)V net/minecraft/src/ClsGEeuugyq/<init> (Lcom/google/gson/JsonObject;)V
-MD: g/a ()Lcom/mojang/bridge/game/GameVersion; net/minecraft/src/ClsGEeuugyq/md_9448544_a ()Lcom/mojang/bridge/game/GameVersion;
-MD: g/getId ()Ljava/lang/String; net/minecraft/src/ClsGEeuugyq/getId ()Ljava/lang/String;
-MD: g/getName ()Ljava/lang/String; net/minecraft/src/ClsGEeuugyq/getName ()Ljava/lang/String;
-MD: g/getReleaseTarget ()Ljava/lang/String; net/minecraft/src/ClsGEeuugyq/getReleaseTarget ()Ljava/lang/String;
-MD: g/getWorldVersion ()I net/minecraft/src/ClsGEeuugyq/getWorldVersion ()I
-MD: g/getProtocolVersion ()I net/minecraft/src/ClsGEeuugyq/getProtocolVersion ()I
-MD: g/getPackVersion ()I net/minecraft/src/ClsGEeuugyq/getPackVersion ()I
-MD: g/getBuildTime ()Ljava/util/Date; net/minecraft/src/ClsGEeuugyq/getBuildTime ()Ljava/util/Date;
-MD: g/isStable ()Z net/minecraft/src/ClsGEeuugyq/isStable ()Z
-MD: g/<clinit> ()V net/minecraft/src/ClsGEeuugyq/<clinit> ()V
+CL: g net/minecraft/src/ClsGDzmdqof
+FD: g/a net/minecraft/src/ClsGDzmdqof/LOGGER
+FD: g/b net/minecraft/src/ClsGDzmdqof/string0
+FD: g/c net/minecraft/src/ClsGDzmdqof/string1
+FD: g/d net/minecraft/src/ClsGDzmdqof/flag
+FD: g/e net/minecraft/src/ClsGDzmdqof/i0
+FD: g/f net/minecraft/src/ClsGDzmdqof/i1
+FD: g/g net/minecraft/src/ClsGDzmdqof/i2
+FD: g/h net/minecraft/src/ClsGDzmdqof/date
+FD: g/i net/minecraft/src/ClsGDzmdqof/string2
+MD: g/<init> ()V net/minecraft/src/ClsGDzmdqof/<init> ()V
+MD: g/<init> (Lcom/google/gson/JsonObject;)V net/minecraft/src/ClsGDzmdqof/<init> (Lcom/google/gson/JsonObject;)V
+MD: g/a ()Lcom/mojang/bridge/game/GameVersion; net/minecraft/src/ClsGDzmdqof/md_9448544_a ()Lcom/mojang/bridge/game/GameVersion;
+MD: g/getId ()Ljava/lang/String; net/minecraft/src/ClsGDzmdqof/getId ()Ljava/lang/String;
+MD: g/getName ()Ljava/lang/String; net/minecraft/src/ClsGDzmdqof/getName ()Ljava/lang/String;
+MD: g/getReleaseTarget ()Ljava/lang/String; net/minecraft/src/ClsGDzmdqof/getReleaseTarget ()Ljava/lang/String;
+MD: g/getWorldVersion ()I net/minecraft/src/ClsGDzmdqof/getWorldVersion ()I
+MD: g/getProtocolVersion ()I net/minecraft/src/ClsGDzmdqof/getProtocolVersion ()I
+MD: g/getPackVersion ()I net/minecraft/src/ClsGDzmdqof/getPackVersion ()I
+MD: g/getBuildTime ()Ljava/util/Date; net/minecraft/src/ClsGDzmdqof/getBuildTime ()Ljava/util/Date;
+MD: g/isStable ()Z net/minecraft/src/ClsGDzmdqof/isStable ()Z
+MD: g/<clinit> ()V net/minecraft/src/ClsGDzmdqof/<clinit> ()V
 CL: j net/minecraft/src/ClsJGawhwrq
 FD: j/a net/minecraft/src/ClsJGawhwrq/crashReport
 MD: j/<init> (Lb;)V net/minecraft/src/ClsJGawhwrq/<init> (Lb;)V
@@ -460,11 +460,11 @@ MD: x/a (Ljava/lang/String;)Lx; net/minecraft/advancements/FrameType/md_342164_a
 MD: x/c ()La; net/minecraft/advancements/FrameType/getTextFormatting ()La;
 MD: x/<clinit> ()V net/minecraft/advancements/FrameType/<clinit> ()V
 CL: y net/minecraft/src/IfYKxqwh
-FD: y/AND net/minecraft/src/IfYKxqwh/Y_0
-FD: y/OR net/minecraft/src/IfYKxqwh/Y_1
+FD: y/a net/minecraft/src/IfYKxqwh/Y_0
+FD: y/b net/minecraft/src/IfYKxqwh/Y_1
 MD: y/createRequirements (Ljava/util/Collection;)[[Ljava/lang/String; net/minecraft/src/IfYKxqwh/createRequirements (Ljava/util/Collection;)[[Ljava/lang/String;
-MD: y/lambda$static$1 (Ljava/util/Collection;)[[Ljava/lang/String; net/minecraft/src/IfYKxqwh/lambda$static$1 (Ljava/util/Collection;)[[Ljava/lang/String;
-MD: y/lambda$static$0 (Ljava/util/Collection;)[[Ljava/lang/String; net/minecraft/src/IfYKxqwh/lambda$static$0 (Ljava/util/Collection;)[[Ljava/lang/String;
+MD: y/a (Ljava/util/Collection;)[[Ljava/lang/String; net/minecraft/src/IfYKxqwh/md_6950204_a (Ljava/util/Collection;)[[Ljava/lang/String;
+MD: y/b (Ljava/util/Collection;)[[Ljava/lang/String; net/minecraft/src/IfYKxqwh/md_14048212_b (Ljava/util/Collection;)[[Ljava/lang/String;
 MD: y/<clinit> ()V net/minecraft/src/IfYKxqwh/<clinit> ()V
 CL: z net/minecraft/src/ClsZDdtleix
 FD: z/a net/minecraft/src/ClsZDdtleix/advancement
@@ -3281,7 +3281,7 @@ MD: ev/g ()Lbmn; net/minecraft/src/ClsEvDhjxrul/md_3767883_g ()Lbmn;
 CL: ew net/minecraft/src/ClsEwCxtrkbn
 MD: ew/<init> ()V net/minecraft/src/ClsEwCxtrkbn/<init> ()V
 MD: ew/dispense (Leu;Lavs;)Lavs; net/minecraft/src/ClsEwCxtrkbn/dispense (Leu;Lavs;)Lavs;
-MD: ew/a (Leu;Lavs;)Lavs; net/minecraft/src/ClsEwCxtrkbn/md_3002020_a (Leu;Lavs;)Lavs;
+MD: ew/a (Leu;Lavs;)Lavs; net/minecraft/src/ClsEwCxtrkbn/md_16605759_a (Leu;Lavs;)Lavs;
 MD: ew/a (Lbaq;Lavs;ILey;Lfi;)V net/minecraft/src/ClsEwCxtrkbn/md_11789476_a (Lbaq;Lavs;ILey;Lfi;)V
 MD: ew/a (Leu;)V net/minecraft/src/ClsEwCxtrkbn/md_3798638_a (Leu;)V
 MD: ew/a (Leu;Ley;)V net/minecraft/src/ClsEwCxtrkbn/md_14699476_a (Leu;Ley;)V
@@ -3449,9 +3449,9 @@ MD: ez/<init> (Ljava/lang/String;I[Ley;)V net/minecraft/src/EnumEzEzrdbec/<init>
 MD: ez/a ()Ljava/util/Set; net/minecraft/src/EnumEzEzrdbec/getSet ()Ljava/util/Set;
 MD: ez/<clinit> ()V net/minecraft/src/EnumEzEzrdbec/<clinit> ()V
 CL: fa net/minecraft/src/IfFaBhcarxh
-FD: fa/NOOP net/minecraft/src/IfFaBhcarxh/FA
+FD: fa/a net/minecraft/src/IfFaBhcarxh/FA
 MD: fa/dispense (Leu;Lavs;)Lavs; net/minecraft/src/IfFaBhcarxh/dispense (Leu;Lavs;)Lavs;
-MD: fa/lambda$static$0 (Leu;Lavs;)Lavs; net/minecraft/src/IfFaBhcarxh/lambda$static$0 (Leu;Lavs;)Lavs;
+MD: fa/a (Leu;Lavs;)Lavs; net/minecraft/src/IfFaBhcarxh/md_16605759_a (Leu;Lavs;)Lavs;
 MD: fa/<clinit> ()V net/minecraft/src/IfFaBhcarxh/<clinit> ()V
 CL: fb net/minecraft/src/IfFbDehaohk
 MD: fb/a (I)Ljava/lang/Object; net/minecraft/src/IfFbDehaohk/md_4455719_a (I)Ljava/lang/Object;
@@ -7775,7 +7775,7 @@ MD: py$a/serialize (Ljava/lang/Object;Ljava/lang/reflect/Type;Lcom/google/gson/J
 MD: py$a/deserialize (Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object; net/minecraft/util/Identifier$a/deserialize (Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object;
 CL: qa net/minecraft/src/ClsQaDztlfib
 MD: qa/<init> ()V net/minecraft/src/ClsQaDztlfib/<init> ()V
-MD: qa/a (Leu;Lavs;)Lavs; net/minecraft/src/ClsQaDztlfib/md_3002020_a (Leu;Lavs;)Lavs;
+MD: qa/a (Leu;Lavs;)Lavs; net/minecraft/src/ClsQaDztlfib/md_16605759_a (Leu;Lavs;)Lavs;
 MD: qa/a (Leu;)V net/minecraft/src/ClsQaDztlfib/md_3798638_a (Leu;)V
 MD: qa/a (Lbaq;Lfi;Lavs;)Laqw; net/minecraft/src/ClsQaDztlfib/md_1271627_a (Lbaq;Lfi;Lavs;)Laqw;
 MD: qa/a ()F net/minecraft/src/ClsQaDztlfib/md_2598798_a ()F
@@ -7795,37 +7795,37 @@ MD: qb$1/<init> ()V net/minecraft/data/Bootstrap$1/<init> ()V
 MD: qb$1/a (Lbaq;Lfi;Lavs;)Laqw; net/minecraft/data/Bootstrap$1/md_1271627_a (Lbaq;Lfi;Lavs;)Laqw;
 CL: qb$2 net/minecraft/data/Bootstrap$2
 MD: qb$2/<init> ()V net/minecraft/data/Bootstrap$2/<init> ()V
-MD: qb$2/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$2/md_3002020_a (Leu;Lavs;)Lavs;
+MD: qb$2/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$2/md_16605759_a (Leu;Lavs;)Lavs;
 MD: qb$2/a (Leu;)V net/minecraft/data/Bootstrap$2/md_3798638_a (Leu;)V
 CL: qb$3 net/minecraft/data/Bootstrap$3
 MD: qb$3/<init> ()V net/minecraft/data/Bootstrap$3/<init> ()V
-MD: qb$3/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$3/md_3002020_a (Leu;Lavs;)Lavs;
+MD: qb$3/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$3/md_16605759_a (Leu;Lavs;)Lavs;
 MD: qb$3/a (Leu;)V net/minecraft/data/Bootstrap$3/md_3798638_a (Leu;)V
 CL: qb$4 net/minecraft/data/Bootstrap$4
-FD: qb$4/a net/minecraft/data/Bootstrap$4/ew
+FD: qb$4/b net/minecraft/data/Bootstrap$4/ew
 MD: qb$4/<init> ()V net/minecraft/data/Bootstrap$4/<init> ()V
-MD: qb$4/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$4/md_3002020_a (Leu;Lavs;)Lavs;
+MD: qb$4/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$4/md_16605759_a (Leu;Lavs;)Lavs;
 CL: qb$5 net/minecraft/data/Bootstrap$5
-FD: qb$5/a net/minecraft/data/Bootstrap$5/ew
+FD: qb$5/b net/minecraft/data/Bootstrap$5/ew
 MD: qb$5/<init> ()V net/minecraft/data/Bootstrap$5/<init> ()V
-MD: qb$5/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$5/md_3002020_a (Leu;Lavs;)Lavs;
+MD: qb$5/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$5/md_16605759_a (Leu;Lavs;)Lavs;
 CL: qb$6 net/minecraft/data/Bootstrap$6
 MD: qb$6/<init> ()V net/minecraft/data/Bootstrap$6/<init> ()V
-MD: qb$6/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$6/md_3002020_a (Leu;Lavs;)Lavs;
+MD: qb$6/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$6/md_16605759_a (Leu;Lavs;)Lavs;
 CL: qb$7 net/minecraft/data/Bootstrap$7
 MD: qb$7/<init> ()V net/minecraft/data/Bootstrap$7/<init> ()V
-MD: qb$7/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$7/md_3002020_a (Leu;Lavs;)Lavs;
+MD: qb$7/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$7/md_16605759_a (Leu;Lavs;)Lavs;
 CL: qb$8 net/minecraft/data/Bootstrap$8
 MD: qb$8/<init> ()V net/minecraft/data/Bootstrap$8/<init> ()V
-MD: qb$8/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$8/md_3002020_a (Leu;Lavs;)Lavs;
+MD: qb$8/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$8/md_16605759_a (Leu;Lavs;)Lavs;
 CL: qb$9 net/minecraft/data/Bootstrap$9
 MD: qb$9/<init> ()V net/minecraft/data/Bootstrap$9/<init> ()V
-MD: qb$9/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$9/md_3002020_a (Leu;Lavs;)Lavs;
+MD: qb$9/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$9/md_16605759_a (Leu;Lavs;)Lavs;
 CL: qb$a net/minecraft/data/Bootstrap$a
-FD: qb$a/a net/minecraft/data/Bootstrap$a/ew
-FD: qb$a/b net/minecraft/data/Bootstrap$a/arp$b
+FD: qb$a/b net/minecraft/data/Bootstrap$a/ew
+FD: qb$a/c net/minecraft/data/Bootstrap$a/arp$b
 MD: qb$a/<init> (Larp$b;)V net/minecraft/data/Bootstrap$a/<init> (Larp$b;)V
-MD: qb$a/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$a/md_3002020_a (Leu;Lavs;)Lavs;
+MD: qb$a/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$a/md_16605759_a (Leu;Lavs;)Lavs;
 MD: qb$a/a (Leu;)V net/minecraft/data/Bootstrap$a/md_3798638_a (Leu;)V
 CL: qb$b net/minecraft/data/Bootstrap$b
 FD: qb$b/j net/minecraft/data/Bootstrap$b/facing
@@ -7839,25 +7839,25 @@ MD: qb$b/f ()Ley; net/minecraft/data/Bootstrap$b/md_3767883_f ()Ley;
 MD: qb$b/g ()Z net/minecraft/data/Bootstrap$b/md_9006648_g ()Z
 MD: qb$b/h ()F net/minecraft/data/Bootstrap$b/md_83832_h ()F
 CL: qb$c net/minecraft/data/Bootstrap$c
-FD: qb$c/a net/minecraft/data/Bootstrap$c/flag
+FD: qb$c/b net/minecraft/data/Bootstrap$c/flag
 MD: qb$c/<init> ()V net/minecraft/data/Bootstrap$c/<init> ()V
 MD: qb$c/a (Leu;)V net/minecraft/data/Bootstrap$c/md_3798638_a (Leu;)V
 CL: qb$d net/minecraft/data/Bootstrap$d
 MD: qb$d/<init> ()V net/minecraft/data/Bootstrap$d/<init> ()V
-MD: qb$d/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$d/md_3002020_a (Leu;Lavs;)Lavs;
+MD: qb$d/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$d/md_16605759_a (Leu;Lavs;)Lavs;
 MD: qb$d/<init> (Lqb$1;)V net/minecraft/data/Bootstrap$d/<init> (Lqb$1;)V
 CL: qb$10 net/minecraft/data/Bootstrap$10
 MD: qb$10/<init> ()V net/minecraft/data/Bootstrap$10/<init> ()V
-MD: qb$10/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$10/md_3002020_a (Leu;Lavs;)Lavs;
+MD: qb$10/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$10/md_16605759_a (Leu;Lavs;)Lavs;
 CL: qb$11 net/minecraft/data/Bootstrap$11
 MD: qb$11/<init> ()V net/minecraft/data/Bootstrap$11/<init> ()V
-MD: qb$11/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$11/md_3002020_a (Leu;Lavs;)Lavs;
+MD: qb$11/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$11/md_16605759_a (Leu;Lavs;)Lavs;
 CL: qb$12 net/minecraft/data/Bootstrap$12
 MD: qb$12/<init> ()V net/minecraft/data/Bootstrap$12/<init> ()V
 MD: qb$12/a (Lbaq;Lfi;Lavs;)Laqw; net/minecraft/data/Bootstrap$12/md_1271627_a (Lbaq;Lfi;Lavs;)Laqw;
 CL: qb$13 net/minecraft/data/Bootstrap$13
 MD: qb$13/<init> ()V net/minecraft/data/Bootstrap$13/<init> ()V
-MD: qb$13/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$13/md_3002020_a (Leu;Lavs;)Lavs;
+MD: qb$13/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$13/md_16605759_a (Leu;Lavs;)Lavs;
 CL: qb$14 net/minecraft/data/Bootstrap$14
 FD: qb$14/a net/minecraft/data/Bootstrap$14/IS
 MD: qb$14/<clinit> ()V net/minecraft/data/Bootstrap$14/<clinit> ()V
@@ -7879,8 +7879,8 @@ CL: qb$19 net/minecraft/data/Bootstrap$19
 MD: qb$19/<init> ()V net/minecraft/data/Bootstrap$19/<init> ()V
 MD: qb$19/dispense (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$19/dispense (Leu;Lavs;)Lavs;
 CL: qb$19$1 net/minecraft/data/Bootstrap$19$1
-FD: qb$19$1/a net/minecraft/data/Bootstrap$19$1/itemStack
-FD: qb$19$1/b net/minecraft/data/Bootstrap$19$1/qb$19
+FD: qb$19$1/b net/minecraft/data/Bootstrap$19$1/itemStack
+FD: qb$19$1/c net/minecraft/data/Bootstrap$19$1/qb$19
 MD: qb$19$1/<init> (Lqb$19;Lavs;)V net/minecraft/data/Bootstrap$19$1/<init> (Lqb$19;Lavs;)V
 MD: qb$19$1/a (Lbaq;Lfi;Lavs;)Laqw; net/minecraft/data/Bootstrap$19$1/md_1271627_a (Lbaq;Lfi;Lavs;)Laqw;
 MD: qb$19$1/a ()F net/minecraft/data/Bootstrap$19$1/md_2598798_a ()F
@@ -7889,15 +7889,15 @@ CL: qb$20 net/minecraft/data/Bootstrap$20
 MD: qb$20/<init> ()V net/minecraft/data/Bootstrap$20/<init> ()V
 MD: qb$20/dispense (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$20/dispense (Leu;Lavs;)Lavs;
 CL: qb$20$1 net/minecraft/data/Bootstrap$20$1
-FD: qb$20$1/a net/minecraft/data/Bootstrap$20$1/itemStack
-FD: qb$20$1/b net/minecraft/data/Bootstrap$20$1/qb$20
+FD: qb$20$1/b net/minecraft/data/Bootstrap$20$1/itemStack
+FD: qb$20$1/c net/minecraft/data/Bootstrap$20$1/qb$20
 MD: qb$20$1/<init> (Lqb$20;Lavs;)V net/minecraft/data/Bootstrap$20$1/<init> (Lqb$20;Lavs;)V
 MD: qb$20$1/a (Lbaq;Lfi;Lavs;)Laqw; net/minecraft/data/Bootstrap$20$1/md_1271627_a (Lbaq;Lfi;Lavs;)Laqw;
 MD: qb$20$1/a ()F net/minecraft/data/Bootstrap$20$1/md_2598798_a ()F
 MD: qb$20$1/b ()F net/minecraft/data/Bootstrap$20$1/md_2598793_b ()F
 CL: qb$21 net/minecraft/data/Bootstrap$21
 MD: qb$21/<init> ()V net/minecraft/data/Bootstrap$21/<init> ()V
-MD: qb$21/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$21/md_3002020_a (Leu;Lavs;)Lavs;
+MD: qb$21/a (Leu;Lavs;)Lavs; net/minecraft/data/Bootstrap$21/md_16605759_a (Leu;Lavs;)Lavs;
 CL: qd net/minecraft/src/ClsQdGuqlsxs
 FD: qd/a net/minecraft/src/ClsQdGuqlsxs/string
 FD: qd/b net/minecraft/src/ClsQdGuqlsxs/commandSource
@@ -12034,15 +12034,15 @@ MD: xm/equals (Ljava/lang/Object;)Z net/minecraft/src/ClsXmDfyvosv/equals (Ljava
 MD: xm/hashCode ()I net/minecraft/src/ClsXmDfyvosv/hashCode ()I
 MD: xm/toString ()Ljava/lang/String; net/minecraft/src/ClsXmDfyvosv/toString ()Ljava/lang/String;
 CL: xn net/minecraft/src/IfXnDlftepj
-FD: xn/DECIMAL_FORMAT net/minecraft/src/IfXnDlftepj/DECIMAL_FORMAT
-FD: xn/DEFAULT net/minecraft/src/IfXnDlftepj/XN_0
-FD: xn/DIVIDE_BY_TEN net/minecraft/src/IfXnDlftepj/XN_1
-FD: xn/DISTANCE net/minecraft/src/IfXnDlftepj/XN_2
-FD: xn/TIME net/minecraft/src/IfXnDlftepj/XN_3
-MD: xn/lambda$static$3 (I)Ljava/lang/String; net/minecraft/src/IfXnDlftepj/lambda$static$3 (I)Ljava/lang/String;
-MD: xn/lambda$static$2 (I)Ljava/lang/String; net/minecraft/src/IfXnDlftepj/lambda$static$2 (I)Ljava/lang/String;
-MD: xn/lambda$static$1 (I)Ljava/lang/String; net/minecraft/src/IfXnDlftepj/lambda$static$1 (I)Ljava/lang/String;
-MD: xn/lambda$static$0 (Ljava/text/DecimalFormat;)V net/minecraft/src/IfXnDlftepj/lambda$static$0 (Ljava/text/DecimalFormat;)V
+FD: xn/a net/minecraft/src/IfXnDlftepj/DECIMAL_FORMAT
+FD: xn/b net/minecraft/src/IfXnDlftepj/XN_0
+FD: xn/c net/minecraft/src/IfXnDlftepj/XN_1
+FD: xn/d net/minecraft/src/IfXnDlftepj/XN_2
+FD: xn/e net/minecraft/src/IfXnDlftepj/XN_3
+MD: xn/a (I)Ljava/lang/String; net/minecraft/src/IfXnDlftepj/md_15606388_a (I)Ljava/lang/String;
+MD: xn/b (I)Ljava/lang/String; net/minecraft/src/IfXnDlftepj/md_7972633_b (I)Ljava/lang/String;
+MD: xn/c (I)Ljava/lang/String; net/minecraft/src/IfXnDlftepj/md_13924363_c (I)Ljava/lang/String;
+MD: xn/a (Ljava/text/DecimalFormat;)V net/minecraft/src/IfXnDlftepj/md_10820558_a (Ljava/text/DecimalFormat;)V
 MD: xn/<clinit> ()V net/minecraft/src/IfXnDlftepj/<clinit> ()V
 CL: xo net/minecraft/src/ClsXoDimgecp
 FD: xo/a net/minecraft/src/ClsXoDimgecp/registry
@@ -12437,7 +12437,7 @@ MD: yf/a (ILjava/security/Key;)Ljavax/crypto/Cipher; net/minecraft/src/ClsYfCtaf
 MD: yf/<clinit> ()V net/minecraft/src/ClsYfCtafhey/<clinit> ()V
 CL: yg net/minecraft/src/IfYgDrojiij
 FD: yg/a net/minecraft/src/IfYgDrojiij/LOGGER
-MD: yg/a (Lcom/mojang/datafixers/Dynamic;)Ljava/lang/Object; net/minecraft/src/IfYgDrojiij/md_1220695_a (Lcom/mojang/datafixers/Dynamic;)Ljava/lang/Object;
+MD: yg/deserialize (Lcom/mojang/datafixers/Dynamic;)Ljava/lang/Object; net/minecraft/src/IfYgDrojiij/deserialize (Lcom/mojang/datafixers/Dynamic;)Ljava/lang/Object;
 MD: yg/a (Lcom/mojang/datafixers/Dynamic;Lfk;Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object; net/minecraft/src/IfYgDrojiij/md_9927635_a (Lcom/mojang/datafixers/Dynamic;Lfk;Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;
 MD: yg/<clinit> ()V net/minecraft/src/IfYgDrojiij/<clinit> ()V
 CL: yh net/minecraft/src/ClsYhBzfydzh
@@ -14053,18 +14053,18 @@ FD: ael/c net/minecraft/src/ClsAelFyvdgnq/string
 MD: ael/<init> (Ljava/lang/String;DD)V net/minecraft/src/ClsAelFyvdgnq/<init> (Ljava/lang/String;DD)V
 MD: ael/a (Lael;)I net/minecraft/src/ClsAelFyvdgnq/compareTo (Lael;)I
 MD: ael/compareTo (Ljava/lang/Object;)I net/minecraft/src/ClsAelFyvdgnq/compareTo (Ljava/lang/Object;)I
-CL: aeo net/minecraft/src/ClsAeoEhyirjf
-FD: aeo/a net/minecraft/src/ClsAeoEhyirjf/LOGGER
-FD: aeo/f net/minecraft/src/ClsAeoEhyirjf/queue
-MD: aeo/<init> ()V net/minecraft/src/ClsAeoEhyirjf/<init> ()V
-MD: aeo/c (Ljava/lang/Runnable;)Ljava/util/concurrent/CompletableFuture; net/minecraft/src/ClsAeoEhyirjf/md_13914700_c (Ljava/lang/Runnable;)Ljava/util/concurrent/CompletableFuture;
-MD: aeo/execute (Ljava/lang/Runnable;)V net/minecraft/src/ClsAeoEhyirjf/execute (Ljava/lang/Runnable;)V
-MD: aeo/b (Ljava/lang/Runnable;)Ljava/lang/Runnable; net/minecraft/src/ClsAeoEhyirjf/md_951916_b (Ljava/lang/Runnable;)Ljava/lang/Runnable;
-MD: aeo/q ()Z net/minecraft/src/ClsAeoEhyirjf/md_16171699_q ()Z
-MD: aeo/ax ()Z net/minecraft/src/ClsAeoEhyirjf/md_9006648_ax ()Z
-MD: aeo/ay ()Z net/minecraft/src/ClsAeoEhyirjf/md_83852_ay ()Z
-MD: aeo/a (Ljava/lang/Runnable;)Ljava/lang/Object; net/minecraft/src/ClsAeoEhyirjf/md_13888394_a (Ljava/lang/Runnable;)Ljava/lang/Object;
-MD: aeo/<clinit> ()V net/minecraft/src/ClsAeoEhyirjf/<clinit> ()V
+CL: aeo net/minecraft/src/ClsAeoMgffbu
+FD: aeo/a net/minecraft/src/ClsAeoMgffbu/LOGGER
+FD: aeo/f net/minecraft/src/ClsAeoMgffbu/queue
+MD: aeo/<init> ()V net/minecraft/src/ClsAeoMgffbu/<init> ()V
+MD: aeo/c (Ljava/lang/Runnable;)Ljava/util/concurrent/CompletableFuture; net/minecraft/src/ClsAeoMgffbu/md_13914700_c (Ljava/lang/Runnable;)Ljava/util/concurrent/CompletableFuture;
+MD: aeo/execute (Ljava/lang/Runnable;)V net/minecraft/src/ClsAeoMgffbu/execute (Ljava/lang/Runnable;)V
+MD: aeo/b (Ljava/lang/Runnable;)Ljava/lang/Runnable; net/minecraft/src/ClsAeoMgffbu/md_951916_b (Ljava/lang/Runnable;)Ljava/lang/Runnable;
+MD: aeo/q ()Z net/minecraft/src/ClsAeoMgffbu/md_16171699_q ()Z
+MD: aeo/ax ()Z net/minecraft/src/ClsAeoMgffbu/md_9006648_ax ()Z
+MD: aeo/ay ()Z net/minecraft/src/ClsAeoMgffbu/md_83852_ay ()Z
+MD: aeo/a (Ljava/lang/Runnable;)Ljava/lang/Object; net/minecraft/src/ClsAeoMgffbu/md_13888394_a (Ljava/lang/Runnable;)Ljava/lang/Object;
+MD: aeo/<clinit> ()V net/minecraft/src/ClsAeoMgffbu/<clinit> ()V
 CL: aeq net/minecraft/src/ClsAeqCaubgko
 FD: aeq/a net/minecraft/src/ClsAeqCaubgko/PATTERN
 FD: aeq/b net/minecraft/src/ClsAeqCaubgko/file
@@ -22540,7 +22540,7 @@ MD: atm/e ()I net/minecraft/item/ClsAtmPuzfwx/getI ()I
 MD: atm/<clinit> ()V net/minecraft/item/ClsAtmPuzfwx/<clinit> ()V
 CL: atm$1 net/minecraft/item/ClsAtmPuzfwx$1
 MD: atm$1/<init> ()V net/minecraft/item/ClsAtmPuzfwx$1/<init> ()V
-MD: atm$1/a (Leu;Lavs;)Lavs; net/minecraft/item/ClsAtmPuzfwx$1/md_3002020_a (Leu;Lavs;)Lavs;
+MD: atm$1/a (Leu;Lavs;)Lavs; net/minecraft/item/ClsAtmPuzfwx$1/md_16605759_a (Leu;Lavs;)Lavs;
 CL: atn net/minecraft/src/IfAtnGwodayh
 MD: atn/a (Lagn;)I net/minecraft/src/IfAtnGwodayh/md_16122364_a (Lagn;)I
 MD: atn/b (Lagn;)I net/minecraft/src/IfAtnGwodayh/md_16122364_b (Lagn;)I
@@ -24131,9 +24131,9 @@ MD: avz/a (Laxf;)Lafd; net/minecraft/item/ClsAvzChfcjxj/md_3029196_a (Laxf;)Lafd
 MD: avz/a (Lavz;)Larn$a; net/minecraft/item/ClsAvzChfcjxj/getArn$a (Lavz;)Larn$a;
 MD: avz/<clinit> ()V net/minecraft/item/ClsAvzChfcjxj/<clinit> ()V
 CL: avz$1 net/minecraft/item/ClsAvzChfcjxj$1
-FD: avz$1/a net/minecraft/item/ClsAvzChfcjxj$1/ew
+FD: avz$1/b net/minecraft/item/ClsAvzChfcjxj$1/ew
 MD: avz$1/<init> ()V net/minecraft/item/ClsAvzChfcjxj$1/<init> ()V
-MD: avz$1/a (Leu;Lavs;)Lavs; net/minecraft/item/ClsAvzChfcjxj$1/md_3002020_a (Leu;Lavs;)Lavs;
+MD: avz$1/a (Leu;Lavs;)Lavs; net/minecraft/item/ClsAvzChfcjxj$1/md_16605759_a (Leu;Lavs;)Lavs;
 MD: avz$1/a (Leu;)V net/minecraft/item/ClsAvzChfcjxj$1/md_3798638_a (Leu;)V
 CL: awa net/minecraft/item/ClsAwaEthmrbk
 MD: awa/<init> (Lavn$a;)V net/minecraft/item/ClsAwaEthmrbk/<init> (Lavn$a;)V
@@ -33816,76 +33816,76 @@ MD: bxb/<clinit> ()V net/minecraft/world/gen/feature/ClsBxbCowgmgp/<clinit> ()V
 CL: bxb$a net/minecraft/world/gen/feature/ClsBxbCowgmgp$a
 MD: bxb$a/create (Lbxb;IILbbp;Lcag;IJ)Lcbb; net/minecraft/world/gen/feature/ClsBxbCowgmgp$a/create (Lbxb;IILbbp;Lcag;IJ)Lcbb;
 CL: bxc net/minecraft/world/gen/feature/structure/StructurePiece
-FD: bxc/MINE_SHAFT_CORRIDOR net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_0
-FD: bxc/MINE_SHAFT_CROSSING net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_1
-FD: bxc/MINE_SHAFT_ROOM net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_2
-FD: bxc/MINE_SHAFT_STAIRS net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_3
-FD: bxc/VILLAGE_BOOK_HOUSE net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_4
-FD: bxc/VILLAGE_DOUBLE_FARMLAND net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_5
-FD: bxc/VILLAGE_FARMLAND net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_6
-FD: bxc/VILLAGE_LIGHT_POST net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_7
-FD: bxc/VILLAGE_PIG_HOUSE net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_8
-FD: bxc/VILLAGE_SIMPLE_HOUSE net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_9
-FD: bxc/VILLAGE_SMALL_HUT net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_10
-FD: bxc/VILLAGE_SMALL_TEMPLE net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_11
-FD: bxc/VILLAGE_SMITHY net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_12
-FD: bxc/VILLAGE_START net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_13
-FD: bxc/VILLAGE_STRAIGHT_ROAD net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_14
-FD: bxc/VILLAGE_TWO_ROOM_HOUSE net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_15
-FD: bxc/VILLAGE_WELL net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_16
-FD: bxc/PILLAGER_OUTPOST net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_17
-FD: bxc/NEW_VILLAGE net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_18
-FD: bxc/NETHER_FORTRESS_BRIDGE_CROSSING net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_19
-FD: bxc/NETHER_FORTRESS_BRIDGE_END_FILLER net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_20
-FD: bxc/NETHER_FORTRESS_BRIDGE_STRAIGHT net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_21
-FD: bxc/NETHER_FORTRESS_CASTLE_CORRIDOR_STAIRS net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_22
-FD: bxc/NETHER_FORTRESS_CASTLE_CORRIDOR_T_BALCONY net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_23
-FD: bxc/NETHER_FORTRESS_CASTLE_ENTRANCE net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_24
-FD: bxc/NETHER_FORTRESS_CASTLE_SMALL_CORRIDOR_CROSSING net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_25
-FD: bxc/NETHER_FORTRESS_CASTLE_SMALL_CORRIDOR_LEFT_TURN net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_26
-FD: bxc/NETHER_FORTRESS_CASTLE_SMALL_CORRIDOR net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_27
-FD: bxc/NETHER_FORTRESS_CASTLE_SMALL_CORRIDOR_RIGHT_TURN net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_28
-FD: bxc/NETHER_FORTRESS_CASTLE_STALK_ROOM net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_29
-FD: bxc/NETHER_FORTRESS_MONSTER_THRONE net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_30
-FD: bxc/NETHER_FORTRESS_ROOM_CROSSING net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_31
-FD: bxc/NETHER_FORTRESS_STAIRS_ROOM net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_32
-FD: bxc/NETHER_FORTRESS_START net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_33
-FD: bxc/STRONGHOLD_CHEST_CORRIDOR net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_34
-FD: bxc/STRONGHOLD_FILLER_CORRIDOR net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_35
-FD: bxc/STRONGHOLD_FIVE_CROSSING net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_36
-FD: bxc/STRONGHOLD_LEFT_TURN net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_37
-FD: bxc/STRONGHOLD_LIBRARY net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_38
-FD: bxc/STRONGHOLD_PORTAL_ROOM net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_39
-FD: bxc/STRONGHOLD_PRISON_HALL net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_40
-FD: bxc/STRONGHOLD_RIGHT_TURN net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_41
-FD: bxc/STRONGHOLD_ROOM_CROSSING net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_42
-FD: bxc/STRONGHOLD_STAIRS_DOWN net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_43
-FD: bxc/STRONGHOLD_START net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_44
-FD: bxc/STRONGHOLD_STRAIGHT net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_45
-FD: bxc/STRONGHOLD_STRAIGHT_STAIRS_DOWN net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_46
-FD: bxc/JUNGLE_PYRAMID_PIECE net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_47
-FD: bxc/OCEAN_RUIN net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_48
-FD: bxc/IGLOO net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_49
-FD: bxc/SWAMPLAND_HUT net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_50
-FD: bxc/DESERT_PYRAMID_PIECE net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_51
-FD: bxc/OCEAN_MONUMENT_BUILDING net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_52
-FD: bxc/OCEAN_MONUMENT_CORE_ROOM net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_53
-FD: bxc/OCEAN_MONUMENT_DOUBLE_X_ROOM net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_54
-FD: bxc/OCEAN_MONUMENT_DOUBLE_XY_ROOM net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_55
-FD: bxc/OCEAN_MONUMENT_DOUBLE_Y_ROOM net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_56
-FD: bxc/OCEAN_MONUMENT_DOUBLE_YZ_ROOM net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_57
-FD: bxc/OCEAN_MONUMENT_DOUBLE_Z_ROOM net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_58
-FD: bxc/OCEAN_MONUMENT_ENTRY_ROOM net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_59
-FD: bxc/OCEAN_MONUMENT_PENTHOUSE net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_60
-FD: bxc/OCEAN_MONUMENT_SIMPLE_ROOM net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_61
-FD: bxc/OCEAN_MONUMENT_SIMPLE_TOP_ROOM net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_62
-FD: bxc/OCEAN_MONUMENT_WING_ROOM net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_63
-FD: bxc/END_CITY_PIECE net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_64
-FD: bxc/WOODLAND_MANSION_PIECE net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_65
-FD: bxc/BURIED_TREASURE_PIECE net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_66
-FD: bxc/SHIPWRECK_PIECE net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_67
+FD: bxc/a net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_0
+FD: bxc/b net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_1
+FD: bxc/c net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_2
+FD: bxc/d net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_3
+FD: bxc/e net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_4
+FD: bxc/f net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_5
+FD: bxc/g net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_6
+FD: bxc/h net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_7
+FD: bxc/i net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_8
+FD: bxc/j net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_9
+FD: bxc/k net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_10
+FD: bxc/l net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_11
+FD: bxc/m net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_12
+FD: bxc/n net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_13
+FD: bxc/o net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_14
+FD: bxc/p net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_15
+FD: bxc/q net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_16
+FD: bxc/r net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_17
+FD: bxc/s net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_18
+FD: bxc/t net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_19
+FD: bxc/u net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_20
+FD: bxc/v net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_21
+FD: bxc/w net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_22
+FD: bxc/x net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_23
+FD: bxc/y net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_24
+FD: bxc/z net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_25
+FD: bxc/A net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_26
+FD: bxc/B net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_27
+FD: bxc/C net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_28
+FD: bxc/D net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_29
+FD: bxc/E net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_30
+FD: bxc/F net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_31
+FD: bxc/G net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_32
+FD: bxc/H net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_33
+FD: bxc/I net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_34
+FD: bxc/J net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_35
+FD: bxc/K net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_36
+FD: bxc/L net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_37
+FD: bxc/M net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_38
+FD: bxc/N net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_39
+FD: bxc/O net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_40
+FD: bxc/P net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_41
+FD: bxc/Q net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_42
+FD: bxc/R net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_43
+FD: bxc/S net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_44
+FD: bxc/T net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_45
+FD: bxc/U net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_46
+FD: bxc/V net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_47
+FD: bxc/W net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_48
+FD: bxc/X net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_49
+FD: bxc/Y net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_50
+FD: bxc/Z net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_51
+FD: bxc/aa net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_52
+FD: bxc/ab net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_53
+FD: bxc/ac net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_54
+FD: bxc/ad net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_55
+FD: bxc/ae net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_56
+FD: bxc/af net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_57
+FD: bxc/ag net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_58
+FD: bxc/ah net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_59
+FD: bxc/ai net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_60
+FD: bxc/aj net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_61
+FD: bxc/ak net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_62
+FD: bxc/al net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_63
+FD: bxc/am net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_64
+FD: bxc/an net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_65
+FD: bxc/ao net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_66
+FD: bxc/ap net/minecraft/world/gen/feature/structure/StructurePiece/STRUCTURE_PIECE_67
 MD: bxc/load (Lcbv;Lhp;)Lcba; net/minecraft/world/gen/feature/structure/StructurePiece/load (Lcbv;Lhp;)Lcba;
-MD: bxc/setPieceId (Lbxc;Ljava/lang/String;)Lbxc; net/minecraft/world/gen/feature/structure/StructurePiece/setPieceId (Lbxc;Ljava/lang/String;)Lbxc;
+MD: bxc/a (Lbxc;Ljava/lang/String;)Lbxc; net/minecraft/world/gen/feature/structure/StructurePiece/md_1190034_a (Lbxc;Ljava/lang/String;)Lbxc;
 MD: bxc/<clinit> ()V net/minecraft/world/gen/feature/structure/StructurePiece/<clinit> ()V
 CL: bxd net/minecraft/world/gen/feature/SwampFlower
 MD: bxd/<init> (Ljava/util/function/Function;)V net/minecraft/world/gen/feature/SwampFlower/<init> (Ljava/util/function/Function;)V
@@ -34070,12 +34070,12 @@ MD: bxw/b ()Lbxy$a; net/minecraft/src/ClsBxwGacsjqz/getBxy$a ()Lbxy$a;
 MD: bxw/a (Lcom/mojang/datafixers/types/DynamicOps;)Lcom/mojang/datafixers/Dynamic; net/minecraft/src/ClsBxwGacsjqz/md_3029196_a (Lcom/mojang/datafixers/types/DynamicOps;)Lcom/mojang/datafixers/Dynamic;
 MD: bxw/b (Lcom/mojang/datafixers/types/DynamicOps;)Lcom/mojang/datafixers/Dynamic; net/minecraft/src/ClsBxwGacsjqz/md_4407957_b (Lcom/mojang/datafixers/types/DynamicOps;)Lcom/mojang/datafixers/Dynamic;
 CL: bxx net/minecraft/world/gen/feature/structure/ListPoolElement
-FD: bxx/SINGLE net/minecraft/world/gen/feature/structure/ListPoolElement/LIST_POOL_ELEMENT_0
-FD: bxx/LIST net/minecraft/world/gen/feature/structure/ListPoolElement/LIST_POOL_ELEMENT_1
-FD: bxx/FEATURE net/minecraft/world/gen/feature/structure/ListPoolElement/LIST_POOL_ELEMENT_2
-FD: bxx/EMPTY net/minecraft/world/gen/feature/structure/ListPoolElement/LIST_POOL_ELEMENT_3
-MD: bxx/register (Ljava/lang/String;Lbxx;)Lbxx; net/minecraft/world/gen/feature/structure/ListPoolElement/register (Ljava/lang/String;Lbxx;)Lbxx;
-MD: bxx/lambda$static$0 (Lcom/mojang/datafixers/Dynamic;)Lbxw; net/minecraft/world/gen/feature/structure/ListPoolElement/lambda$static$0 (Lcom/mojang/datafixers/Dynamic;)Lbxw;
+FD: bxx/b net/minecraft/world/gen/feature/structure/ListPoolElement/LIST_POOL_ELEMENT_0
+FD: bxx/c net/minecraft/world/gen/feature/structure/ListPoolElement/LIST_POOL_ELEMENT_1
+FD: bxx/d net/minecraft/world/gen/feature/structure/ListPoolElement/LIST_POOL_ELEMENT_2
+FD: bxx/e net/minecraft/world/gen/feature/structure/ListPoolElement/LIST_POOL_ELEMENT_3
+MD: bxx/a (Ljava/lang/String;Lbxx;)Lbxx; net/minecraft/world/gen/feature/structure/ListPoolElement/md_15158520_a (Ljava/lang/String;Lbxx;)Lbxx;
+MD: bxx/a (Lcom/mojang/datafixers/Dynamic;)Lbxw; net/minecraft/world/gen/feature/structure/ListPoolElement/md_3029196_a (Lcom/mojang/datafixers/Dynamic;)Lbxw;
 MD: bxx/<clinit> ()V net/minecraft/world/gen/feature/structure/ListPoolElement/<clinit> ()V
 CL: bxy net/minecraft/src/ClsBxyBbvixgf
 FD: bxy/a net/minecraft/src/ClsBxyBbvixgf/BXY_0
@@ -35743,14 +35743,14 @@ MD: cbt/b (Lcom/mojang/datafixers/types/DynamicOps;)Lcom/mojang/datafixers/Dynam
 MD: cbt/a ()Lcbu; net/minecraft/src/ClsCbtBnwmomq/md_3767883_a ()Lcbu;
 MD: cbt/a (Lcom/mojang/datafixers/types/DynamicOps;)Lcom/mojang/datafixers/Dynamic; net/minecraft/src/ClsCbtBnwmomq/md_3029196_a (Lcom/mojang/datafixers/types/DynamicOps;)Lcom/mojang/datafixers/Dynamic;
 CL: cbu net/minecraft/src/IfCbuDvorgdt
-FD: cbu/ALWAYS_TRUE_TEST net/minecraft/src/IfCbuDvorgdt/CBU_0
-FD: cbu/BLOCK_TEST net/minecraft/src/IfCbuDvorgdt/CBU_1
-FD: cbu/BLOCKSTATE_TEST net/minecraft/src/IfCbuDvorgdt/CBU_2
-FD: cbu/TAG_TEST net/minecraft/src/IfCbuDvorgdt/CBU_3
-FD: cbu/RANDOM_BLOCK_TEST net/minecraft/src/IfCbuDvorgdt/CBU_4
-FD: cbu/RANDOM_BLOCKSTATE_TEST net/minecraft/src/IfCbuDvorgdt/CBU_5
-MD: cbu/register (Ljava/lang/String;Lcbu;)Lcbu; net/minecraft/src/IfCbuDvorgdt/register (Ljava/lang/String;Lcbu;)Lcbu;
-MD: cbu/lambda$static$0 (Lcom/mojang/datafixers/Dynamic;)Lcbt; net/minecraft/src/IfCbuDvorgdt/lambda$static$0 (Lcom/mojang/datafixers/Dynamic;)Lcbt;
+FD: cbu/b net/minecraft/src/IfCbuDvorgdt/CBU_0
+FD: cbu/c net/minecraft/src/IfCbuDvorgdt/CBU_1
+FD: cbu/d net/minecraft/src/IfCbuDvorgdt/CBU_2
+FD: cbu/e net/minecraft/src/IfCbuDvorgdt/CBU_3
+FD: cbu/f net/minecraft/src/IfCbuDvorgdt/CBU_4
+FD: cbu/g net/minecraft/src/IfCbuDvorgdt/CBU_5
+MD: cbu/a (Ljava/lang/String;Lcbu;)Lcbu; net/minecraft/src/IfCbuDvorgdt/md_15158520_a (Ljava/lang/String;Lcbu;)Lcbu;
+MD: cbu/a (Lcom/mojang/datafixers/Dynamic;)Lcbt; net/minecraft/src/IfCbuDvorgdt/md_3029196_a (Lcom/mojang/datafixers/Dynamic;)Lcbt;
 MD: cbu/<clinit> ()V net/minecraft/src/IfCbuDvorgdt/<clinit> ()V
 CL: cbv net/minecraft/src/ClsCbvEebcwwl
 FD: cbv/a net/minecraft/src/ClsCbvEebcwwl/LOGGER
@@ -35818,15 +35818,15 @@ MD: cbx/a ()Lcby; net/minecraft/src/ClsCbxEqecqjd/md_3767883_a ()Lcby;
 MD: cbx/a (Lcom/mojang/datafixers/types/DynamicOps;)Lcom/mojang/datafixers/Dynamic; net/minecraft/src/ClsCbxEqecqjd/md_3029196_a (Lcom/mojang/datafixers/types/DynamicOps;)Lcom/mojang/datafixers/Dynamic;
 MD: cbx/b (Lcom/mojang/datafixers/types/DynamicOps;)Lcom/mojang/datafixers/Dynamic; net/minecraft/src/ClsCbxEqecqjd/md_13656511_b (Lcom/mojang/datafixers/types/DynamicOps;)Lcom/mojang/datafixers/Dynamic;
 CL: cby net/minecraft/world/gen/feature/structure/processor/JigsawReplacement
-FD: cby/BLOCK_IGNORE net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/JIGSAW_REPLACEMENT_0
-FD: cby/BLOCK_ROT net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/JIGSAW_REPLACEMENT_1
-FD: cby/GRAVITY net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/JIGSAW_REPLACEMENT_2
-FD: cby/JIGSAW_REPLACEMENT net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/JIGSAW_REPLACEMENT_3
-FD: cby/RULE net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/JIGSAW_REPLACEMENT_4
-FD: cby/NOP net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/JIGSAW_REPLACEMENT_5
-MD: cby/register (Ljava/lang/String;Lcby;)Lcby; net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/register (Ljava/lang/String;Lcby;)Lcby;
-MD: cby/lambda$static$1 (Lcom/mojang/datafixers/Dynamic;)Lcbx; net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/lambda$static$1 (Lcom/mojang/datafixers/Dynamic;)Lcbx;
-MD: cby/lambda$static$0 (Lcom/mojang/datafixers/Dynamic;)Lcbx; net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/lambda$static$0 (Lcom/mojang/datafixers/Dynamic;)Lcbx;
+FD: cby/b net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/JIGSAW_REPLACEMENT_0
+FD: cby/c net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/JIGSAW_REPLACEMENT_1
+FD: cby/d net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/JIGSAW_REPLACEMENT_2
+FD: cby/e net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/JIGSAW_REPLACEMENT_3
+FD: cby/f net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/JIGSAW_REPLACEMENT_4
+FD: cby/g net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/JIGSAW_REPLACEMENT_5
+MD: cby/a (Ljava/lang/String;Lcby;)Lcby; net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/md_15158520_a (Ljava/lang/String;Lcby;)Lcby;
+MD: cby/a (Lcom/mojang/datafixers/Dynamic;)Lcbx; net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/md_3029196_a (Lcom/mojang/datafixers/Dynamic;)Lcbx;
+MD: cby/b (Lcom/mojang/datafixers/Dynamic;)Lcbx; net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/md_3029196_b (Lcom/mojang/datafixers/Dynamic;)Lcbx;
 MD: cby/<clinit> ()V net/minecraft/world/gen/feature/structure/processor/JigsawReplacement/<clinit> ()V
 CL: cbz net/minecraft/src/ClsCbzFqemkaj
 FD: cbz/a net/minecraft/src/ClsCbzFqemkaj/list0
@@ -37954,19 +37954,19 @@ MD: chr$a/a (Lcia$a;)Lchr$a; net/minecraft/src/ClsChrBekkwrz$a/md_10675018_a (Lc
 MD: chr$a/b ()Lcia; net/minecraft/src/ClsChrBekkwrz$a/md_3767883_b ()Lcia;
 MD: chr$a/d ()Lcia$a; net/minecraft/src/ClsChrBekkwrz$a/md_3767883_d ()Lcia$a;
 CL: chs net/minecraft/src/IfChsFubfpvd
-FD: chs/ALWAYS_FALSE net/minecraft/src/IfChsFubfpvd/CHS_0
-FD: chs/ALWAYS_TRUE net/minecraft/src/IfChsFubfpvd/CHS_1
+FD: chs/a net/minecraft/src/IfChsFubfpvd/CHS_0
+FD: chs/b net/minecraft/src/IfChsFubfpvd/CHS_1
 MD: chs/expand (Lchi;Ljava/util/function/Consumer;)Z net/minecraft/src/IfChsFubfpvd/expand (Lchi;Ljava/util/function/Consumer;)Z
-MD: chs/and (Lchs;)Lchs; net/minecraft/src/IfChsFubfpvd/and (Lchs;)Lchs;
-MD: chs/or (Lchs;)Lchs; net/minecraft/src/IfChsFubfpvd/md_3029196_or (Lchs;)Lchs;
-MD: chs/lambda$or$3 (Lchs;Lchi;Ljava/util/function/Consumer;)Z net/minecraft/src/IfChsFubfpvd/lambda$or$3 (Lchs;Lchi;Ljava/util/function/Consumer;)Z
-MD: chs/lambda$and$2 (Lchs;Lchi;Ljava/util/function/Consumer;)Z net/minecraft/src/IfChsFubfpvd/lambda$and$2 (Lchs;Lchi;Ljava/util/function/Consumer;)Z
-MD: chs/lambda$static$1 (Lchi;Ljava/util/function/Consumer;)Z net/minecraft/src/IfChsFubfpvd/lambda$static$1 (Lchi;Ljava/util/function/Consumer;)Z
-MD: chs/lambda$static$0 (Lchi;Ljava/util/function/Consumer;)Z net/minecraft/src/IfChsFubfpvd/lambda$static$0 (Lchi;Ljava/util/function/Consumer;)Z
+MD: chs/a (Lchs;)Lchs; net/minecraft/src/IfChsFubfpvd/md_3029196_a (Lchs;)Lchs;
+MD: chs/b (Lchs;)Lchs; net/minecraft/src/IfChsFubfpvd/md_3029196_b (Lchs;)Lchs;
+MD: chs/a (Lchs;Lchi;Ljava/util/function/Consumer;)Z net/minecraft/src/IfChsFubfpvd/md_6888324_a (Lchs;Lchi;Ljava/util/function/Consumer;)Z
+MD: chs/b (Lchs;Lchi;Ljava/util/function/Consumer;)Z net/minecraft/src/IfChsFubfpvd/md_6888324_b (Lchs;Lchi;Ljava/util/function/Consumer;)Z
+MD: chs/a (Lchi;Ljava/util/function/Consumer;)Z net/minecraft/src/IfChsFubfpvd/md_9210486_a (Lchi;Ljava/util/function/Consumer;)Z
+MD: chs/b (Lchi;Ljava/util/function/Consumer;)Z net/minecraft/src/IfChsFubfpvd/md_4744194_b (Lchi;Ljava/util/function/Consumer;)Z
 MD: chs/<clinit> ()V net/minecraft/src/IfChsFubfpvd/<clinit> ()V
 CL: cht net/minecraft/src/ClsChtCwovnvb
-FD: cht/a net/minecraft/src/ClsChtCwovnvb/cias
-FD: cht/b net/minecraft/src/ClsChtCwovnvb/chs
+FD: cht/c net/minecraft/src/ClsChtCwovnvb/cias
+FD: cht/d net/minecraft/src/ClsChtCwovnvb/chs
 MD: cht/<init> ([Lcia;[Lcjt;)V net/minecraft/src/ClsChtCwovnvb/<init> ([Lcia;[Lcjt;)V
 MD: cht/a (Lchm;Ljava/util/function/Function;Ljava/util/Set;Lcjg;)V net/minecraft/src/ClsChtCwovnvb/md_3942596_a (Lchm;Ljava/util/function/Function;Ljava/util/Set;Lcjg;)V
 MD: cht/a ([Lchs;)Lchs; net/minecraft/src/ClsChtCwovnvb/md_6264778_a ([Lchs;)Lchs;
@@ -37986,8 +37986,8 @@ MD: cht$b/a (Lcom/google/gson/JsonObject;Lcom/google/gson/JsonDeserializationCon
 MD: cht$b/b (Lcom/google/gson/JsonObject;Lcom/google/gson/JsonDeserializationContext;[Lcjt;)Lcia; net/minecraft/src/ClsChtCwovnvb$b/md_11012850_b (Lcom/google/gson/JsonObject;Lcom/google/gson/JsonDeserializationContext;[Lcjt;)Lcia;
 MD: cht$b/a (Lcom/google/gson/JsonObject;Lcia;Lcom/google/gson/JsonSerializationContext;)V net/minecraft/src/ClsChtCwovnvb$b/md_14364808_a (Lcom/google/gson/JsonObject;Lcia;Lcom/google/gson/JsonSerializationContext;)V
 CL: chu net/minecraft/src/ClsChuBziddru
-FD: chu/a net/minecraft/src/ClsChuBziddru/IDENTIFIER_0
-FD: chu/f net/minecraft/src/ClsChuBziddru/identifier1
+FD: chu/c net/minecraft/src/ClsChuBziddru/IDENTIFIER_0
+FD: chu/h net/minecraft/src/ClsChuBziddru/identifier1
 MD: chu/<init> (Lpy;II[Lcjt;[Lciq;)V net/minecraft/src/ClsChuBziddru/<init> (Lpy;II[Lcjt;[Lciq;)V
 MD: chu/a (Ljava/util/function/Consumer;Lchi;)V net/minecraft/src/ClsChuBziddru/md_14112797_a (Ljava/util/function/Consumer;Lchi;)V
 MD: chu/a (Lpy;)Lcib$a; net/minecraft/src/ClsChuBziddru/md_3029196_a (Lpy;)Lcib$a;
@@ -38019,7 +38019,7 @@ MD: chw/a ([Lchs;)Lchs; net/minecraft/src/ClsChwFtcjhbd/md_6264778_a ([Lchs;)Lch
 MD: chw/a ([Lchs;Lchi;Ljava/util/function/Consumer;)Z net/minecraft/src/ClsChwFtcjhbd/md_12208618_a ([Lchs;Lchi;Ljava/util/function/Consumer;)Z
 MD: chw/a (Lchs;Lchs;Lchi;Ljava/util/function/Consumer;)Z net/minecraft/src/ClsChwFtcjhbd/md_14685493_a (Lchs;Lchs;Lchi;Ljava/util/function/Consumer;)Z
 CL: chx net/minecraft/src/ClsChxFprarxr
-FD: chx/a net/minecraft/src/ClsChxFprarxr/item
+FD: chx/c net/minecraft/src/ClsChxFprarxr/item
 MD: chx/<init> (Lavn;II[Lcjt;[Lciq;)V net/minecraft/src/ClsChxFprarxr/<init> (Lavn;II[Lcjt;[Lciq;)V
 MD: chx/a (Ljava/util/function/Consumer;Lchi;)V net/minecraft/src/ClsChxFprarxr/md_14112797_a (Ljava/util/function/Consumer;Lchi;)V
 MD: chx/a (Lbap;)Lcib$a; net/minecraft/src/ClsChxFprarxr/md_3029196_a (Lbap;)Lcib$a;
@@ -38052,8 +38052,8 @@ CL: chz net/minecraft/src/IfChzPylhgq
 MD: chz/a (F)I net/minecraft/src/IfChzPylhgq/md_2580079_a (F)I
 MD: chz/a (Ljava/util/function/Consumer;Lchi;)V net/minecraft/src/IfChzPylhgq/md_14112797_a (Ljava/util/function/Consumer;Lchi;)V
 CL: cia net/minecraft/src/ClsCiaBzdbfli
-FD: cia/c net/minecraft/src/ClsCiaBzdbfli/cjts
-FD: cia/a net/minecraft/src/ClsCiaBzdbfli/predicate
+FD: cia/e net/minecraft/src/ClsCiaBzdbfli/cjts
+FD: cia/c net/minecraft/src/ClsCiaBzdbfli/predicate
 MD: cia/<init> ([Lcjt;)V net/minecraft/src/ClsCiaBzdbfli/<init> ([Lcjt;)V
 MD: cia/a (Lchm;Ljava/util/function/Function;Ljava/util/Set;Lcjg;)V net/minecraft/src/ClsCiaBzdbfli/md_3942596_a (Lchm;Ljava/util/function/Function;Ljava/util/Set;Lcjg;)V
 MD: cia/a (Lchi;)Z net/minecraft/src/ClsCiaBzdbfli/md_16122381_a (Lchi;)Z
@@ -38077,11 +38077,11 @@ MD: cia$b/b ()Ljava/lang/Class; net/minecraft/src/ClsCiaBzdbfli$b/getClazz ()Lja
 MD: cia$b/a (Lcom/google/gson/JsonObject;Lcia;Lcom/google/gson/JsonSerializationContext;)V net/minecraft/src/ClsCiaBzdbfli$b/md_14364808_a (Lcom/google/gson/JsonObject;Lcia;Lcom/google/gson/JsonSerializationContext;)V
 MD: cia$b/b (Lcom/google/gson/JsonObject;Lcom/google/gson/JsonDeserializationContext;[Lcjt;)Lcia; net/minecraft/src/ClsCiaBzdbfli$b/md_11012850_b (Lcom/google/gson/JsonObject;Lcom/google/gson/JsonDeserializationContext;[Lcjt;)Lcia;
 CL: cib net/minecraft/src/ClsCibMtiteu
-FD: cib/b net/minecraft/src/ClsCibMtiteu/i0
-FD: cib/d net/minecraft/src/ClsCibMtiteu/i1
-FD: cib/e net/minecraft/src/ClsCibMtiteu/ciqs
-FD: cib/a net/minecraft/src/ClsCibMtiteu/biFunction
-FD: cib/f net/minecraft/src/ClsCibMtiteu/chz
+FD: cib/d net/minecraft/src/ClsCibMtiteu/i0
+FD: cib/f net/minecraft/src/ClsCibMtiteu/i1
+FD: cib/g net/minecraft/src/ClsCibMtiteu/ciqs
+FD: cib/c net/minecraft/src/ClsCibMtiteu/biFunction
+FD: cib/h net/minecraft/src/ClsCibMtiteu/chz
 MD: cib/<init> (II[Lcjt;[Lciq;)V net/minecraft/src/ClsCibMtiteu/<init> (II[Lcjt;[Lciq;)V
 MD: cib/a (Lchm;Ljava/util/function/Function;Ljava/util/Set;Lcjg;)V net/minecraft/src/ClsCibMtiteu/md_3942596_a (Lchm;Ljava/util/function/Function;Ljava/util/Set;Lcjg;)V
 MD: cib/a (Ljava/util/function/Consumer;Lchi;)V net/minecraft/src/ClsCibMtiteu/md_14112797_a (Ljava/util/function/Consumer;Lchi;)V
@@ -38122,7 +38122,7 @@ MD: cib$e/b (Lcom/google/gson/JsonObject;Lcom/google/gson/JsonDeserializationCon
 MD: cib$e/b (Lcom/google/gson/JsonObject;Lcom/google/gson/JsonDeserializationContext;[Lcjt;)Lcia; net/minecraft/src/ClsCibMtiteu$e/md_11012850_b (Lcom/google/gson/JsonObject;Lcom/google/gson/JsonDeserializationContext;[Lcjt;)Lcia;
 MD: cib$e/a (Lcom/google/gson/JsonObject;Lcia;Lcom/google/gson/JsonSerializationContext;)V net/minecraft/src/ClsCibMtiteu$e/md_14364808_a (Lcom/google/gson/JsonObject;Lcia;Lcom/google/gson/JsonSerializationContext;)V
 CL: cic net/minecraft/src/ClsCicGfsicms
-FD: cic/a net/minecraft/src/ClsCicGfsicms/identifier
+FD: cic/c net/minecraft/src/ClsCicGfsicms/identifier
 MD: cic/<init> (Lpy;II[Lcjt;[Lciq;)V net/minecraft/src/ClsCicGfsicms/<init> (Lpy;II[Lcjt;[Lciq;)V
 MD: cic/a (Ljava/util/function/Consumer;Lchi;)V net/minecraft/src/ClsCicGfsicms/md_14112797_a (Ljava/util/function/Consumer;Lchi;)V
 MD: cic/a (Lchm;Ljava/util/function/Function;Ljava/util/Set;Lcjg;)V net/minecraft/src/ClsCicGfsicms/md_3942596_a (Lchm;Ljava/util/function/Function;Ljava/util/Set;Lcjg;)V
@@ -38143,11 +38143,11 @@ MD: cid/<init> ([Lcia;[Lcjt;)V net/minecraft/src/ClsCidGlyqwbk/<init> ([Lcia;[Lc
 MD: cid/a ([Lchs;)Lchs; net/minecraft/src/ClsCidGlyqwbk/md_6264778_a ([Lchs;)Lchs;
 MD: cid/a ([Lchs;Lchi;Ljava/util/function/Consumer;)Z net/minecraft/src/ClsCidGlyqwbk/md_5131083_a ([Lchs;Lchi;Ljava/util/function/Consumer;)Z
 CL: cie net/minecraft/src/ClsCieEpxhgzx
-FD: cie/a net/minecraft/src/ClsCieEpxhgzx/xx
-FD: cie/f net/minecraft/src/ClsCieEpxhgzx/flag
+FD: cie/c net/minecraft/src/ClsCieEpxhgzx/xx
+FD: cie/h net/minecraft/src/ClsCieEpxhgzx/flag
 MD: cie/<init> (Lxx;ZII[Lcjt;[Lciq;)V net/minecraft/src/ClsCieEpxhgzx/<init> (Lxx;ZII[Lcjt;[Lciq;)V
 MD: cie/a (Ljava/util/function/Consumer;Lchi;)V net/minecraft/src/ClsCieEpxhgzx/md_14112797_a (Ljava/util/function/Consumer;Lchi;)V
-MD: cie/a (Lchi;Ljava/util/function/Consumer;)Z net/minecraft/src/ClsCieEpxhgzx/md_12623319_a (Lchi;Ljava/util/function/Consumer;)Z
+MD: cie/a (Lchi;Ljava/util/function/Consumer;)Z net/minecraft/src/ClsCieEpxhgzx/md_9210486_a (Lchi;Ljava/util/function/Consumer;)Z
 MD: cie/expand (Lchi;Ljava/util/function/Consumer;)Z net/minecraft/src/ClsCieEpxhgzx/expand (Lchi;Ljava/util/function/Consumer;)Z
 MD: cie/b (Lxx;)Lcib$a; net/minecraft/src/ClsCieEpxhgzx/md_3029196_b (Lxx;)Lcib$a;
 MD: cie/a (Lxx;II[Lcjt;[Lciq;)Lcib; net/minecraft/src/ClsCieEpxhgzx/md_8191894_a (Lxx;II[Lcjt;[Lciq;)Lcib;
@@ -38749,7 +38749,7 @@ CL: cjk$1 net/minecraft/src/ClsCjkFsxjymn$1
 CL: cjk$a net/minecraft/src/ClsCjkFsxjymn$a
 FD: cjk$a/a net/minecraft/src/ClsCjkFsxjymn$a/list
 MD: cjk$a/<init> ([Lcjt$a;)V net/minecraft/src/ClsCjkFsxjymn$a/<init> ([Lcjt$a;)V
-MD: cjk$a/or (Lcjt$a;)Lcjk$a; net/minecraft/src/ClsCjkFsxjymn$a/md_10675018_or (Lcjt$a;)Lcjk$a;
+MD: cjk$a/a (Lcjt$a;)Lcjk$a; net/minecraft/src/ClsCjkFsxjymn$a/md_10675018_a (Lcjt$a;)Lcjk$a;
 MD: cjk$a/build ()Lcjt; net/minecraft/src/ClsCjkFsxjymn$a/build ()Lcjt;
 CL: cjk$b net/minecraft/src/ClsCjkFsxjymn$b
 MD: cjk$b/<init> ()V net/minecraft/src/ClsCjkFsxjymn$b/<init> ()V
@@ -38902,8 +38902,8 @@ MD: cjs$b/a (Lcom/google/gson/JsonObject;Lbpl;Ljava/lang/Object;)V net/minecraft
 CL: cjt net/minecraft/src/IfCjtGipwhrw
 CL: cjt$a net/minecraft/src/IfCjtGipwhrw$a
 MD: cjt$a/build ()Lcjt; net/minecraft/src/IfCjtGipwhrw$a/build ()Lcjt;
-MD: cjt$a/invert ()Lcjt$a; net/minecraft/src/IfCjtGipwhrw$a/invert ()Lcjt$a;
-MD: cjt$a/or (Lcjt$a;)Lcjk$a; net/minecraft/src/IfCjtGipwhrw$a/md_10675018_or (Lcjt$a;)Lcjk$a;
+MD: cjt$a/a ()Lcjt$a; net/minecraft/src/IfCjtGipwhrw$a/md_3767883_a ()Lcjt$a;
+MD: cjt$a/a (Lcjt$a;)Lcjk$a; net/minecraft/src/IfCjtGipwhrw$a/md_10675018_a (Lcjt$a;)Lcjk$a;
 CL: cjt$b net/minecraft/src/IfCjtGipwhrw$b
 FD: cjt$b/a net/minecraft/src/IfCjtGipwhrw$b/identifier
 FD: cjt$b/b net/minecraft/src/IfCjtGipwhrw$b/clazz
@@ -39250,39 +39250,39 @@ MD: cks/a (Lclb;Lclb;Lckt;Lcky;Lcky;Lcks;[IIII)Z net/minecraft/src/ClsCksGxmrwkc
 MD: cks/a (Lclb;Lckt;Lcky;ILcky;ILcks;I[I[ZIII)Z net/minecraft/src/ClsCksGxmrwkc/md_12193501_a (Lclb;Lckt;Lcky;ILcky;ILcks;I[I[ZIII)Z
 MD: cks/a (Lckt;Lcky;IILcky;IILcks;II[I[ZIII)Z net/minecraft/src/ClsCksGxmrwkc/md_11940464_a (Lckt;Lcky;IILcky;IILcks;II[I[ZIII)Z
 CL: ckt net/minecraft/src/IfCktDglvpze
-FD: ckt/FALSE net/minecraft/src/IfCktDglvpze/CKT_0
-FD: ckt/NOT_OR net/minecraft/src/IfCktDglvpze/CKT_1
-FD: ckt/ONLY_SECOND net/minecraft/src/IfCktDglvpze/CKT_2
-FD: ckt/NOT_FIRST net/minecraft/src/IfCktDglvpze/CKT_3
-FD: ckt/ONLY_FIRST net/minecraft/src/IfCktDglvpze/CKT_4
-FD: ckt/NOT_SECOND net/minecraft/src/IfCktDglvpze/CKT_5
-FD: ckt/NOT_SAME net/minecraft/src/IfCktDglvpze/CKT_6
-FD: ckt/NOT_AND net/minecraft/src/IfCktDglvpze/CKT_7
-FD: ckt/AND net/minecraft/src/IfCktDglvpze/CKT_8
-FD: ckt/SAME net/minecraft/src/IfCktDglvpze/CKT_9
-FD: ckt/SECOND net/minecraft/src/IfCktDglvpze/CKT_10
-FD: ckt/CAUSES net/minecraft/src/IfCktDglvpze/CKT_11
-FD: ckt/FIRST net/minecraft/src/IfCktDglvpze/CKT_12
-FD: ckt/CAUSED_BY net/minecraft/src/IfCktDglvpze/CKT_13
-FD: ckt/OR net/minecraft/src/IfCktDglvpze/CKT_14
-FD: ckt/TRUE net/minecraft/src/IfCktDglvpze/CKT_15
+FD: ckt/a net/minecraft/src/IfCktDglvpze/CKT_0
+FD: ckt/b net/minecraft/src/IfCktDglvpze/CKT_1
+FD: ckt/c net/minecraft/src/IfCktDglvpze/CKT_2
+FD: ckt/d net/minecraft/src/IfCktDglvpze/CKT_3
+FD: ckt/e net/minecraft/src/IfCktDglvpze/CKT_4
+FD: ckt/f net/minecraft/src/IfCktDglvpze/CKT_5
+FD: ckt/g net/minecraft/src/IfCktDglvpze/CKT_6
+FD: ckt/h net/minecraft/src/IfCktDglvpze/CKT_7
+FD: ckt/i net/minecraft/src/IfCktDglvpze/CKT_8
+FD: ckt/j net/minecraft/src/IfCktDglvpze/CKT_9
+FD: ckt/k net/minecraft/src/IfCktDglvpze/CKT_10
+FD: ckt/l net/minecraft/src/IfCktDglvpze/CKT_11
+FD: ckt/m net/minecraft/src/IfCktDglvpze/CKT_12
+FD: ckt/n net/minecraft/src/IfCktDglvpze/CKT_13
+FD: ckt/o net/minecraft/src/IfCktDglvpze/CKT_14
+FD: ckt/p net/minecraft/src/IfCktDglvpze/CKT_15
 MD: ckt/apply (ZZ)Z net/minecraft/src/IfCktDglvpze/apply (ZZ)Z
-MD: ckt/lambda$static$15 (ZZ)Z net/minecraft/src/IfCktDglvpze/lambda$static$15 (ZZ)Z
-MD: ckt/lambda$static$14 (ZZ)Z net/minecraft/src/IfCktDglvpze/lambda$static$14 (ZZ)Z
-MD: ckt/lambda$static$13 (ZZ)Z net/minecraft/src/IfCktDglvpze/lambda$static$13 (ZZ)Z
-MD: ckt/lambda$static$12 (ZZ)Z net/minecraft/src/IfCktDglvpze/lambda$static$12 (ZZ)Z
-MD: ckt/lambda$static$11 (ZZ)Z net/minecraft/src/IfCktDglvpze/lambda$static$11 (ZZ)Z
-MD: ckt/lambda$static$10 (ZZ)Z net/minecraft/src/IfCktDglvpze/lambda$static$10 (ZZ)Z
-MD: ckt/lambda$static$9 (ZZ)Z net/minecraft/src/IfCktDglvpze/lambda$static$9 (ZZ)Z
-MD: ckt/lambda$static$8 (ZZ)Z net/minecraft/src/IfCktDglvpze/lambda$static$8 (ZZ)Z
-MD: ckt/lambda$static$7 (ZZ)Z net/minecraft/src/IfCktDglvpze/lambda$static$7 (ZZ)Z
-MD: ckt/lambda$static$6 (ZZ)Z net/minecraft/src/IfCktDglvpze/lambda$static$6 (ZZ)Z
-MD: ckt/lambda$static$5 (ZZ)Z net/minecraft/src/IfCktDglvpze/lambda$static$5 (ZZ)Z
-MD: ckt/lambda$static$4 (ZZ)Z net/minecraft/src/IfCktDglvpze/lambda$static$4 (ZZ)Z
-MD: ckt/lambda$static$3 (ZZ)Z net/minecraft/src/IfCktDglvpze/lambda$static$3 (ZZ)Z
-MD: ckt/lambda$static$2 (ZZ)Z net/minecraft/src/IfCktDglvpze/lambda$static$2 (ZZ)Z
-MD: ckt/lambda$static$1 (ZZ)Z net/minecraft/src/IfCktDglvpze/lambda$static$1 (ZZ)Z
-MD: ckt/lambda$static$0 (ZZ)Z net/minecraft/src/IfCktDglvpze/lambda$static$0 (ZZ)Z
+MD: ckt/a (ZZ)Z net/minecraft/src/IfCktDglvpze/md_13237749_a (ZZ)Z
+MD: ckt/b (ZZ)Z net/minecraft/src/IfCktDglvpze/md_3250744_b (ZZ)Z
+MD: ckt/c (ZZ)Z net/minecraft/src/IfCktDglvpze/md_3250744_c (ZZ)Z
+MD: ckt/d (ZZ)Z net/minecraft/src/IfCktDglvpze/md_12874636_d (ZZ)Z
+MD: ckt/e (ZZ)Z net/minecraft/src/IfCktDglvpze/md_3250744_e (ZZ)Z
+MD: ckt/f (ZZ)Z net/minecraft/src/IfCktDglvpze/md_12874636_f (ZZ)Z
+MD: ckt/g (ZZ)Z net/minecraft/src/IfCktDglvpze/md_3250744_g (ZZ)Z
+MD: ckt/h (ZZ)Z net/minecraft/src/IfCktDglvpze/md_3250744_h (ZZ)Z
+MD: ckt/i (ZZ)Z net/minecraft/src/IfCktDglvpze/md_3250744_i (ZZ)Z
+MD: ckt/j (ZZ)Z net/minecraft/src/IfCktDglvpze/md_3250744_j (ZZ)Z
+MD: ckt/k (ZZ)Z net/minecraft/src/IfCktDglvpze/md_3250744_k (ZZ)Z
+MD: ckt/l (ZZ)Z net/minecraft/src/IfCktDglvpze/md_3250744_l (ZZ)Z
+MD: ckt/m (ZZ)Z net/minecraft/src/IfCktDglvpze/md_3250744_m (ZZ)Z
+MD: ckt/n (ZZ)Z net/minecraft/src/IfCktDglvpze/md_3250744_n (ZZ)Z
+MD: ckt/o (ZZ)Z net/minecraft/src/IfCktDglvpze/md_3250744_o (ZZ)Z
+MD: ckt/p (ZZ)Z net/minecraft/src/IfCktDglvpze/md_8771457_p (ZZ)Z
 MD: ckt/<clinit> ()V net/minecraft/src/IfCktDglvpze/<clinit> ()V
 CL: cku net/minecraft/src/IfCkuDosbxvt
 FD: cku/a net/minecraft/src/IfCkuDosbxvt/CKU

@@ -5,7 +5,7 @@ net/minecraft/crash/CrashReportCategory$a
 net/minecraft/src/IfDFqpmmmh
 net/minecraft/src/ClsEFwkvcug
 net/minecraft/src/ClsFFwkvcug
-net/minecraft/src/ClsGEeuugyq
+net/minecraft/src/ClsGDzmdqof
 net/minecraft/src/ClsJGawhwrq
 net/minecraft/src/ClsKGjtfsqv
 net/minecraft/src/ClsLBjvtamc
@@ -1102,7 +1102,7 @@ net/minecraft/src/IfAeiBffbets
 net/minecraft/src/IfAejDoiiqkd
 net/minecraft/src/IfAekDyrienr
 net/minecraft/src/ClsAelBhxmlhn
-net/minecraft/src/ClsAeoFhkqvoc
+net/minecraft/src/ClsAeoGolfrbr
 net/minecraft/src/ClsAeqCaubgko
 net/minecraft/client/gui/menu/world/Optimizer
 net/minecraft/world/BossInfo
