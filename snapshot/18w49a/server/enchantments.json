@@ -1,0 +1,261 @@
+{
+  "aqua_affinity": {
+    "class": "net/minecraft/enchantment/AquaAffinity",
+    "rarity": "rare",
+    "minEnchantability": "1",
+    "maxEnchantability": "this.getMinEnchantability(level) + 40",
+    "maxLevel": "1"
+  },
+  "bane_of_arthropods": {
+    "class": "net/minecraft/enchantment/DamageBonus",
+    "rarity": "uncommon",
+    "minEnchantability": "DamageBonus.IS_0[this.i] + (level - 1) * DamageBonus.IS_1[this.i]",
+    "maxEnchantability": "this.getMinEnchantability(level) + DamageBonus.IS_2[this.i]",
+    "maxLevel": "5"
+  },
+  "binding_curse": {
+    "class": "net/minecraft/enchantment/BindingCurse",
+    "rarity": "very_rare",
+    "minEnchantability": "25",
+    "maxEnchantability": "50",
+    "maxLevel": "1"
+  },
+  "blast_protection": {
+    "class": "net/minecraft/enchantment/Protection",
+    "rarity": "rare",
+    "minEnchantability": "this.type.getI0() + (level - 1) * this.type.getI1()",
+    "maxEnchantability": "this.getMinEnchantability(level) + this.type.getI1()",
+    "maxLevel": "4"
+  },
+  "channeling": {
+    "class": "net/minecraft/enchantment/Channeling",
+    "rarity": "very_rare",
+    "minEnchantability": "25",
+    "maxEnchantability": "50",
+    "maxLevel": "1"
+  },
+  "depth_strider": {
+    "class": "net/minecraft/enchantment/DepthStrider",
+    "rarity": "rare",
+    "minEnchantability": "level * 10",
+    "maxEnchantability": "this.getMinEnchantability(level) + 15",
+    "maxLevel": "3"
+  },
+  "efficiency": {
+    "class": "net/minecraft/enchantment/Efficiency",
+    "rarity": "common",
+    "minEnchantability": "1 + 10 * (level - 1)",
+    "maxEnchantability": "this.getMinEnchantability(level) + 50",
+    "maxLevel": "5"
+  },
+  "feather_falling": {
+    "class": "net/minecraft/enchantment/Protection",
+    "rarity": "uncommon",
+    "minEnchantability": "this.type.getI0() + (level - 1) * this.type.getI1()",
+    "maxEnchantability": "this.getMinEnchantability(level) + this.type.getI1()",
+    "maxLevel": "4"
+  },
+  "fire_aspect": {
+    "class": "net/minecraft/enchantment/FireAspect",
+    "rarity": "rare",
+    "minEnchantability": "10 + 20 * (level - 1)",
+    "maxEnchantability": "this.getMinEnchantability(level) + 50",
+    "maxLevel": "2"
+  },
+  "fire_protection": {
+    "class": "net/minecraft/enchantment/Protection",
+    "rarity": "uncommon",
+    "minEnchantability": "this.type.getI0() + (level - 1) * this.type.getI1()",
+    "maxEnchantability": "this.getMinEnchantability(level) + this.type.getI1()",
+    "maxLevel": "4"
+  },
+  "flame": {
+    "class": "net/minecraft/enchantment/Flame",
+    "rarity": "rare",
+    "minEnchantability": "20",
+    "maxEnchantability": "50",
+    "maxLevel": "1"
+  },
+  "fortune": {
+    "class": "net/minecraft/enchantment/LootBonus",
+    "rarity": "rare",
+    "minEnchantability": "15 + (level - 1) * 9",
+    "maxEnchantability": "this.getMinEnchantability(level) + 50",
+    "maxLevel": "3"
+  },
+  "frost_walker": {
+    "class": "net/minecraft/enchantment/FrostWalker",
+    "rarity": "rare",
+    "minEnchantability": "level * 10",
+    "maxEnchantability": "this.getMinEnchantability(level) + 15",
+    "maxLevel": "2"
+  },
+  "impaling": {
+    "class": "net/minecraft/enchantment/Impaling",
+    "rarity": "rare",
+    "minEnchantability": "1 + (level - 1) * 8",
+    "maxEnchantability": "this.getMinEnchantability(level) + 20",
+    "maxLevel": "5"
+  },
+  "infinity": {
+    "class": "net/minecraft/enchantment/Infinity",
+    "rarity": "very_rare",
+    "minEnchantability": "20",
+    "maxEnchantability": "50",
+    "maxLevel": "1"
+  },
+  "knockback": {
+    "class": "net/minecraft/enchantment/Knockback",
+    "rarity": "uncommon",
+    "minEnchantability": "5 + 20 * (level - 1)",
+    "maxEnchantability": "this.getMinEnchantability(level) + 50",
+    "maxLevel": "2"
+  },
+  "looting": {
+    "class": "net/minecraft/enchantment/LootBonus",
+    "rarity": "rare",
+    "minEnchantability": "15 + (level - 1) * 9",
+    "maxEnchantability": "this.getMinEnchantability(level) + 50",
+    "maxLevel": "3"
+  },
+  "loyalty": {
+    "class": "net/minecraft/enchantment/Loyalty",
+    "rarity": "uncommon",
+    "minEnchantability": "5 + level * 7",
+    "maxEnchantability": "50",
+    "maxLevel": "3"
+  },
+  "luck_of_the_sea": {
+    "class": "net/minecraft/enchantment/LootBonus",
+    "rarity": "rare",
+    "minEnchantability": "15 + (level - 1) * 9",
+    "maxEnchantability": "this.getMinEnchantability(level) + 50",
+    "maxLevel": "3"
+  },
+  "lure": {
+    "class": "net/minecraft/enchantment/Lure",
+    "rarity": "rare",
+    "minEnchantability": "15 + (level - 1) * 9",
+    "maxEnchantability": "this.getMinEnchantability(level) + 50",
+    "maxLevel": "3"
+  },
+  "mending": {
+    "class": "net/minecraft/enchantment/Mending",
+    "rarity": "rare",
+    "minEnchantability": "level * 25",
+    "maxEnchantability": "this.getMinEnchantability(level) + 50",
+    "maxLevel": "1"
+  },
+  "multishot": {
+    "class": "net/minecraft/enchantment/Multishot",
+    "rarity": "rare",
+    "minEnchantability": "20",
+    "maxEnchantability": "50",
+    "maxLevel": "1"
+  },
+  "piercing": {
+    "class": "net/minecraft/enchantment/Piercing",
+    "rarity": "common",
+    "minEnchantability": "1 + (level - 1) * 10",
+    "maxEnchantability": "50",
+    "maxLevel": "4"
+  },
+  "power": {
+    "class": "net/minecraft/enchantment/Power",
+    "rarity": "common",
+    "minEnchantability": "1 + (level - 1) * 10",
+    "maxEnchantability": "this.getMinEnchantability(level) + 15",
+    "maxLevel": "5"
+  },
+  "projectile_protection": {
+    "class": "net/minecraft/enchantment/Protection",
+    "rarity": "uncommon",
+    "minEnchantability": "this.type.getI0() + (level - 1) * this.type.getI1()",
+    "maxEnchantability": "this.getMinEnchantability(level) + this.type.getI1()",
+    "maxLevel": "4"
+  },
+  "protection": {
+    "class": "net/minecraft/enchantment/Protection",
+    "rarity": "common",
+    "minEnchantability": "this.type.getI0() + (level - 1) * this.type.getI1()",
+    "maxEnchantability": "this.getMinEnchantability(level) + this.type.getI1()",
+    "maxLevel": "4"
+  },
+  "punch": {
+    "class": "net/minecraft/enchantment/Punch",
+    "rarity": "rare",
+    "minEnchantability": "12 + (level - 1) * 20",
+    "maxEnchantability": "this.getMinEnchantability(level) + 25",
+    "maxLevel": "2"
+  },
+  "quick_charge": {
+    "class": "net/minecraft/enchantment/QuickCharge",
+    "rarity": "uncommon",
+    "minEnchantability": "12 + (level - 1) * 20",
+    "maxEnchantability": "50",
+    "maxLevel": "3"
+  },
+  "respiration": {
+    "class": "net/minecraft/enchantment/Respiration",
+    "rarity": "rare",
+    "minEnchantability": "10 * level",
+    "maxEnchantability": "this.getMinEnchantability(level) + 30",
+    "maxLevel": "3"
+  },
+  "riptide": {
+    "class": "net/minecraft/enchantment/Riptide",
+    "rarity": "rare",
+    "minEnchantability": "10 + level * 7",
+    "maxEnchantability": "50",
+    "maxLevel": "3"
+  },
+  "sharpness": {
+    "class": "net/minecraft/enchantment/DamageBonus",
+    "rarity": "common",
+    "minEnchantability": "DamageBonus.IS_0[this.i] + (level - 1) * DamageBonus.IS_1[this.i]",
+    "maxEnchantability": "this.getMinEnchantability(level) + DamageBonus.IS_2[this.i]",
+    "maxLevel": "5"
+  },
+  "silk_touch": {
+    "class": "net/minecraft/enchantment/SilkTouch",
+    "rarity": "very_rare",
+    "minEnchantability": "15",
+    "maxEnchantability": "this.getMinEnchantability(level) + 50",
+    "maxLevel": "1"
+  },
+  "smite": {
+    "class": "net/minecraft/enchantment/DamageBonus",
+    "rarity": "uncommon",
+    "minEnchantability": "DamageBonus.IS_0[this.i] + (level - 1) * DamageBonus.IS_1[this.i]",
+    "maxEnchantability": "this.getMinEnchantability(level) + DamageBonus.IS_2[this.i]",
+    "maxLevel": "5"
+  },
+  "sweeping": {
+    "class": "net/minecraft/enchantment/Sweeping",
+    "rarity": "rare",
+    "minEnchantability": "5 + (level - 1) * 9",
+    "maxEnchantability": "this.getMinEnchantability(level) + 15",
+    "maxLevel": "3"
+  },
+  "thorns": {
+    "class": "net/minecraft/enchantment/Thorns",
+    "rarity": "very_rare",
+    "minEnchantability": "10 + 20 * (level - 1)",
+    "maxEnchantability": "this.getMinEnchantability(level) + 50",
+    "maxLevel": "3"
+  },
+  "unbreaking": {
+    "class": "net/minecraft/enchantment/Unbreaking",
+    "rarity": "uncommon",
+    "minEnchantability": "5 + (level - 1) * 8",
+    "maxEnchantability": "this.getMinEnchantability(level) + 50",
+    "maxLevel": "3"
+  },
+  "vanishing_curse": {
+    "class": "net/minecraft/enchantment/VanishingCurse",
+    "rarity": "very_rare",
+    "minEnchantability": "25",
+    "maxEnchantability": "50",
+    "maxLevel": "1"
+  }
+}
