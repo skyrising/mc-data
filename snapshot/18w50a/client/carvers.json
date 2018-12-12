@@ -1,0 +1,17 @@
+{
+  "canyon": {
+    "class": "net.minecraft.world.gen.carving.Canyon"
+  },
+  "cave": {
+    "class": "net.minecraft.world.gen.carving.Cave"
+  },
+  "hell_cave": {
+    "class": "net.minecraft.world.gen.carving.HellCave"
+  },
+  "underwater_canyon": {
+    "class": "net.minecraft.world.gen.carving.UnderwaterCanyon"
+  },
+  "underwater_cave": {
+    "class": "net.minecraft.world.gen.carving.UnderwaterCave"
+  }
+}
